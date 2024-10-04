@@ -1,0 +1,23 @@
+{
+  "name": "KelaketIMDBAssist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "getdata": "node movies.js & node series.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaNarie/html-extract-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaNarie/html-extract-data/issues"
+  },
+  "homepage": "https://github.com/ThaNarie/html-extract-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "html-extract-data": "^1.2.3"
+  }
+}
