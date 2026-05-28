@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 async function scrapeTop250Series() {
-    console.log('🚀 Launching browser...');
+    console.log('🚀 Launching browser for Series...');
     const browser = await chromium.launch({ headless: true });
 
     const context = await browser.newContext({
@@ -15,13 +15,12 @@ async function scrapeTop250Series() {
     });
 
     const page = await context.newPage();
-
-    // مثل نسخه فیلم‌ها، count=250 اضافه شده
     const url = 'https://www.imdb.com/chart/toptv/?count=250';
 
     try {
         console.log(`Navigating to ${url}`);
-        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+        // استفاده از domcontentloaded برای پایداری بیشتر
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
         await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
 
@@ -55,10 +54,6 @@ async function scrapeTop250Series() {
                 const ratingEl = element.querySelector('.ipc-rating-star--rating');
                 if (ratingEl) {
                     rating = parseFloat(ratingEl.textContent.trim());
-                } else {
-                    const allText = element.textContent || '';
-                    const ratingMatch = allText.match(/(\d\.\d)\s*\(/);
-                    if (ratingMatch) rating = parseFloat(ratingMatch[1]);
                 }
 
                 const href = linkEl ? linkEl.getAttribute('href') : null;
@@ -68,23 +63,12 @@ async function scrapeTop250Series() {
                 const idMatch = cleanHref ? cleanHref.match(/tt\d+/) : null;
                 const id = idMatch ? idMatch[0] : null;
 
-                let image = imgEl
-                    ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src'))
-                    : null;
-
+                let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
                 if (image) {
                     image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
                 }
 
-                return {
-                    rank,
-                    title,
-                    year,
-                    rate: rating,
-                    url: imdbUrl,
-                    image,
-                    id
-                };
+                return { rank, title, year, rate: rating, url: imdbUrl, image, id };
             }).filter(item => item.title && item.url);
         });
 
@@ -92,15 +76,15 @@ async function scrapeTop250Series() {
 
         if (seriesData.length > 200) {
             fs.writeFileSync('top250series.json', JSON.stringify(seriesData, null, 2), 'utf8');
-            console.log('✅ File saved: top250movies.json');
+            console.log('✅ File saved: top250series.json');
         } else {
-            console.error('❌ Scrape failed or returned too few items. File was not updated.');
+            console.error('❌ Scrape failed or returned too few items.');
             process.exit(1);
         }
-        console.log('✅ Data saved to top250series.json');
 
     } catch (error) {
         console.error('❌ An error occurred:', error);
+        process.exit(1);
     } finally {
         console.log('Closing browser...');
         await browser.close();
@@ -116,7 +100,6 @@ async function autoScroll(page) {
                 const scrollHeight = document.body.scrollHeight;
                 window.scrollBy(0, distance);
                 totalHeight += distance;
-
                 if (totalHeight >= scrollHeight) {
                     clearInterval(timer);
                     resolve();

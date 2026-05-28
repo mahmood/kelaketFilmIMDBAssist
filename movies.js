@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 
 async function scrapeTop250Movies() {
-    console.log('🚀 Launching browser...');
+    console.log('🚀 Launching browser for Movies...');
     const browser = await chromium.launch({ headless: true });
 
     const context = await browser.newContext({
@@ -15,16 +15,15 @@ async function scrapeTop250Movies() {
     });
 
     const page = await context.newPage();
-    
-    // اضافه کردن count=250 برای مجبور کردن IMDb به نمایش تمام لیست در یک صفحه
     const url = 'https://www.imdb.com/chart/top/?count=250';
 
     console.log(`Navigating to ${url}`);
 
     try {
-        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+        // تغییر به domcontentloaded برای جلوگیری از Timeout در گیت‌هاب
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-        // اطمینان از اینکه لیست لود شده است
+        // منتظر ماندن برای لود شدن حداقل یک آیتم از لیست
         await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
 
         console.log('Scrolling to load all 250 posters...');
@@ -32,7 +31,7 @@ async function scrapeTop250Movies() {
 
         const items = page.locator('li.ipc-metadata-list-summary-item');
         const count = await items.count();
-        console.log(`Found ${count} elements on page.`);
+        console.log(`Found ${count} elements on page. Starting extraction...`);
 
         const moviesData = await items.evaluateAll((nodes) => {
             return nodes.map((element, index) => {
@@ -44,7 +43,6 @@ async function scrapeTop250Movies() {
                 const metaEls = element.querySelectorAll('.cli-title-metadata-item');
 
                 const fullTitle = safeText(titleEl) || '';
-                // جدا کردن رتبه از عنوان (مثلا "1. The Shawshank Redemption")
                 const rankMatch = fullTitle.match(/^(\d+)\.\s*(.*)$/);
 
                 const rank = rankMatch ? parseInt(rankMatch[1], 10) : index + 1;
@@ -69,26 +67,15 @@ async function scrapeTop250Movies() {
 
                 let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
                 if (image) {
-                    // تبدیل به کیفیت بالا
                     image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
                 }
 
-                return {
-                    rank,
-                    title,
-                    year,
-                    rate: rating,
-                    url: imdbUrl,
-                    image,
-                    id
-                };
+                return { rank, title, year, rate: rating, url: imdbUrl, image, id };
             }).filter(item => item.title && item.url);
         });
 
         console.log(`✅ Successfully extracted ${moviesData.length} movies.`);
         
-        // fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
-
         if (moviesData.length > 200) {
             fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
             console.log('✅ File saved: top250movies.json');
@@ -97,12 +84,9 @@ async function scrapeTop250Movies() {
             process.exit(1);
         }
 
-
-
-        console.log('✅ File saved: top250movies.json');
-
     } catch (error) {
         console.error('❌ Error:', error);
+        process.exit(1);
     } finally {
         await browser.close();
     }
@@ -112,12 +96,11 @@ async function autoScroll(page) {
     await page.evaluate(async () => {
         await new Promise((resolve) => {
             let totalHeight = 0;
-            const distance = 800; // سرعت اسکرول بیشتر برای ۲۵۰ مورد
+            const distance = 800;
             const timer = setInterval(() => {
                 const scrollHeight = document.body.scrollHeight;
                 window.scrollBy(0, distance);
                 totalHeight += distance;
-
                 if (totalHeight >= scrollHeight) {
                     clearInterval(timer);
                     resolve();
