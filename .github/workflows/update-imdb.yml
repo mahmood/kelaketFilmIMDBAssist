@@ -54,17 +54,23 @@ jobs:
           git status --porcelain=v1
           git diff --name-only
 
-      - name: Commit & push if changed
+      - name: Commit and Push if Changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -A
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add top250movies.json top250series.json
+          
+          # فقط اگر تغییری وجود داشت کامیت کن
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update IMDb data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            
+            # حل مشکل Rejected: ابتدا تغییرات احتمالی جدید را می‌گیرد و کامیت ما را به بالا منتقل می‌کند
+            git pull --rebase origin main
+            
+            git push origin main
           fi
-
-          git commit -m "chore: auto-update IMDb data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-          git push
