@@ -6,7 +6,7 @@
   "scripts": {
     "update": "node movies.js && node series.js",
     "movies": "node movies.js",
-    "seris": " node series.js"
+    "series": " node series.js"
   },
   "repository": {
     "type": "git",
