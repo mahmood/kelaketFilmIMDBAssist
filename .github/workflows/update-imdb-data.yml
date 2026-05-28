@@ -40,6 +40,7 @@ jobs:
           node movies.js
           node series.js
           node boxoffice.js
+          node upcoming.js
 
       - name: Collect run stats
         id: stats
@@ -49,6 +50,7 @@ jobs:
           MOVIES_FILE="top250movies.json"
           SERIES_FILE="top250series.json"
           BOXOFFICE_FILE="boxoffice.json"
+          CALENDAR_FILE="upcoming.json"
 
           if [ ! -f "$MOVIES_FILE" ]; then
             echo "Movies file not found: $MOVIES_FILE" >&2
@@ -62,32 +64,40 @@ jobs:
             echo "BoxOffice file not found: $BOXOFFICE_FILE" >&2
             exit 1
           fi
+          if [ ! -f "$CALENDAR_FILE" ]; then
+            echo "Calendar file not found: $CALENDAR_FILE" >&2
+            exit 1
+          fi
 
           MOVIES_BYTES="$(wc -c < "$MOVIES_FILE" | tr -d ' ')"
           SERIES_BYTES="$(wc -c < "$SERIES_FILE" | tr -d ' ')"
           BOXOFFICE_BYTES="$(wc -c < "$BOXOFFICE_FILE" | tr -d ' ')"
+          CALENDAR_BYTES="$(wc -c < "$CALENDAR_FILE" | tr -d ' ')"
 
           MOVIES_COUNT="$(node -e "const a=require('./${MOVIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
           SERIES_COUNT="$(node -e "const a=require('./${SERIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
           BOXOFFICE_COUNT="$(node -e "const a=require('./${BOXOFFICE_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
+          CALENDAR_COUNT="$(node -e "const a=require('./${CALENDAR_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
+
+          CALENDAR_MOVIES_COUNT="$(node -e "const a=require('./${CALENDAR_FILE}'); console.log(Array.isArray(a)?a.filter(x=>x?.type==='movie').length:0)")"
+          CALENDAR_SERIES_COUNT="$(node -e "const a=require('./${CALENDAR_FILE}'); console.log(Array.isArray(a)?a.filter(x=>x?.type==='series').length:0)")"
 
           MOVIES_TOP="$(node -e "const a=require('./${MOVIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
           SERIES_TOP="$(node -e "const a=require('./${SERIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
-
-          BOXOFFICE_SUMMARY="$(node -e "const a=require('./${BOXOFFICE_FILE}'); if(!Array.isArray(a)){console.log('N/A'); process.exit(0)} const lines=a.map(x=>{const rank=(x.rank ?? '-'); const title=(x.title ?? 'N/A'); const weekend=(x.weekend ?? 'N/A'); const gross=(x.gross ?? 'N/A'); const weeks=(x.weeks ?? 'N/A'); return String(rank) + '. ' + title + ' - Weekend: ' + weekend + ' | Gross: ' + gross + ' | Weeks: ' + weeks;}); console.log(lines.join('\n'))")"
 
           {
             echo "movies_bytes=${MOVIES_BYTES}"
             echo "series_bytes=${SERIES_BYTES}"
             echo "boxoffice_bytes=${BOXOFFICE_BYTES}"
+            echo "calendar_bytes=${CALENDAR_BYTES}"
             echo "movies_count=${MOVIES_COUNT}"
             echo "series_count=${SERIES_COUNT}"
             echo "boxoffice_count=${BOXOFFICE_COUNT}"
+            echo "calendar_count=${CALENDAR_COUNT}"
+            echo "calendar_movies_count=${CALENDAR_MOVIES_COUNT}"
+            echo "calendar_series_count=${CALENDAR_SERIES_COUNT}"
             echo "movies_top=${MOVIES_TOP}"
             echo "series_top=${SERIES_TOP}"
-            echo "boxoffice_summary<<EOF"
-            echo "${BOXOFFICE_SUMMARY}"
-            echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
       - name: Commit & Push (if changed)
@@ -98,7 +108,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add top250movies.json top250series.json boxoffice.json
+          git add top250movies.json top250series.json boxoffice.json upcoming.json
 
           if git diff --staged --quiet; then
             echo "No changes."
@@ -122,44 +132,50 @@ jobs:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
           RUN_ID: ${{ github.run_id }}
-          RUN_NUMBER: ${{ github.run_number }}
           ACTOR: ${{ github.actor }}
           EVENT_NAME: ${{ github.event_name }}
-          WORKFLOW: ${{ github.workflow }}
-          JOB: ${{ github.job }}
           SHA: ${{ github.sha }}
           MOVIES_COUNT: ${{ steps.stats.outputs.movies_count }}
           SERIES_COUNT: ${{ steps.stats.outputs.series_count }}
           BOXOFFICE_COUNT: ${{ steps.stats.outputs.boxoffice_count }}
+          CALENDAR_COUNT: ${{ steps.stats.outputs.calendar_count }}
+          CALENDAR_MOVIES_COUNT: ${{ steps.stats.outputs.calendar_movies_count }}
+          CALENDAR_SERIES_COUNT: ${{ steps.stats.outputs.calendar_series_count }}
           MOVIES_BYTES: ${{ steps.stats.outputs.movies_bytes }}
           SERIES_BYTES: ${{ steps.stats.outputs.series_bytes }}
           BOXOFFICE_BYTES: ${{ steps.stats.outputs.boxoffice_bytes }}
+          CALENDAR_BYTES: ${{ steps.stats.outputs.calendar_bytes }}
           MOVIES_TOP: ${{ steps.stats.outputs.movies_top }}
           SERIES_TOP: ${{ steps.stats.outputs.series_top }}
-          BOXOFFICE_SUMMARY: ${{ steps.stats.outputs.boxoffice_summary }}
         run: |
           set -euo pipefail
           RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
           COMMIT_URL="https://github.com/${REPO}/commit/${SHA}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n%s\n\n%s\n%s\n\n%s\n%s\n%s\n' \
-            "🎬✅ IMDb Update: SUCCESS" \
-            "🕒 Time (UTC): ${NOW}" \
-            "📦 Repo: ${REPO}" \
-            "🌿 Branch: ${BRANCH}" \
-            "👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}" \
-            "🎞️ Movies: ${MOVIES_COUNT} items | ${MOVIES_BYTES} bytes" \
-            "📺 Series: ${SERIES_COUNT} items | ${SERIES_BYTES} bytes" \
-            "💰 Box Office: ${BOXOFFICE_COUNT} items | ${BOXOFFICE_BYTES} bytes" \
-            "🏆 #1 Movie: ${MOVIES_TOP}" \
-            "🏆 #1 Series: ${SERIES_TOP}" \
-            "💵 Box Office List:" \
-            "${BOXOFFICE_SUMMARY}" \
-            "📝 Commit pushed: ${COMMITTED}" \
-            "🔗 Run: ${RUN_URL}" \
-            "🔎 Commit: ${COMMIT_URL}")"
+          MSG="$(cat <<EOF
+🎬✅ IMDb Update: SUCCESS
 
+🕒 Time (UTC): ${NOW}
+📦 Repo: ${REPO}
+🌿 Branch: ${BRANCH}
+👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}
+
+🎞️ Movies Top250: ${MOVIES_COUNT} items | ${MOVIES_BYTES} bytes
+📺 Series Top250: ${SERIES_COUNT} items | ${SERIES_BYTES} bytes
+💰 Box Office: ${BOXOFFICE_COUNT} items | ${BOXOFFICE_BYTES} bytes
+🗓️ Calendar: ${CALENDAR_COUNT} items | ${CALENDAR_BYTES} bytes
+   ├─ Movies: ${CALENDAR_MOVIES_COUNT}
+   └─ Series: ${CALENDAR_SERIES_COUNT}
+
+🏆 #1 Movie: ${MOVIES_TOP}
+🏆 #1 Series: ${SERIES_TOP}
+
+📝 Commit pushed: ${COMMITTED}
+🔗 Run: ${RUN_URL}
+🔎 Commit: ${COMMIT_URL}
+EOF
+)"
           curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
             --data-urlencode text="$MSG" \
@@ -173,11 +189,8 @@ jobs:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
           RUN_ID: ${{ github.run_id }}
-          RUN_NUMBER: ${{ github.run_number }}
           ACTOR: ${{ github.actor }}
           EVENT_NAME: ${{ github.event_name }}
-          WORKFLOW: ${{ github.workflow }}
-          JOB: ${{ github.job }}
           SHA: ${{ github.sha }}
         run: |
           set -euo pipefail
@@ -185,15 +198,18 @@ jobs:
           COMMIT_URL="https://github.com/${REPO}/commit/${SHA}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n' \
-            "🎬❌ IMDb Update: FAILED" \
-            "🕒 Time (UTC): ${NOW}" \
-            "📦 Repo: ${REPO}" \
-            "🌿 Branch: ${BRANCH}" \
-            "👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}" \
-            "🔗 Logs: ${RUN_URL}" \
-            "🔎 Commit: ${COMMIT_URL}")"
+          MSG="$(cat <<EOF
+🎬❌ IMDb Update: FAILED
 
+🕒 Time (UTC): ${NOW}
+📦 Repo: ${REPO}
+🌿 Branch: ${BRANCH}
+👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}
+
+🔗 Logs: ${RUN_URL}
+🔎 Commit: ${COMMIT_URL}
+EOF
+)"
           curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
             --data-urlencode text="$MSG" \
