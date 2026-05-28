@@ -1,18 +1,19 @@
-name: Daily IMDb Update Action
+name: Daily IMDb Update
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: "0 3 * * *" # 03:00 UTC daily
   workflow_dispatch:
 
 permissions:
   contents: write
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+concurrency:
+  group: imdb-update
+  cancel-in-progress: false
 
 jobs:
-  scrape-and-update:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,16 +22,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
-          cache: npm
+          node-version: "20"
+          cache: "npm"
 
-      - name: Install dependencies
+      - name: Install deps
         run: npm ci
 
-      - name: Install Playwright Chromium
+      - name: Install Playwright (Chromium)
         run: npx playwright install --with-deps chromium
 
       - name: Run scrapers
@@ -38,65 +39,77 @@ jobs:
           node movies.js
           node series.js
 
-      - name: Debug - list generated files
+      - name: Commit & Push (if changed)
+        id: commit
         run: |
-          echo "PWD=$(pwd)"
-          ls -la
-          echo "---- top250movies.json ----"
-          (test -f top250movies.json && wc -c top250movies.json && head -n 5 top250movies.json) || echo "top250movies.json NOT FOUND"
-          echo "---- top250series.json ----"
-          (test -f top250series.json && wc -c top250series.json && head -n 5 top250series.json) || echo "top250series.json NOT FOUND"
+          set -euo pipefail
 
-      - name: Debug - git status
-        run: |
-          git status --porcelain=v1
-          git diff --name-only
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and Push if Changed
-        id: commit_step
-        run: |
-          set -e
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
+          # فقط فایل‌هایی که انتظار داری آپدیت شوند
           git add top250movies.json top250series.json
 
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes."
             echo "committed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "chore: auto-update IMDb data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git pull --rebase origin main
-            git push origin main
-            echo "committed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
-      - name: Telegram - Success
+          git commit -m "chore: auto-update IMDb data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
+          # جلوگیری از push rejected در صورت تغییرات همزمان
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin HEAD:"${GITHUB_REF_NAME}"
+
+          echo "committed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Telegram (Success)
         if: success()
         env:
-          TELEGRAM_BOT_TOKEN: '${{ secrets.TELEGRAM_BOT_TOKEN }}'
-          TELEGRAM_CHAT_ID: '${{ secrets.TELEGRAM_CHAT_ID }}'
-          COMMITTED: '${{ steps.commit_step.outputs.committed }}'
-          REPO: '${{ github.repository }}'
-          BRANCH: '${{ github.ref_name }}'
-          RUN_ID: '${{ github.run_id }}'
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          COMMITTED: ${{ steps.commit.outputs.committed }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          RUN_ID: ${{ github.run_id }}
         run: |
-          set -e
+          set -euo pipefail
           RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n%s\n' \
-            "IMDb Update SUCCESS" \
+          MSG="$(printf '%s\n%s\n%s\n%s\n%s\n' \
+            "IMDb Update: SUCCESS" \
             "Repo: ${REPO}" \
             "Branch: ${BRANCH}" \
-            "Time: ${NOW}" \
-            "Commit pushed: ${COMMITTED}" \
+            "Committed: ${COMMITTED}" \
             "Run: ${RUN_URL}")"
 
-          curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+          curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
             --data-urlencode text="$MSG" \
             -d disable_web_page_preview=true
 
-      - name: Telegram - Failure
-        if: failure
+      - name: Telegram (Failure)
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          set -euo pipefail
+          RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
+          NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
+
+          MSG="$(printf '%s\n%s\n%s\n%s\n' \
+            "IMDb Update: FAILED" \
+            "Repo: ${REPO}" \
+            "Branch: ${BRANCH}" \
+            "Run: ${RUN_URL}")"
+
+          curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            --data-urlencode text="$MSG" \
+            -d disable_web_page_preview=true
