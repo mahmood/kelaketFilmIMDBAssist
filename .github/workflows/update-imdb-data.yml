@@ -74,7 +74,7 @@ jobs:
           MOVIES_TOP="$(node -e "const a=require('./${MOVIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
           SERIES_TOP="$(node -e "const a=require('./${SERIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
 
-          BOXOFFICE_SUMMARY="$(node -e "const a=require('./${BOXOFFICE_FILE}'); if(!Array.isArray(a)){console.log('N/A'); process.exit(0)} const lines=a.map(x=>{const rank=x.rank ?? '-'; const title=x.title ?? 'N/A'; const weekend=x.weekend ?? 'N/A'; const gross=x.gross ?? 'N/A'; const weeks=x.weeks ?? 'N/A'; return `${rank}. ${title} — Weekend: ${weekend} | Gross: ${gross} | Weeks: ${weeks}`}); console.log(lines.join('\n'))")"
+          BOXOFFICE_SUMMARY="$(node -e "const a=require('./${BOXOFFICE_FILE}'); if(!Array.isArray(a)){console.log('N/A'); process.exit(0)} const lines=a.map(x=>{const rank=(x.rank ?? '-'); const title=(x.title ?? 'N/A'); const weekend=(x.weekend ?? 'N/A'); const gross=(x.gross ?? 'N/A'); const weeks=(x.weeks ?? 'N/A'); return String(rank) + '. ' + title + ' - Weekend: ' + weekend + ' | Gross: ' + gross + ' | Weeks: ' + weeks;}); console.log(lines.join('\n'))")"
 
           {
             echo "movies_bytes=${MOVIES_BYTES}"
