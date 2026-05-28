@@ -39,6 +39,7 @@ jobs:
           set -euo pipefail
           node movies.js
           node series.js
+          node boxoffice.js
 
       - name: Collect run stats
         id: stats
@@ -47,6 +48,7 @@ jobs:
 
           MOVIES_FILE="top250movies.json"
           SERIES_FILE="top250series.json"
+          BOXOFFICE_FILE="boxoffice.json"
 
           if [ ! -f "$MOVIES_FILE" ]; then
             echo "Movies file not found: $MOVIES_FILE" >&2
@@ -56,22 +58,37 @@ jobs:
             echo "Series file not found: $SERIES_FILE" >&2
             exit 1
           fi
+          if [ ! -f "$BOXOFFICE_FILE" ]; then
+            echo "BoxOffice file not found: $BOXOFFICE_FILE" >&2
+            exit 1
+          fi
 
           MOVIES_BYTES="$(wc -c < "$MOVIES_FILE" | tr -d ' ')"
           SERIES_BYTES="$(wc -c < "$SERIES_FILE" | tr -d ' ')"
+          BOXOFFICE_BYTES="$(wc -c < "$BOXOFFICE_FILE" | tr -d ' ')"
 
           MOVIES_COUNT="$(node -e "const a=require('./${MOVIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
           SERIES_COUNT="$(node -e "const a=require('./${SERIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
+          BOXOFFICE_COUNT="$(node -e "const a=require('./${BOXOFFICE_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
 
           MOVIES_TOP="$(node -e "const a=require('./${MOVIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
           SERIES_TOP="$(node -e "const a=require('./${SERIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
 
-          echo "movies_bytes=${MOVIES_BYTES}" >> "$GITHUB_OUTPUT"
-          echo "series_bytes=${SERIES_BYTES}" >> "$GITHUB_OUTPUT"
-          echo "movies_count=${MOVIES_COUNT}" >> "$GITHUB_OUTPUT"
-          echo "series_count=${SERIES_COUNT}" >> "$GITHUB_OUTPUT"
-          echo "movies_top=${MOVIES_TOP}" >> "$GITHUB_OUTPUT"
-          echo "series_top=${SERIES_TOP}" >> "$GITHUB_OUTPUT"
+          BOXOFFICE_SUMMARY="$(node -e "const a=require('./${BOXOFFICE_FILE}'); if(!Array.isArray(a)){console.log('N/A'); process.exit(0)} const lines=a.map(x=>{const rank=x.rank ?? '-'; const title=x.title ?? 'N/A'; const weekend=x.weekend ?? 'N/A'; const gross=x.gross ?? 'N/A'; const weeks=x.weeks ?? 'N/A'; return `${rank}. ${title} — Weekend: ${weekend} | Gross: ${gross} | Weeks: ${weeks}`}); console.log(lines.join('\n'))")"
+
+          {
+            echo "movies_bytes=${MOVIES_BYTES}"
+            echo "series_bytes=${SERIES_BYTES}"
+            echo "boxoffice_bytes=${BOXOFFICE_BYTES}"
+            echo "movies_count=${MOVIES_COUNT}"
+            echo "series_count=${SERIES_COUNT}"
+            echo "boxoffice_count=${BOXOFFICE_COUNT}"
+            echo "movies_top=${MOVIES_TOP}"
+            echo "series_top=${SERIES_TOP}"
+            echo "boxoffice_summary<<EOF"
+            echo "${BOXOFFICE_SUMMARY}"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Commit & Push (if changed)
         id: commit
@@ -81,7 +98,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add top250movies.json top250series.json
+          git add top250movies.json top250series.json boxoffice.json
 
           if git diff --staged --quiet; then
             echo "No changes."
@@ -113,17 +130,20 @@ jobs:
           SHA: ${{ github.sha }}
           MOVIES_COUNT: ${{ steps.stats.outputs.movies_count }}
           SERIES_COUNT: ${{ steps.stats.outputs.series_count }}
+          BOXOFFICE_COUNT: ${{ steps.stats.outputs.boxoffice_count }}
           MOVIES_BYTES: ${{ steps.stats.outputs.movies_bytes }}
           SERIES_BYTES: ${{ steps.stats.outputs.series_bytes }}
+          BOXOFFICE_BYTES: ${{ steps.stats.outputs.boxoffice_bytes }}
           MOVIES_TOP: ${{ steps.stats.outputs.movies_top }}
           SERIES_TOP: ${{ steps.stats.outputs.series_top }}
+          BOXOFFICE_SUMMARY: ${{ steps.stats.outputs.boxoffice_summary }}
         run: |
           set -euo pipefail
           RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
           COMMIT_URL="https://github.com/${REPO}/commit/${SHA}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n\n%s\n%s\n%s\n%s\n' \
+          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n%s\n\n%s\n%s\n\n%s\n%s\n%s\n' \
             "🎬✅ IMDb Update: SUCCESS" \
             "🕒 Time (UTC): ${NOW}" \
             "📦 Repo: ${REPO}" \
@@ -131,8 +151,11 @@ jobs:
             "👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}" \
             "🎞️ Movies: ${MOVIES_COUNT} items | ${MOVIES_BYTES} bytes" \
             "📺 Series: ${SERIES_COUNT} items | ${SERIES_BYTES} bytes" \
+            "💰 Box Office: ${BOXOFFICE_COUNT} items | ${BOXOFFICE_BYTES} bytes" \
             "🏆 #1 Movie: ${MOVIES_TOP}" \
             "🏆 #1 Series: ${SERIES_TOP}" \
+            "💵 Box Office List:" \
+            "${BOXOFFICE_SUMMARY}" \
             "📝 Commit pushed: ${COMMITTED}" \
             "🔗 Run: ${RUN_URL}" \
             "🔎 Commit: ${COMMIT_URL}")"
