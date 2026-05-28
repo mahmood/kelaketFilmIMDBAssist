@@ -1,4 +1,4 @@
-```md
+
 # 🎬 IMDb Top 250 Scraper
 
 A simple automated scraper for fetching IMDb Top 250 **Movies** and **TV Series** using **Playwright**, with daily updates powered by **GitHub Actions** and optional **Telegram notifications**.
