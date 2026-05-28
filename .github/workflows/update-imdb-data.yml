@@ -71,21 +71,27 @@ jobs:
             echo "committed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Telegram - Success
+       - name: Telegram - Success
         if: success()
         env:
           TELEGRAM_BOT_TOKEN: '${{ secrets.TELEGRAM_BOT_TOKEN }}'
           TELEGRAM_CHAT_ID: '${{ secrets.TELEGRAM_CHAT_ID }}'
+          COMMITTED: '${{ steps.commit_step.outputs.committed }}'
+          REPO: '${{ github.repository }}'
+          BRANCH: '${{ github.ref_name }}'
+          RUN_ID: '${{ github.run_id }}'
         run: |
-          RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-          COMMITTED="${{ steps.commit_step.outputs.committed }}"
-          MSG="✅ IMDb Update SUCCESS
+          set -e
+          RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
+          NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-📦 Repo: ${{ github.repository }}
-🌿 Branch: ${{ github.ref_name }}
-🕒 Time: $(date -u +'%Y-%m-%d %H:%M UTC')
-📝 Commit pushed: ${COMMITTED}
-🔗 Run: ${RUN_URL}"
+          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n%s\n' \
+            "IMDb Update SUCCESS" \
+            "Repo: ${REPO}" \
+            "Branch: ${BRANCH}" \
+            "Time: ${NOW}" \
+            "Commit pushed: ${COMMITTED}" \
+            "Run: ${RUN_URL}")"
 
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
@@ -97,14 +103,20 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: '${{ secrets.TELEGRAM_BOT_TOKEN }}'
           TELEGRAM_CHAT_ID: '${{ secrets.TELEGRAM_CHAT_ID }}'
+          REPO: '${{ github.repository }}'
+          BRANCH: '${{ github.ref_name }}'
+          RUN_ID: '${{ github.run_id }}'
         run: |
-          RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-          MSG="❌ IMDb Update FAILED
+          set -e
+          RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
+          NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-📦 Repo: ${{ github.repository }}
-🌿 Branch: ${{ github.ref_name }}
-🕒 Time: $(date -u +'%Y-%m-%d %H:%M UTC')
-🔗 Logs: ${RUN_URL}"
+          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n' \
+            "IMDb Update FAILED" \
+            "Repo: ${REPO}" \
+            "Branch: ${BRANCH}" \
+            "Time: ${NOW}" \
+            "Logs: ${RUN_URL}")"
 
           curl -sS -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
