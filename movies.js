@@ -1,104 +1,119 @@
-// Filename: imdb_scraper_with_images.js
-
 const { chromium } = require('playwright');
 const fs = require('fs');
 
 async function scrapeTop250Movies() {
     console.log('🚀 Launching browser...');
     const browser = await chromium.launch({ headless: true });
-    const context = await browser.newContext({
-        userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
-    });
-    const page = await context.newPage();
 
-    const url = 'https://www.imdb.com/chart/top/';
+    const context = await browser.newContext({
+        userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        locale: 'en-US',
+        extraHTTPHeaders: {
+            'Accept-Language': 'en-US,en;q=0.9',
+        },
+        viewport: { width: 1440, height: 1400 }
+    });
+
+    const page = await context.newPage();
+    
+    // اضافه کردن count=250 برای مجبور کردن IMDb به نمایش تمام لیست در یک صفحه
+    const url = 'https://www.imdb.com/chart/top/?count=250';
+
     console.log(`Navigating to ${url}`);
 
     try {
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
-        console.log('Page loaded. Starting to scroll to load all movies...');
+        // اطمینان از اینکه لیست لود شده است
+        await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
+
+        console.log('Scrolling to load all 250 posters...');
         await autoScroll(page);
 
-        console.log('Scrolling complete. Scraping all 250 movies...');
-        const movieSelector = '[data-testid="chart-layout-main-column"] ul > li';
-        await page.waitForSelector(movieSelector, { state: 'visible', timeout: 10000 });
+        const items = page.locator('li.ipc-metadata-list-summary-item');
+        const count = await items.count();
+        console.log(`Found ${count} elements on page.`);
 
-        const moviesData = await page.locator(movieSelector).evaluateAll((movieItems) => {
-            const movies = [];
-            movieItems.forEach(element => {
-                try {
-                    const titleElement = element.querySelector('h3.ipc-title__text');
-                    const linkElement = element.querySelector('a.ipc-title-link-wrapper');
+        const moviesData = await items.evaluateAll((nodes) => {
+            return nodes.map((element, index) => {
+                const safeText = (el) => el ? el.textContent.trim() : null;
 
-                    const fullTitle = titleElement ? titleElement.innerText : '';
-                    const rankMatch = fullTitle.match(/^(\d+)\./);
-                    const rank = rankMatch ? parseInt(rankMatch[1], 10) : null;
-                    const title = titleElement ? fullTitle.replace(/^\d+\.\s*/, '') : 'N/A';
+                const titleEl = element.querySelector('h3.ipc-title__text');
+                const linkEl = element.querySelector('a[href*="/title/tt"]');
+                const imgEl = element.querySelector('img');
+                const metaEls = element.querySelectorAll('.cli-title-metadata-item');
 
-                    const metadataElements = element.querySelectorAll('.cli-title-metadata-item');
-                    const year = metadataElements[0] ? parseInt(metadataElements[0].innerText, 10) : null;
+                const fullTitle = safeText(titleEl) || '';
+                // جدا کردن رتبه از عنوان (مثلا "1. The Shawshank Redemption")
+                const rankMatch = fullTitle.match(/^(\d+)\.\s*(.*)$/);
 
-                    const ratingElement = element.querySelector('.ipc-rating-star');
-                    const rating = ratingElement ? parseFloat(ratingElement.innerText.split('\n')[0]) : null;
+                const rank = rankMatch ? parseInt(rankMatch[1], 10) : index + 1;
+                const title = rankMatch ? rankMatch[2].trim() : fullTitle;
 
-                    const imdbUrl = linkElement ? `https://www.imdb.com${linkElement.getAttribute('href')}` : null;
+                const yearText = metaEls[0] ? metaEls[0].textContent.trim() : null;
+                const yearMatch = yearText ? yearText.match(/\d{4}/) : null;
+                const year = yearMatch ? parseInt(yearMatch[0], 10) : null;
 
-                    // **NEW: Get the poster image URL**
-                    const imageElement = element.querySelector('img');
-                    const image = imageElement ? imageElement.src : null;
-
-                    const image_bigger = image.replace(/_V1[\s\S][^.jpg]+/, 'UX500');
-
-                    const idMatch = linkElement.getAttribute('href').match(/tt\d+/);
-                    const id = idMatch ? idMatch[0] : null;
-
-                    if (rank && title) {
-                        movies.push({ rank, title, year, rate: rating, url: imdbUrl, image: image_bigger, id });
-                    }
-                } catch (e) {
-                    // Ignore errors for non-movie elements
+                let rating = null;
+                const ratingEl = element.querySelector('.ipc-rating-star--rating');
+                if (ratingEl) {
+                    rating = parseFloat(ratingEl.textContent.trim());
                 }
-            });
-            return movies;
+
+                const href = linkEl ? linkEl.getAttribute('href') : null;
+                const cleanHref = href ? href.split('?')[0] : null;
+                const imdbUrl = cleanHref ? `https://www.imdb.com${cleanHref}` : null;
+
+                const idMatch = cleanHref ? cleanHref.match(/tt\d+/) : null;
+                const id = idMatch ? idMatch[0] : null;
+
+                let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
+                if (image) {
+                    // تبدیل به کیفیت بالا
+                    image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
+                }
+
+                return {
+                    rank,
+                    title,
+                    year,
+                    rate: rating,
+                    url: imdbUrl,
+                    image,
+                    id
+                };
+            }).filter(item => item.title && item.url);
         });
 
-        console.log(`Successfully scraped ${moviesData.length} movies.`);
-
-        fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2));
-        console.log('✅ Data saved');
-
-        return moviesData;
+        console.log(`✅ Successfully extracted ${moviesData.length} movies.`);
+        
+        fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
+        console.log('✅ File saved: top250movies.json');
 
     } catch (error) {
-        console.error('❌ An error occurred during scraping:', error);
+        console.error('❌ Error:', error);
     } finally {
-        console.log('Closing browser...');
         await browser.close();
     }
 }
 
-/**
- * Helper function to scroll to the bottom of the page.
- */
 async function autoScroll(page) {
     await page.evaluate(async () => {
         await new Promise((resolve) => {
             let totalHeight = 0;
-            const distance = 200;
+            const distance = 800; // سرعت اسکرول بیشتر برای ۲۵۰ مورد
             const timer = setInterval(() => {
                 const scrollHeight = document.body.scrollHeight;
                 window.scrollBy(0, distance);
                 totalHeight += distance;
 
-                if (totalHeight >= scrollHeight - window.innerHeight) {
+                if (totalHeight >= scrollHeight) {
                     clearInterval(timer);
                     resolve();
                 }
-            }, 200);
+            }, 150);
         });
     });
 }
 
-// Run the scraper
 scrapeTop250Movies();
