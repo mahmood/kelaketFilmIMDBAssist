@@ -36,8 +36,42 @@ jobs:
 
       - name: Run scrapers
         run: |
+          set -euo pipefail
           node movies.js
           node series.js
+
+      - name: Collect run stats
+        id: stats
+        run: |
+          set -euo pipefail
+
+          MOVIES_FILE="top250movies.json"
+          SERIES_FILE="top250series.json"
+
+          if [ ! -f "$MOVIES_FILE" ]; then
+            echo "Movies file not found: $MOVIES_FILE" >&2
+            exit 1
+          fi
+          if [ ! -f "$SERIES_FILE" ]; then
+            echo "Series file not found: $SERIES_FILE" >&2
+            exit 1
+          fi
+
+          MOVIES_BYTES="$(wc -c < "$MOVIES_FILE" | tr -d ' ')"
+          SERIES_BYTES="$(wc -c < "$SERIES_FILE" | tr -d ' ')"
+
+          MOVIES_COUNT="$(node -e "const a=require('./${MOVIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
+          SERIES_COUNT="$(node -e "const a=require('./${SERIES_FILE}'); console.log(Array.isArray(a)?a.length:0)")"
+
+          MOVIES_TOP="$(node -e "const a=require('./${MOVIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
+          SERIES_TOP="$(node -e "const a=require('./${SERIES_FILE}'); const x=a?.[0]; console.log(x?((x.title||x.name||'N/A')+' ('+(x.year||'')+')'):'N/A')")"
+
+          echo "movies_bytes=${MOVIES_BYTES}" >> "$GITHUB_OUTPUT"
+          echo "series_bytes=${SERIES_BYTES}" >> "$GITHUB_OUTPUT"
+          echo "movies_count=${MOVIES_COUNT}" >> "$GITHUB_OUTPUT"
+          echo "series_count=${SERIES_COUNT}" >> "$GITHUB_OUTPUT"
+          echo "movies_top=${MOVIES_TOP}" >> "$GITHUB_OUTPUT"
+          echo "series_top=${SERIES_TOP}" >> "$GITHUB_OUTPUT"
 
       - name: Commit & Push (if changed)
         id: commit
@@ -47,7 +81,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # فقط فایل‌هایی که انتظار داری آپدیت شوند
           git add top250movies.json top250series.json
 
           if git diff --staged --quiet; then
@@ -58,7 +91,6 @@ jobs:
 
           git commit -m "chore: auto-update IMDb data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
 
-          # جلوگیری از push rejected در صورت تغییرات همزمان
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin HEAD:"${GITHUB_REF_NAME}"
 
@@ -73,17 +105,37 @@ jobs:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
           RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+          ACTOR: ${{ github.actor }}
+          EVENT_NAME: ${{ github.event_name }}
+          WORKFLOW: ${{ github.workflow }}
+          JOB: ${{ github.job }}
+          SHA: ${{ github.sha }}
+          MOVIES_COUNT: ${{ steps.stats.outputs.movies_count }}
+          SERIES_COUNT: ${{ steps.stats.outputs.series_count }}
+          MOVIES_BYTES: ${{ steps.stats.outputs.movies_bytes }}
+          SERIES_BYTES: ${{ steps.stats.outputs.series_bytes }}
+          MOVIES_TOP: ${{ steps.stats.outputs.movies_top }}
+          SERIES_TOP: ${{ steps.stats.outputs.series_top }}
         run: |
           set -euo pipefail
           RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
+          COMMIT_URL="https://github.com/${REPO}/commit/${SHA}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n%s\n%s\n%s\n%s\n' \
-            "IMDb Update: SUCCESS" \
-            "Repo: ${REPO}" \
-            "Branch: ${BRANCH}" \
-            "Committed: ${COMMITTED}" \
-            "Run: ${RUN_URL}")"
+          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n\n%s\n%s\n%s\n%s\n' \
+            "🎬✅ IMDb Update: SUCCESS" \
+            "🕒 Time (UTC): ${NOW}" \
+            "📦 Repo: ${REPO}" \
+            "🌿 Branch: ${BRANCH}" \
+            "👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}" \
+            "🎞️ Movies: ${MOVIES_COUNT} items | ${MOVIES_BYTES} bytes" \
+            "📺 Series: ${SERIES_COUNT} items | ${SERIES_BYTES} bytes" \
+            "🏆 #1 Movie: ${MOVIES_TOP}" \
+            "🏆 #1 Series: ${SERIES_TOP}" \
+            "📝 Commit pushed: ${COMMITTED}" \
+            "🔗 Run: ${RUN_URL}" \
+            "🔎 Commit: ${COMMIT_URL}")"
 
           curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
@@ -98,16 +150,26 @@ jobs:
           REPO: ${{ github.repository }}
           BRANCH: ${{ github.ref_name }}
           RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+          ACTOR: ${{ github.actor }}
+          EVENT_NAME: ${{ github.event_name }}
+          WORKFLOW: ${{ github.workflow }}
+          JOB: ${{ github.job }}
+          SHA: ${{ github.sha }}
         run: |
           set -euo pipefail
           RUN_URL="https://github.com/${REPO}/actions/runs/${RUN_ID}"
+          COMMIT_URL="https://github.com/${REPO}/commit/${SHA}"
           NOW="$(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          MSG="$(printf '%s\n%s\n%s\n%s\n' \
-            "IMDb Update: FAILED" \
-            "Repo: ${REPO}" \
-            "Branch: ${BRANCH}" \
-            "Run: ${RUN_URL}")"
+          MSG="$(printf '%s\n\n%s\n%s\n%s\n%s\n\n%s\n%s\n' \
+            "🎬❌ IMDb Update: FAILED" \
+            "🕒 Time (UTC): ${NOW}" \
+            "📦 Repo: ${REPO}" \
+            "🌿 Branch: ${BRANCH}" \
+            "👤 Actor: ${ACTOR} | Event: ${EVENT_NAME}" \
+            "🔗 Logs: ${RUN_URL}" \
+            "🔎 Commit: ${COMMIT_URL}")"
 
           curl -fsSL -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
