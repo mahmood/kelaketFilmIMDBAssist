@@ -87,7 +87,18 @@ async function scrapeTop250Movies() {
 
         console.log(`✅ Successfully extracted ${moviesData.length} movies.`);
         
-        fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
+        // fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
+
+        if (moviesData.length > 200) {
+            fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
+            console.log('✅ File saved: top250movies.json');
+        } else {
+            console.error('❌ Scrape failed or returned too few items. File was not updated.');
+            process.exit(1);
+        }
+
+
+
         console.log('✅ File saved: top250movies.json');
 
     } catch (error) {

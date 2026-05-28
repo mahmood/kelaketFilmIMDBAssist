@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "getdata": "node movies.js & node series.js"
+    "update": "node movies.js && node series.js",
+    "movies": "node movies.js",
+    "seris": " node series.js"
   },
   "repository": {
     "type": "git",

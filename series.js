@@ -89,7 +89,14 @@ async function scrapeTop250Series() {
         });
 
         console.log(`✅ Successfully scraped ${seriesData.length} series.`);
-        fs.writeFileSync('top250series.json', JSON.stringify(seriesData, null, 2), 'utf8');
+
+        if (seriesData.length > 200) {
+            fs.writeFileSync('top250series.json', JSON.stringify(seriesData, null, 2), 'utf8');
+            console.log('✅ File saved: top250movies.json');
+        } else {
+            console.error('❌ Scrape failed or returned too few items. File was not updated.');
+            process.exit(1);
+        }
         console.log('✅ Data saved to top250series.json');
 
     } catch (error) {
