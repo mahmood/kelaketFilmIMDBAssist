@@ -25,7 +25,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '24'
-          cache: 'npm'
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
@@ -38,7 +38,6 @@ jobs:
           node movies.js
           node series.js
 
-      # --- Debug: ببین فایل‌ها واقعاً ساخته شده‌اند یا نه
       - name: Debug - list generated files
         run: |
           echo "PWD=$(pwd)"
@@ -48,20 +47,15 @@ jobs:
           echo "---- top250series.json ----"
           (test -f top250series.json && wc -c top250series.json && head -n 5 top250series.json) || echo "top250series.json NOT FOUND"
 
-      # --- Debug: وضعیت git قبل از commit
       - name: Debug - git status
         run: |
           git status --porcelain=v1
           git diff --name-only
 
-      # --- Commit/PUSH + خروجی دادن اینکه آیا کامیتی انجام شد یا نه
       - name: Commit and Push if Changed
         id: commit_step
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -77,7 +71,6 @@ jobs:
             echo "committed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # --- پیام موفقیت (فقط اگر کل job موفق شده باشد)
       - name: Telegram - Success
         if: success()
         env:
@@ -87,7 +80,7 @@ jobs:
           RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           COMMITTED="${{ steps.commit_step.outputs.committed }}"
           MSG="✅ IMDb Update SUCCESS
-          
+
 📦 Repo: ${{ github.repository }}
 🌿 Branch: ${{ github.ref_name }}
 🕒 Time: $(date -u +'%Y-%m-%d %H:%M UTC')
@@ -99,7 +92,6 @@ jobs:
             --data-urlencode text="$MSG" \
             -d disable_web_page_preview=true
 
-      # --- پیام خطا (اگر هر مرحله‌ای fail شد)
       - name: Telegram - Failure
         if: failure()
         env:
@@ -108,7 +100,7 @@ jobs:
         run: |
           RUN_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           MSG="❌ IMDb Update FAILED
-          
+
 📦 Repo: ${{ github.repository }}
 🌿 Branch: ${{ github.ref_name }}
 🕒 Time: $(date -u +'%Y-%m-%d %H:%M UTC')
