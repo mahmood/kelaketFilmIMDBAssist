@@ -1,51 +1,11 @@
 [
   {
-    "type": "movie",
-    "date": "2026-05-29",
-    "title": "Backrooms",
-    "id": "tt26657236",
-    "url": "https://www.imdb.com/title/tt26657236/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-05-29",
-    "title": "Pressure",
-    "id": "tt32547691",
-    "url": "https://www.imdb.com/title/tt32547691/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-05-29",
-    "title": "The Breadwinner",
-    "id": "tt34459219",
-    "url": "https://www.imdb.com/title/tt34459219/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ3ZWQ4YTctMTI0OC00NmI5LWFlNjgtNjhhMDQxYjUxYTQyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-05-29",
-    "title": "Tuner",
-    "id": "tt33296751",
-    "url": "https://www.imdb.com/title/tt33296751/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDA0ZjZjYTktZjg1MC00MDRiLWEzYjItMTQ1ZWFkOTUxNjc0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-05-29",
-    "title": "Calabasas Confidential (2026– )",
-    "id": "tt38348835",
-    "url": "https://www.imdb.com/title/tt38348835/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-05-30",
     "title": "Craig Ferguson: American on Purpose (2026– )",
     "id": "tt39675890",
     "url": "https://www.imdb.com/title/tt39675890/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -197,7 +157,7 @@
     "title": "Crashers (2026– )",
     "id": "tt42423511",
     "url": "https://www.imdb.com/title/tt42423511/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -229,7 +189,7 @@
     "title": "Big Girls Wanted: Escaping Pearadise",
     "id": "tt42907659",
     "url": "https://www.imdb.com/title/tt42907659/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -333,7 +293,7 @@
     "title": "Little Singles (2026– )",
     "id": "tt42815500",
     "url": "https://www.imdb.com/title/tt42815500/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -533,7 +493,7 @@
     "title": "Nation's Dumbest (2026– )",
     "id": "tt38865342",
     "url": "https://www.imdb.com/title/tt38865342/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -581,7 +541,7 @@
     "title": "Detective Starke (2026– )",
     "id": "tt38353909",
     "url": "https://www.imdb.com/title/tt38353909/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -589,7 +549,7 @@
     "title": "House of Stassi (2026– )",
     "id": "tt42006748",
     "url": "https://www.imdb.com/title/tt42006748/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -717,7 +677,7 @@
     "title": "Tierra de amor y coraje (2026– )",
     "id": "tt42172921",
     "url": "https://www.imdb.com/title/tt42172921/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -813,7 +773,7 @@
     "title": "Fall 2",
     "id": "tt31192372",
     "url": "https://www.imdb.com/title/tt31192372/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -861,7 +821,7 @@
     "title": "Marble Hall Murders (2026– )",
     "id": "tt35617054",
     "url": "https://www.imdb.com/title/tt35617054/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1109,7 +1069,7 @@
     "title": "BBW (2026– )",
     "id": "tt37792929",
     "url": "https://www.imdb.com/title/tt37792929/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkMWFiYWYtZGNmNy00MmI2LThmMjQtZWE2ZDJlNmY3YmFkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1197,7 +1157,7 @@
     "title": "Ebenezer: A Christmas Carol",
     "id": "tt38773219",
     "url": "https://www.imdb.com/title/tt38773219/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1205,7 +1165,7 @@
     "title": "The Great Beyond",
     "id": "tt33075482",
     "url": "https://www.imdb.com/title/tt33075482/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1373,7 +1333,7 @@
     "title": "Untitled Shudder Horror Film",
     "id": "tt41151310",
     "url": "https://www.imdb.com/title/tt41151310/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1381,7 +1341,7 @@
     "title": "The Beekeeper 2",
     "id": "tt35935357",
     "url": "https://www.imdb.com/title/tt35935357/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1413,7 +1373,7 @@
     "title": "The Rescue",
     "id": "tt35606013",
     "url": "https://www.imdb.com/title/tt35606013/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1446,14 +1406,6 @@
     "id": "tt36593129",
     "url": "https://www.imdb.com/title/tt36593129/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTE0ZGRiNTQtOTc5OC00YmZmLTk4ZDYtZGNlOWNiZTQ4OWZlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2027-02-12",
-    "title": "K-Pop Superstar: The Movie",
-    "id": "tt8992304",
-    "url": "https://www.imdb.com/title/tt8992304/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmJiNzIxNDQtNzhhMC00NGNmLWJkY2MtOWI1MDdmNzFmZTE3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1525,7 +1477,7 @@
     "title": "The Exorcist",
     "id": "tt32492552",
     "url": "https://www.imdb.com/title/tt32492552/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1565,7 +1517,7 @@
     "title": "Untitled Disney",
     "id": "tt26443622",
     "url": "https://www.imdb.com/title/tt26443622/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1589,7 +1541,7 @@
     "title": "F.A.S.T.",
     "id": "tt9198366",
     "url": "https://www.imdb.com/title/tt9198366/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1597,7 +1549,7 @@
     "title": "Spaceballs: The New One",
     "id": "tt32659463",
     "url": "https://www.imdb.com/title/tt32659463/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1629,7 +1581,7 @@
     "title": "Beach Read",
     "id": "tt27435653",
     "url": "https://www.imdb.com/title/tt27435653/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
