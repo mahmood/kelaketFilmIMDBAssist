@@ -1,14 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-05-30",
-    "title": "Craig Ferguson: American on Purpose (2026– )",
-    "id": "tt39675890",
-    "url": "https://www.imdb.com/title/tt39675890/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-06-01",
     "title": "Bring Me the Beauties: A Model Cult",
     "id": "tt42835175",
@@ -310,6 +302,14 @@
     "id": "tt40210973",
     "url": "https://www.imdb.com/title/tt40210973/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOWE5MjUzZGItYjczOC00NDIzLWJjMjAtZDRkZWZiNjRlMmE0XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-19",
+    "title": "Citizen Vigilante",
+    "id": "tt35309713",
+    "url": "https://www.imdb.com/title/tt35309713/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ0MWI5YzYtODJmNC00Yjc1LTg5MGQtYTEwZTI1NjQ4YWU1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -810,6 +810,14 @@
   {
     "type": "movie",
     "date": "2026-09-04",
+    "title": "Onslaught",
+    "id": "tt32268691",
+    "url": "https://www.imdb.com/title/tt32268691/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-04",
     "title": "P31",
     "id": "tt3842436",
     "url": "https://www.imdb.com/title/tt3842436/",
@@ -941,6 +949,14 @@
     "title": "Never After Dark",
     "id": "tt38589433",
     "url": "https://www.imdb.com/title/tt38589433/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "Your Mother Your Mother Your Mother",
+    "id": "tt35856037",
+    "url": "https://www.imdb.com/title/tt35856037/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
