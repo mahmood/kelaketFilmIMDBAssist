@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "title": "Star Wars: The Mandalorian and Grogu",
-    "id": "tt30825738",
-    "url": "https://www.imdb.com/title/tt30825738/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzVkMmJhNTgtNjYwOS00YjM0LThlNWEtNGExNmIxZjVkMmJhXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$82M",
-    "gross": "$119M",
+    "title": "Backrooms",
+    "id": "tt26657236",
+    "url": "https://www.imdb.com/title/tt26657236/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$81M",
+    "gross": "$81M",
     "weeks": "1"
   },
   {
@@ -15,88 +15,88 @@
     "id": "tt37287335",
     "url": "https://www.imdb.com/title/tt37287335/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$24M",
-    "gross": "$86M",
-    "weeks": "2"
+    "weekend": "$26M",
+    "gross": "$105M",
+    "weeks": "3"
   },
   {
     "rank": 3,
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "id": "tt30825738",
+    "url": "https://www.imdb.com/title/tt30825738/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzVkMmJhNTgtNjYwOS00YjM0LThlNWEtNGExNmIxZjVkMmJhXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$25M",
+    "gross": "$137M",
+    "weeks": "2"
+  },
+  {
+    "rank": 4,
     "title": "Michael",
     "id": "tt11378946",
     "url": "https://www.imdb.com/title/tt11378946/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$21M",
-    "gross": "$332M",
-    "weeks": "5"
+    "weekend": "$12M",
+    "gross": "$340M",
+    "weeks": "6"
   },
   {
-    "rank": 4,
+    "rank": 5,
+    "title": "The Breadwinner",
+    "id": "tt34459219",
+    "url": "https://www.imdb.com/title/tt34459219/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ3ZWQ4YTctMTI0OC00NmI5LWFlNjgtNjhhMDQxYjUxYTQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$7.5M",
+    "gross": "$7.5M",
+    "weeks": "1"
+  },
+  {
+    "rank": 6,
     "title": "The Devil Wears Prada 2",
     "id": "tt33612209",
     "url": "https://www.imdb.com/title/tt33612209/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZDU3ODItZmY5Yi00OTQ2LWE5OTctZTA5NDBhMWJkOGY3XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$13M",
-    "gross": "$205M",
-    "weeks": "4"
+    "weekend": "$5.9M",
+    "gross": "$209M",
+    "weeks": "5"
   },
   {
-    "rank": 5,
+    "rank": 7,
+    "title": "Pressure",
+    "id": "tt32547691",
+    "url": "https://www.imdb.com/title/tt32547691/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkwMTkwYzItNTg4MC00OTc2LTk2Y2EtOGU3ZGE0NmQyYzdjXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$5.8M",
+    "gross": "$5.8M",
+    "weeks": "1"
+  },
+  {
+    "rank": 8,
     "title": "The Sheep Detectives",
     "id": "tt32565993",
     "url": "https://www.imdb.com/title/tt32565993/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTFmZWI4YmMtNmQ0ZC00ZGQwLTk1OWEtZjAyZmIzOGY0MGFiXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$9.2M",
-    "gross": "$51M",
-    "weeks": "3"
+    "weekend": "$4.6M",
+    "gross": "$55M",
+    "weeks": "4"
   },
   {
-    "rank": 6,
+    "rank": 9,
     "title": "Passenger",
     "id": "tt33763941",
     "url": "https://www.imdb.com/title/tt33763941/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDhmZmJlMDctNTA3MS00NTkwLThkZGQtMjM5MTdmMDg2YjBjXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$8.7M",
-    "gross": "$14M",
-    "weeks": "1"
+    "weekend": "$2.6M",
+    "gross": "$15M",
+    "weeks": "2"
   },
   {
-    "rank": 7,
+    "rank": 10,
     "title": "Mortal Kombat II",
     "id": "tt17490712",
     "url": "https://www.imdb.com/title/tt17490712/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$6.1M",
-    "gross": "$76M",
-    "weeks": "3"
-  },
-  {
-    "rank": 8,
-    "title": "I Love Boosters",
-    "id": "tt30827810",
-    "url": "https://www.imdb.com/title/tt30827810/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODQwZDU4ZmQtOWE4Yy00ZWZmLTgzZjItNWUxOThmMzcxM2FiXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$3.8M",
-    "gross": "$6M",
-    "weeks": "1"
-  },
-  {
-    "rank": 9,
-    "title": "The Super Mario Galaxy Movie",
-    "id": "tt28650488",
-    "url": "https://www.imdb.com/title/tt28650488/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYxYWRkMTUtMGMwZC00MzYyLThlNjEtNDcwMDYyMTQ4ZjJlXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$3.2M",
-    "gross": "$426M",
-    "weeks": "8"
-  },
-  {
-    "rank": 10,
-    "title": "Project Hail Mary",
-    "id": "tt12042730",
-    "url": "https://www.imdb.com/title/tt12042730/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$2.7M",
-    "gross": "$341M",
-    "weeks": "10"
+    "weekend": "$2M",
+    "gross": "$78M",
+    "weeks": "4"
   }
 ]

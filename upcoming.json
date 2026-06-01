@@ -154,6 +154,14 @@
   {
     "type": "movie",
     "date": "2026-06-09",
+    "title": "Kickback",
+    "id": "tt23768238",
+    "url": "https://www.imdb.com/title/tt23768238/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmMyZGE4YWYtYWZmYy00NWQ1LTk3NDUtYzI0ZThmNDY5MWQ5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-09",
     "title": "Sacred Heart: His Reign Has No End",
     "id": "tt38551604",
     "url": "https://www.imdb.com/title/tt38551604/",
@@ -165,6 +173,14 @@
     "title": "Dragon Striker (2026– )",
     "id": "tt21056976",
     "url": "https://www.imdb.com/title/tt21056976/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzUyMjJlYzktOGI3OC00OTI3LWEyNjUtOTYyZTQ3NzZhNDc2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-06-09",
+    "title": "The Adventures of Slim & Thicc (2026– )",
+    "id": "tt42206824",
+    "url": "https://www.imdb.com/title/tt42206824/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzUyMjJlYzktOGI3OC00OTI3LWEyNjUtOTYyZTQ3NzZhNDc2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
@@ -182,6 +198,14 @@
     "id": "tt42907659",
     "url": "https://www.imdb.com/title/tt42907659/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-11",
+    "title": "Kijsada Paradise",
+    "id": "tt42721267",
+    "url": "https://www.imdb.com/title/tt42721267/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZhNDBhNTctNzU4MS00NGFhLTg4NWQtMjI5ZjNhNGIwODJlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -222,6 +246,14 @@
     "id": "tt36639420",
     "url": "https://www.imdb.com/title/tt36639420/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTJhYzQ5YjAtZjkzNS00N2IxLWFhMWQtZjFlMTUyZGIwNzNlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-12",
+    "title": "State of Firsts",
+    "id": "tt36589618",
+    "url": "https://www.imdb.com/title/tt36589618/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwZjM3OWQtYWJkYi00MjdkLWI3NDYtNjEyZThiMmMwZTRhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -413,7 +445,7 @@
     "title": "Welcome to the Jungle",
     "id": "tt28540171",
     "url": "https://www.imdb.com/title/tt28540171/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTZkNDQwMjQtNjA1OC00NjhmLWI3ZTEtMGEzZDQ5ZjZkMzEwXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -501,7 +533,7 @@
     "title": "Cut Off",
     "id": "tt36246412",
     "url": "https://www.imdb.com/title/tt36246412/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTYxZjEwZWItN2FmMy00MDMwLTliZTYtNzU1ZGJmMjJlNDI2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -768,12 +800,20 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDBkZTNhMmQtMjliNS00OTIyLWI1OTItYzEzZTU0NGU0NTI4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "series",
+    "date": "2026-09-01",
+    "title": "Middle Class Cash (2026– )",
+    "id": "tt42928358",
+    "url": "https://www.imdb.com/title/tt42928358/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "movie",
     "date": "2026-09-02",
     "title": "Fall 2",
     "id": "tt31192372",
     "url": "https://www.imdb.com/title/tt31192372/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDk0NDZhNTctNTQ4Ny00YmMzLWIxZDctNWViYmVhYTQ2ZDFhXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMzQ5NWItMzhjZC00OWEwLWJiN2YtNDIxNGQyOTFjOWZjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -789,7 +829,7 @@
     "title": "By Any Means",
     "id": "tt34379051",
     "url": "https://www.imdb.com/title/tt34379051/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0MGMyMjYtY2I5OS00MDM4LTlkYjctMmUwNWU4MTQ5MzFiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -813,7 +853,7 @@
     "title": "Onslaught",
     "id": "tt32268691",
     "url": "https://www.imdb.com/title/tt32268691/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0MGMyMjYtY2I5OS00MDM4LTlkYjctMmUwNWU4MTQ5MzFiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -869,7 +909,7 @@
     "title": "The Uprising",
     "id": "tt36983905",
     "url": "https://www.imdb.com/title/tt36983905/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MTMyZmMtOTZmMy00OTBkLWE0MWItZjgwZTE0MGFhNDg2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1256,6 +1296,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0ZjI1Y2MtMDZmNC00Y2JlLTg3ZjAtYWQ0MTVmMGQ5MjRkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "series",
+    "date": "2026-12-15",
+    "title": "Once Upon A Time in Gotham (2026– )",
+    "id": "tt43007185",
+    "url": "https://www.imdb.com/title/tt43007185/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODlmM2YzOWMtYjBkNC00YmRmLTlmZjQtNDcxYzMwZTI0YTlkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "movie",
     "date": "2026-12-18",
     "title": "Avengers: Doomsday",
@@ -1405,7 +1453,7 @@
     "title": "Lords of War",
     "id": "tt27706987",
     "url": "https://www.imdb.com/title/tt27706987/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTIwMTdhY2YtZGNiMC00MDg5LWFkY2EtZjY5MTllNDc0OWEzXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGFjODE0MzgtM2E1MS00YWUxLTg0MDktMjFiNmQwN2U3ODcwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1646,5 +1694,13 @@
     "id": "tt26443617",
     "url": "https://www.imdb.com/title/tt26443617/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWFkM2JmMDktNWEyNS00NGRkLTk3NDMtMzA5YjQyMTM0NWI5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-01",
+    "title": "From the Ashes",
+    "id": "tt13499272",
+    "url": "https://www.imdb.com/title/tt13499272/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzg2Mzc2OTEtZGNlZS00NTk5LThlMjYtZjM5MDZiOWZiM2RiXkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]
