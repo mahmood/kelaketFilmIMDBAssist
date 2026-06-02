@@ -1,22 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-06-01",
-    "title": "Bring Me the Beauties: A Model Cult",
-    "id": "tt42835175",
-    "url": "https://www.imdb.com/title/tt42835175/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-06-01",
-    "title": "History's Greatest Machines with Dolph Lundgren (2026– )",
-    "id": "tt40431872",
-    "url": "https://www.imdb.com/title/tt40431872/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA3N2FiMWMtZTIyMy00MTQzLThkNmItMjY4Zjg3YTRmYTJlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-06-02",
     "title": "Devotion: Obedience or Betrayal",
     "id": "tt42841691",
@@ -104,6 +88,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMWY2YjlmNjgtYmI1ZC00YjY3LWJjZTItMWU1MjBiYzMwODU4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-06-05",
+    "title": "The Passenger",
+    "id": "tt32298956",
+    "url": "https://www.imdb.com/title/tt32298956/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-06-05",
     "title": "Unlikely Romances (2026– )",
@@ -149,7 +141,7 @@
     "title": "Crashers (2026– )",
     "id": "tt42423511",
     "url": "https://www.imdb.com/title/tt42423511/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -192,12 +184,20 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMWUxOGM0ZGEtNDk4Yy00MTk1LTk3NGYtOWI0YTk2M2FiNzkzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-06-10",
+    "title": "Night Nurse",
+    "id": "tt38906892",
+    "url": "https://www.imdb.com/title/tt38906892/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkN2E1MWQtNWRhOS00NTRlLWFmNmQtNDVmNmZjMjA5MTRkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-06-10",
     "title": "Big Girls Wanted: Escaping Pearadise",
     "id": "tt42907659",
     "url": "https://www.imdb.com/title/tt42907659/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -317,7 +317,7 @@
     "title": "Little Singles (2026– )",
     "id": "tt42815500",
     "url": "https://www.imdb.com/title/tt42815500/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -437,7 +437,7 @@
     "title": "The Get Out",
     "id": "tt32321803",
     "url": "https://www.imdb.com/title/tt32321803/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWU0OWJhMDAtMDk4MC00ZjVmLThkYjMtYWYxOGRiZTViYjZkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU5MWQyMDUtZmZjMy00NTcwLWIwYWUtZGIzMjM5ZmFjMjMzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -525,7 +525,7 @@
     "title": "Nation's Dumbest (2026– )",
     "id": "tt38865342",
     "url": "https://www.imdb.com/title/tt38865342/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -573,7 +573,7 @@
     "title": "Detective Starke (2026– )",
     "id": "tt38353909",
     "url": "https://www.imdb.com/title/tt38353909/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -581,7 +581,7 @@
     "title": "House of Stassi (2026– )",
     "id": "tt42006748",
     "url": "https://www.imdb.com/title/tt42006748/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -709,7 +709,7 @@
     "title": "Tierra de amor y coraje (2026– )",
     "id": "tt42172921",
     "url": "https://www.imdb.com/title/tt42172921/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -805,12 +805,12 @@
     "title": "Middle Class Cash (2026– )",
     "id": "tt42928358",
     "url": "https://www.imdb.com/title/tt42928358/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
     "date": "2026-09-02",
-    "title": "Fall 2",
+    "title": "Fall 2: Deadpoint",
     "id": "tt31192372",
     "url": "https://www.imdb.com/title/tt31192372/",
     "poster": "https://m.media-amazon.com/images/M/MV5BM2QyMzQ5NWItMzhjZC00OWEwLWJiN2YtNDIxNGQyOTFjOWZjXkEyXkFqcGc@._V1_UX500.jpg"
@@ -829,7 +829,7 @@
     "title": "By Any Means",
     "id": "tt34379051",
     "url": "https://www.imdb.com/title/tt34379051/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0MGMyMjYtY2I5OS00MDM4LTlkYjctMmUwNWU4MTQ5MzFiXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -853,7 +853,7 @@
     "title": "Onslaught",
     "id": "tt32268691",
     "url": "https://www.imdb.com/title/tt32268691/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ0MGMyMjYtY2I5OS00MDM4LTlkYjctMmUwNWU4MTQ5MzFiXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -869,7 +869,7 @@
     "title": "Marble Hall Murders (2026– )",
     "id": "tt35617054",
     "url": "https://www.imdb.com/title/tt35617054/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -992,14 +992,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
-    "type": "movie",
-    "date": "2026-09-25",
-    "title": "Your Mother Your Mother Your Mother",
-    "id": "tt35856037",
-    "url": "https://www.imdb.com/title/tt35856037/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-09-30",
     "title": "HexVets and Magic Pets (2026–2030)",
@@ -1089,6 +1081,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-10-09",
+    "title": "Your Mother Your Mother Your Mother",
+    "id": "tt35856037",
+    "url": "https://www.imdb.com/title/tt35856037/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNhN2Y5NTEtNzEyMy00NWQ0LTg4OTMtNzEwM2M1ZGYzYzA4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-10-16",
     "title": "Flywheel: Ignition of the Soul",
     "id": "tt42004484",
@@ -1125,7 +1125,7 @@
     "title": "BBW (2026– )",
     "id": "tt37792929",
     "url": "https://www.imdb.com/title/tt37792929/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0MzE5MGMtMzU5MS00ZTU4LWJmMWEtODhhMjYzNTI4NWMxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
