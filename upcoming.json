@@ -1,13 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-06-02",
-    "title": "Devotion: Obedience or Betrayal",
-    "id": "tt42841691",
-    "url": "https://www.imdb.com/title/tt42841691/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "movie",
     "date": "2026-06-04",
     "title": "Peddi",
@@ -141,7 +133,7 @@
     "title": "Crashers (2026– )",
     "id": "tt42423511",
     "url": "https://www.imdb.com/title/tt42423511/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmU5ZjUxN2ItMTViOS00ODI2LTliODEtNTViY2YxMTQ3YmQwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -197,7 +189,7 @@
     "title": "Big Girls Wanted: Escaping Pearadise",
     "id": "tt42907659",
     "url": "https://www.imdb.com/title/tt42907659/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -317,7 +309,7 @@
     "title": "Little Singles (2026– )",
     "id": "tt42815500",
     "url": "https://www.imdb.com/title/tt42815500/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -341,7 +333,7 @@
     "title": "Citizen Vigilante",
     "id": "tt35309713",
     "url": "https://www.imdb.com/title/tt35309713/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ0MWI5YzYtODJmNC00Yjc1LTg5MGQtYTEwZTI1NjQ4YWU1XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FjZjE2YmUtNjE2NS00ZjcyLWEwMzUtZGYwNzI0ZWQxODVlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -437,7 +429,7 @@
     "title": "The Get Out",
     "id": "tt32321803",
     "url": "https://www.imdb.com/title/tt32321803/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTU5MWQyMDUtZmZjMy00NTcwLWIwYWUtZGIzMjM5ZmFjMjMzXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjYyODEwZjQtYWRjMy00OTc1LWFlYzktYjI1MTE3YjhlNDMzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -525,7 +517,7 @@
     "title": "Nation's Dumbest (2026– )",
     "id": "tt38865342",
     "url": "https://www.imdb.com/title/tt38865342/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -534,6 +526,14 @@
     "id": "tt36246412",
     "url": "https://www.imdb.com/title/tt36246412/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTYxZjEwZWItN2FmMy00MDMwLTliZTYtNzU1ZGJmMjJlNDI2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-17",
+    "title": "Horsegirls",
+    "id": "tt13652006",
+    "url": "https://www.imdb.com/title/tt13652006/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -573,7 +573,7 @@
     "title": "Detective Starke (2026– )",
     "id": "tt38353909",
     "url": "https://www.imdb.com/title/tt38353909/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -581,7 +581,7 @@
     "title": "House of Stassi (2026– )",
     "id": "tt42006748",
     "url": "https://www.imdb.com/title/tt42006748/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -601,11 +601,19 @@
   },
   {
     "type": "movie",
+    "date": "2026-08-01",
+    "title": "DEVOUR",
+    "id": "tt14541160",
+    "url": "https://www.imdb.com/title/tt14541160/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5NmVlZTMtYTVhOC00NDdmLTk3NWItYjNiZGNiY2YzMGM4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-08-07",
     "title": "Ice Cream Man",
     "id": "tt36893729",
     "url": "https://www.imdb.com/title/tt36893729/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkZjk4ZjctNzhjNS00NGZjLTgxY2UtMGFjYTc1ZGMxODE0XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQwNWI2M2QtZjBjZi00NGRkLWIwODctZjQ2NWQ2OWVjMGRiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -709,7 +717,7 @@
     "title": "Tierra de amor y coraje (2026– )",
     "id": "tt42172921",
     "url": "https://www.imdb.com/title/tt42172921/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -805,7 +813,7 @@
     "title": "Middle Class Cash (2026– )",
     "id": "tt42928358",
     "url": "https://www.imdb.com/title/tt42928358/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -829,7 +837,7 @@
     "title": "By Any Means",
     "id": "tt34379051",
     "url": "https://www.imdb.com/title/tt34379051/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTUwODQ5N2QtMGM3Ny00YTk1LWJlZTctMTE5ZTAzNTMwOGQxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -837,7 +845,7 @@
     "title": "How to Rob a Bank",
     "id": "tt35866986",
     "url": "https://www.imdb.com/title/tt35866986/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ1NWUwMzMtZDJjMC00ZThlLWE1NTUtNmUzOGI1MTViZjM3XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -869,7 +877,15 @@
     "title": "Marble Hall Murders (2026– )",
     "id": "tt35617054",
     "url": "https://www.imdb.com/title/tt35617054/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-09",
+    "title": "Hope",
+    "id": "tt27369017",
+    "url": "https://www.imdb.com/title/tt27369017/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQwNzI5OTUtZjEzOS00ODI0LTk1MTEtNTNjNTdmYjFmNGQwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -886,6 +902,14 @@
     "id": "tt37542993",
     "url": "https://www.imdb.com/title/tt37542993/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-11",
+    "title": "Hotel Tehran",
+    "id": "tt9601292",
+    "url": "https://www.imdb.com/title/tt9601292/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1125,7 +1149,7 @@
     "title": "BBW (2026– )",
     "id": "tt37792929",
     "url": "https://www.imdb.com/title/tt37792929/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzg0NDJjMDMtMjEzZS00ZTk0LTgzOTMtNmM2NWE3ZGE4MTAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZiN2VlNmMtZWM4Zi00NGQ3LTk2OTktMzY5MjA4N2NjNTIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1373,7 +1397,7 @@
     "title": "Werwulf",
     "id": "tt35514120",
     "url": "https://www.imdb.com/title/tt35514120/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYTMyYmQtMmY4OC00YTZlLTk2MjYtOTdkM2RmOTIyYzBhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1445,14 +1469,6 @@
     "title": "Ice Age: Boiling Point",
     "id": "tt34512981",
     "url": "https://www.imdb.com/title/tt34512981/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGFjODE0MzgtM2E1MS00YWUxLTg0MDktMjFiNmQwN2U3ODcwXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2027-02-05",
-    "title": "Lords of War",
-    "id": "tt27706987",
-    "url": "https://www.imdb.com/title/tt27706987/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZGFjODE0MzgtM2E1MS00YWUxLTg0MDktMjFiNmQwN2U3ODcwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
@@ -1702,5 +1718,13 @@
     "id": "tt13499272",
     "url": "https://www.imdb.com/title/tt13499272/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzg2Mzc2OTEtZGNlZS00NTk5LThlMjYtZjM5MDZiOWZiM2RiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-04",
+    "title": "John Rambo",
+    "id": "tt36963968",
+    "url": "https://www.imdb.com/title/tt36963968/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJhMDkzY2YtMTU0NC00NWFlLTllMDAtNThjYjNmNjQ3YzExXkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]
