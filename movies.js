@@ -20,7 +20,7 @@ async function scrapeTop250Movies() {
     console.log(`Navigating to ${url}`);
 
     try {
-        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
         await page.waitForSelector('li.ipc-metadata-list-summary-item');
 
         console.log('Scrolling to load all 250 movies...');

@@ -19,7 +19,7 @@ async function scrapeTop250Series() {
 
     try {
         console.log(`Navigating to ${url}`);
-        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
         await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
 
