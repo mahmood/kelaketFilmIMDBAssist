@@ -21,22 +21,19 @@ async function scrapeTop250Movies() {
 
     try {
         await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
-
-        // منتظر ماندن برای لود شدن اولین آیتم
         await page.waitForSelector('li.ipc-metadata-list-summary-item');
 
         console.log('Scrolling to load all 250 movies...');
-        
-        // اصلاح شده: اسکرول هوشمند تا زمانی که تعداد به 250 برسد
+
         let count = 0;
-        while (count < 250) {
+        let retries = 0;
+
+        while (count < 250 && retries < 20) {
             await page.evaluate(() => window.scrollBy(0, window.innerHeight * 2));
-            await page.waitForTimeout(1000); // زمان برای لود شدن تیکه‌های جدید
+            await page.waitForTimeout(1200);
             count = await page.locator('li.ipc-metadata-list-summary-item').count();
             console.log(`Loaded ${count}/250 movies...`);
-            
-            // جلوگیری از حلقه بی‌پایان در صورت بروز خطا
-            if (count === 0) break; 
+            retries++;
         }
 
         const items = page.locator('li.ipc-metadata-list-summary-item');
@@ -47,26 +44,51 @@ async function scrapeTop250Movies() {
             return nodes.map((element, index) => {
                 const safeText = (el) => el ? el.textContent.trim() : null;
 
-                // سلکتورهای دقیق‌تر برای نسخه جدید
-                const titleEl = element.querySelector('.ipc-title-link-wrapper h3');
-                const imgEl = element.querySelector('.ipc-image');
-                const metaEls = element.querySelectorAll('.cli-title-metadata-item');
-                const ratingEl = element.querySelector('span[aria-label^="IMDb rating"]');
+                const titleEl = element.querySelector('h3.ipc-title__text, h4.ipc-title__text');
+                const linkEl = element.querySelector('a.ipc-title-link-wrapper');
+                const imgEl = element.querySelector('img.ipc-image');
+                const ratingEl = element.querySelector('span.ipc-rating-star--rating');
+                const metaItems = element.querySelectorAll('ul.ipc-inline-list li.ipc-inline-list__item');
 
                 const fullTitle = safeText(titleEl) || '';
                 const rankMatch = fullTitle.match(/^(\d+)\.\s*(.*)$/);
 
-                return {
-                    rank: rankMatch ? parseInt(rankMatch[1], 10) : index + 1,
-                    title: rankMatch ? rankMatch[2].trim() : fullTitle,
-                    year: metaEls[0] ? parseInt(metaEls[0].textContent.trim()) : null,
-                    rate: ratingEl ? parseFloat(ratingEl.textContent.split('(')[0].trim()) : null,
-                    url: element.querySelector('a.ipc-title-link-wrapper')?.href || null,
-                    image: imgEl?.src || null,
-                    id: element.querySelector('a.ipc-title-link-wrapper')?.href.match(/tt\d+/)?.[0] || null
-                };
+                const rank = rankMatch ? parseInt(rankMatch[1], 10) : index + 1;
+                const title = rankMatch ? rankMatch[2].trim() : fullTitle;
+
+                const year = metaItems[0] ? metaItems[0].textContent.trim() : null;
+
+                let rating = null;
+                if (ratingEl) {
+                    const rateMatch = ratingEl.textContent.trim().match(/(\d+(\.\d+)?)/);
+                    rating = rateMatch ? parseFloat(rateMatch[1]) : null;
+                }
+
+                const href = linkEl ? linkEl.getAttribute('href') : null;
+                const cleanHref = href ? href.split('?')[0] : null;
+                const imdbUrl = cleanHref ? `https://www.imdb.com${cleanHref}` : null;
+
+                const idMatch = cleanHref ? cleanHref.match(/tt\d+/) : null;
+                const id = idMatch ? idMatch[0] : null;
+
+                let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
+                if (image) {
+                    image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
+                }
+
+                return { rank, title, year, rate: rating, url: imdbUrl, image, id };
             }).filter(item => item.title && item.url);
         });
+
+        console.log(`✅ Extracted ${moviesData.length} movies`);
+
+        if (moviesData.length > 200) {
+            fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
+            console.log('✅ File saved: top250movies.json');
+        } else {
+            console.error('❌ Scrape failed or returned too few items.');
+            process.exit(1);
+        }
 
     } catch (error) {
         console.error('❌ Error:', error);
@@ -74,24 +96,6 @@ async function scrapeTop250Movies() {
     } finally {
         await browser.close();
     }
-}
-
-async function autoScroll(page) {
-    await page.evaluate(async () => {
-        await new Promise((resolve) => {
-            let totalHeight = 0;
-            const distance = 800;
-            const timer = setInterval(() => {
-                const scrollHeight = document.body.scrollHeight;
-                window.scrollBy(0, distance);
-                totalHeight += distance;
-                if (totalHeight >= scrollHeight) {
-                    clearInterval(timer);
-                    resolve();
-                }
-            }, 150);
-        });
-    });
 }
 
 scrapeTop250Movies();
