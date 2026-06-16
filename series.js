@@ -19,26 +19,41 @@ async function scrapeTop250Series() {
 
     try {
         console.log(`Navigating to ${url}`);
-        // استفاده از domcontentloaded برای پایداری بیشتر
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        // استفاده از networkidle برای اطمینان از لود شدن دیتاهای اولیه
+        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
         await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
 
-        console.log('Scrolling to load all 250 posters...');
-        await autoScroll(page);
+        console.log('Scrolling to load all 250 series...');
+        
+        // اصلاح شده: اسکرول هوشمند تا لود شدن کامل لیست
+        let currentCount = 0;
+        let retries = 0;
+        while (currentCount < 250 && retries < 20) {
+            await page.evaluate(() => window.scrollBy(0, window.innerHeight * 2));
+            await page.waitForTimeout(1500); // زمان کافی برای لود شدن Chunk بعدی
+            
+            currentCount = await page.locator('li.ipc-metadata-list-summary-item').count();
+            console.log(`Progress: ${currentCount}/250 loaded...`);
+            
+            if (currentCount >= 250) break;
+            retries++;
+        }
 
         const items = page.locator('li.ipc-metadata-list-summary-item');
-        const count = await items.count();
-        console.log(`Found ${count} elements. Starting extraction...`);
+        const finalCount = await items.count();
+        console.log(`Found ${finalCount} elements. Starting extraction...`);
 
         const seriesData = await items.evaluateAll((nodes) => {
             return nodes.map((element, index) => {
                 const safeText = (el) => el ? el.textContent.trim() : null;
 
+                // سلکتورهای بهینه‌سازی شده برای نسخه 2024-2025 IMDb
                 const titleEl = element.querySelector('h3.ipc-title__text');
-                const linkEl = element.querySelector('a[href*="/title/tt"]');
-                const imgEl = element.querySelector('img');
+                const linkEl = element.querySelector('a.ipc-title-link-wrapper');
+                const imgEl = element.querySelector('.ipc-image');
                 const metaEls = element.querySelectorAll('.cli-title-metadata-item');
+                const ratingEl = element.querySelector('span[aria-label^="IMDb rating"]');
 
                 const fullTitle = safeText(titleEl) || '';
                 const rankMatch = fullTitle.match(/^(\d+)\.\s*(.*)$/);
@@ -46,14 +61,14 @@ async function scrapeTop250Series() {
                 const rank = rankMatch ? parseInt(rankMatch[1], 10) : index + 1;
                 const title = rankMatch ? rankMatch[2].trim() : fullTitle;
 
+                // استخراج سال (معمولاً اولین آیتم در متا دیتا)
                 const yearText = metaEls[0] ? metaEls[0].textContent.trim() : null;
-                const yearMatch = yearText ? yearText.match(/\d{4}/) : null;
-                const year = yearMatch ? parseInt(yearMatch[0], 10) : null;
-
+                
+                // استخراج امتیاز (پاکسازی متن امتیاز از پرانتزها)
                 let rating = null;
-                const ratingEl = element.querySelector('.ipc-rating-star--rating');
                 if (ratingEl) {
-                    rating = parseFloat(ratingEl.textContent.trim());
+                    const rateMatch = ratingEl.textContent.match(/(\d+(\.\d+)?)/);
+                    rating = rateMatch ? parseFloat(rateMatch[1]) : null;
                 }
 
                 const href = linkEl ? linkEl.getAttribute('href') : null;
@@ -63,22 +78,23 @@ async function scrapeTop250Series() {
                 const idMatch = cleanHref ? cleanHref.match(/tt\d+/) : null;
                 const id = idMatch ? idMatch[0] : null;
 
+                // اصلاح کیفیت تصویر به سایز بزرگتر (UX500)
                 let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
                 if (image) {
                     image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
                 }
 
-                return { rank, title, year, rate: rating, url: imdbUrl, image, id };
+                return { rank, title, year: yearText, rate: rating, url: imdbUrl, image, id };
             }).filter(item => item.title && item.url);
         });
 
-        console.log(`✅ Successfully scraped ${seriesData.length} series.`);
+        console.log(`✅ Successfully extracted ${seriesData.length} series.`);
 
         if (seriesData.length > 200) {
             fs.writeFileSync('top250series.json', JSON.stringify(seriesData, null, 2), 'utf8');
             console.log('✅ File saved: top250series.json');
         } else {
-            console.error('❌ Scrape failed or returned too few items.');
+            console.error('❌ Scrape failed or returned too few items. Check selectors.');
             process.exit(1);
         }
 
@@ -89,24 +105,6 @@ async function scrapeTop250Series() {
         console.log('Closing browser...');
         await browser.close();
     }
-}
-
-async function autoScroll(page) {
-    await page.evaluate(async () => {
-        await new Promise((resolve) => {
-            let totalHeight = 0;
-            const distance = 800;
-            const timer = setInterval(() => {
-                const scrollHeight = document.body.scrollHeight;
-                window.scrollBy(0, distance);
-                totalHeight += distance;
-                if (totalHeight >= scrollHeight) {
-                    clearInterval(timer);
-                    resolve();
-                }
-            }, 150);
-        });
-    });
 }
 
 scrapeTop250Series();

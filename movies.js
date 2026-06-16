@@ -20,69 +20,53 @@ async function scrapeTop250Movies() {
     console.log(`Navigating to ${url}`);
 
     try {
-        // تغییر به domcontentloaded برای جلوگیری از Timeout در گیت‌هاب
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
 
-        // منتظر ماندن برای لود شدن حداقل یک آیتم از لیست
-        await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
+        // منتظر ماندن برای لود شدن اولین آیتم
+        await page.waitForSelector('li.ipc-metadata-list-summary-item');
 
-        console.log('Scrolling to load all 250 posters...');
-        await autoScroll(page);
+        console.log('Scrolling to load all 250 movies...');
+        
+        // اصلاح شده: اسکرول هوشمند تا زمانی که تعداد به 250 برسد
+        let count = 0;
+        while (count < 250) {
+            await page.evaluate(() => window.scrollBy(0, window.innerHeight * 2));
+            await page.waitForTimeout(1000); // زمان برای لود شدن تیکه‌های جدید
+            count = await page.locator('li.ipc-metadata-list-summary-item').count();
+            console.log(`Loaded ${count}/250 movies...`);
+            
+            // جلوگیری از حلقه بی‌پایان در صورت بروز خطا
+            if (count === 0) break; 
+        }
 
         const items = page.locator('li.ipc-metadata-list-summary-item');
-        const count = await items.count();
-        console.log(`Found ${count} elements on page. Starting extraction...`);
+        const finalCount = await items.count();
+        console.log(`Found ${finalCount} elements. Starting extraction...`);
 
         const moviesData = await items.evaluateAll((nodes) => {
             return nodes.map((element, index) => {
                 const safeText = (el) => el ? el.textContent.trim() : null;
 
-                const titleEl = element.querySelector('h3.ipc-title__text');
-                const linkEl = element.querySelector('a[href*="/title/tt"]');
-                const imgEl = element.querySelector('img');
+                // سلکتورهای دقیق‌تر برای نسخه جدید
+                const titleEl = element.querySelector('.ipc-title-link-wrapper h3');
+                const imgEl = element.querySelector('.ipc-image');
                 const metaEls = element.querySelectorAll('.cli-title-metadata-item');
+                const ratingEl = element.querySelector('span[aria-label^="IMDb rating"]');
 
                 const fullTitle = safeText(titleEl) || '';
                 const rankMatch = fullTitle.match(/^(\d+)\.\s*(.*)$/);
 
-                const rank = rankMatch ? parseInt(rankMatch[1], 10) : index + 1;
-                const title = rankMatch ? rankMatch[2].trim() : fullTitle;
-
-                const yearText = metaEls[0] ? metaEls[0].textContent.trim() : null;
-                const yearMatch = yearText ? yearText.match(/\d{4}/) : null;
-                const year = yearMatch ? parseInt(yearMatch[0], 10) : null;
-
-                let rating = null;
-                const ratingEl = element.querySelector('.ipc-rating-star--rating');
-                if (ratingEl) {
-                    rating = parseFloat(ratingEl.textContent.trim());
-                }
-
-                const href = linkEl ? linkEl.getAttribute('href') : null;
-                const cleanHref = href ? href.split('?')[0] : null;
-                const imdbUrl = cleanHref ? `https://www.imdb.com${cleanHref}` : null;
-
-                const idMatch = cleanHref ? cleanHref.match(/tt\d+/) : null;
-                const id = idMatch ? idMatch[0] : null;
-
-                let image = imgEl ? (imgEl.getAttribute('src') || imgEl.getAttribute('data-src')) : null;
-                if (image) {
-                    image = image.replace(/_V1_.*?\.(jpg|png|webp)/i, '_V1_UX500.jpg');
-                }
-
-                return { rank, title, year, rate: rating, url: imdbUrl, image, id };
+                return {
+                    rank: rankMatch ? parseInt(rankMatch[1], 10) : index + 1,
+                    title: rankMatch ? rankMatch[2].trim() : fullTitle,
+                    year: metaEls[0] ? parseInt(metaEls[0].textContent.trim()) : null,
+                    rate: ratingEl ? parseFloat(ratingEl.textContent.split('(')[0].trim()) : null,
+                    url: element.querySelector('a.ipc-title-link-wrapper')?.href || null,
+                    image: imgEl?.src || null,
+                    id: element.querySelector('a.ipc-title-link-wrapper')?.href.match(/tt\d+/)?.[0] || null
+                };
             }).filter(item => item.title && item.url);
         });
-
-        console.log(`✅ Successfully extracted ${moviesData.length} movies.`);
-        
-        if (moviesData.length > 200) {
-            fs.writeFileSync('top250movies.json', JSON.stringify(moviesData, null, 2), 'utf8');
-            console.log('✅ File saved: top250movies.json');
-        } else {
-            console.error('❌ Scrape failed or returned too few items. File was not updated.');
-            process.exit(1);
-        }
 
     } catch (error) {
         console.error('❌ Error:', error);
