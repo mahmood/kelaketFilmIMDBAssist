@@ -1,14 +1,6 @@
 [
   {
     "type": "movie",
-    "date": "2026-06-16",
-    "title": "Diamond Made Man",
-    "id": "tt39674832",
-    "url": "https://www.imdb.com/title/tt39674832/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzZhYzk1ZjktZDc2ZC00MzQzLTg4ZGUtMDA1NjI3YTE3ZGNhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-06-17",
     "title": "Gregg Allman: The Music of My Soul",
     "id": "tt40210973",
@@ -272,6 +264,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-07-10",
+    "title": "Crossing",
+    "id": "tt39276601",
+    "url": "https://www.imdb.com/title/tt39276601/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FjMTg0ODYtZGE4My00YWE1LTllOTEtNzg1YTdhMjU2YzFjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-07-13",
     "title": "Dancing with the Stars: The Next Pro (2026– )",
@@ -310,6 +310,22 @@
     "id": "tt13652006",
     "url": "https://www.imdb.com/title/tt13652006/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-07-22",
+    "title": "Pompeii: Out of Time with Tom Hiddleston (2026– )",
+    "id": "tt34688214",
+    "url": "https://www.imdb.com/title/tt34688214/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIwYmQ3MzYtNWVlMC00ZjJjLTgxMTctYTM5MjgxYjNjNzdkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-23",
+    "title": "Bad Counselors",
+    "id": "tt6633934",
+    "url": "https://www.imdb.com/title/tt6633934/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzllZGZjMTAtNjJlZS00YmI5LTg0NjctOTA2MDA1MjI1YzU5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -557,7 +573,7 @@
     "title": "Hot Spot",
     "id": "tt14119302",
     "url": "https://www.imdb.com/title/tt14119302/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDNmODc5NTgtMjRkZC00YjU1LTkyYTItNzc0N2NlYzkxM2IyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDliZDNhOTAtMjBhNy00OWVmLWFhYWQtYTUyMzkwMDU3MmM1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1101,7 +1117,7 @@
     "title": "Hexed",
     "id": "tt38077943",
     "url": "https://www.imdb.com/title/tt38077943/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyZDYwNGUtODlhMi00NGU1LTllNzYtMTVjNmE0ZmQyNDU0XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5Y2YtZmQ3Ny00N2FjLWIyMGMtYzU1YzEyZTgyZjIwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1189,7 +1205,7 @@
     "title": "Shakti Shalini",
     "id": "tt35257441",
     "url": "https://www.imdb.com/title/tt35257441/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmVjNTNhMjQtZDM4Ni00NjRkLWIwZGMtMDgyYWNkN2Q0ZTY2XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": null
   },
   {
     "type": "movie",
@@ -1453,7 +1469,7 @@
     "title": "Spaceballs: The New One",
     "id": "tt32659463",
     "url": "https://www.imdb.com/title/tt32659463/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU1YWJjMTItYTdmYS00YzQ0LTlkZGQtMzhhMGNhYTk5Mjg5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
