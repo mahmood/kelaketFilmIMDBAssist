@@ -1,14 +1,6 @@
 [
   {
     "type": "movie",
-    "date": "2026-06-17",
-    "title": "Gregg Allman: The Music of My Soul",
-    "id": "tt40210973",
-    "url": "https://www.imdb.com/title/tt40210973/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWE5MjUzZGItYjczOC00NDIzLWJjMjAtZDRkZWZiNjRlMmE0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-06-19",
     "title": "Toy Story 5",
     "id": "tt29355505",
@@ -77,7 +69,7 @@
     "title": "Supergirl",
     "id": "tt8814476",
     "url": "https://www.imdb.com/title/tt8814476/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjlhMTdmODYtOGE0ZC00YzAwLWI1NDMtMTIzZDQzZGVkNDMwXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -102,14 +94,6 @@
     "id": "tt19035928",
     "url": "https://www.imdb.com/title/tt19035928/",
     "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTU2MzEtNjgwZS00YzA5LWE3MjctNTljZmZjYjNjYzhhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "The Get Out",
-    "id": "tt32321803",
-    "url": "https://www.imdb.com/title/tt32321803/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -365,7 +349,7 @@
     "title": "Brunello: The Gracious Visionary",
     "id": "tt37107071",
     "url": "https://www.imdb.com/title/tt37107071/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGRmNzBhNDItYTdmZS00YmQ3LTk4ZWUtNjRjOGNjNzcyMGYzXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -573,7 +557,15 @@
     "title": "Hot Spot",
     "id": "tt14119302",
     "url": "https://www.imdb.com/title/tt14119302/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDliZDNhOTAtMjBhNy00OWVmLWFhYWQtYTUyMzkwMDU3MmM1XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWI3NzdmNmYtYjJiNS00NjA4LThiNjktNWU1ZmZjZWJiMGQwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-21",
+    "title": "The Marching Band",
+    "id": "tt30327451",
+    "url": "https://www.imdb.com/title/tt30327451/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
