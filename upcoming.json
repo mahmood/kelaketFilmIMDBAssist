@@ -57,6 +57,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-06-19",
+    "title": "Cocktail 2",
+    "id": "tt35064672",
+    "url": "https://www.imdb.com/title/tt35064672/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-06-20",
     "title": "Dead Souls",
     "id": "tt34142731",
@@ -637,7 +645,7 @@
     "title": "Beyond Belief",
     "id": "tt32331539",
     "url": "https://www.imdb.com/title/tt32331539/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzE3Mjk3OTgtOTFjZC00NGUzLThiNTYtYjliNWU2MGUxYmE2XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyNmQyNmUtZmM5OS00ZmViLWE4ZTYtYjY1MTU1YWZiOTJhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -832,6 +840,22 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BY2ZiMWRlYjUtNTJjMy00ZTRkLWJlZDEtZDYyMjQzM2U1M2M5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "Crawlers",
+    "id": "tt32329539",
+    "url": "https://www.imdb.com/title/tt32329539/",
+    "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "The Scout",
+    "id": "tt36590599",
+    "url": "https://www.imdb.com/title/tt36590599/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-09-30",
     "title": "HexVets and Magic Pets (2026–2030)",
@@ -877,14 +901,6 @@
     "title": "Beware Boiúna",
     "id": "tt10377864",
     "url": "https://www.imdb.com/title/tt10377864/",
-    "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2026-10-02",
-    "title": "Crawlers",
-    "id": "tt32329539",
-    "url": "https://www.imdb.com/title/tt32329539/",
     "poster": null
   },
   {
@@ -1006,6 +1022,14 @@
     "id": "tt32359344",
     "url": "https://www.imdb.com/title/tt32359344/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-30",
+    "title": "Wicker",
+    "id": "tt29611136",
+    "url": "https://www.imdb.com/title/tt29611136/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
