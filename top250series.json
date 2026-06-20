@@ -624,7 +624,7 @@
     "rank": 70,
     "title": "Vinland Saga",
     "year": "2019–2023",
-    "rate": 8.8,
+    "rate": 8.9,
     "url": "https://www.imdb.com/title/tt10233448/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDA3MGNmZTEtMzFiMy00ZmViLThhNmQtMjQ4ZDc5MDEyN2U1XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt10233448"
@@ -1135,21 +1135,21 @@
   },
   {
     "rank": 127,
-    "title": "Behzat Ç: An Ankara Detective Story",
-    "year": "2010–2019",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt1795096/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1795096"
-  },
-  {
-    "rank": 128,
     "title": "This Is Us",
     "year": "2016–2022",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt5555260/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzk4YzY2ZjUtNTQ2YS00MWQ5LTgzZjctZTRlMmZlMzNjNDc3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt5555260"
+  },
+  {
+    "rank": 128,
+    "title": "Behzat Ç: An Ankara Detective Story",
+    "year": "2010–2019",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt1795096/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1795096"
   },
   {
     "rank": 129,
@@ -1351,21 +1351,21 @@
   },
   {
     "rank": 151,
-    "title": "Farouk Omar",
-    "year": "2012",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt2063241/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2063241"
-  },
-  {
-    "rank": 152,
     "title": "Primal",
     "year": "2019–",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt10332508/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTc0NTUyYmItOTY4Yi00ZjY5LWI1NjMtNDgyODJhYWRiY2UxXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt10332508"
+  },
+  {
+    "rank": 152,
+    "title": "Farouk Omar",
+    "year": "2012",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt2063241/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2063241"
   },
   {
     "rank": 153,
@@ -1405,21 +1405,21 @@
   },
   {
     "rank": 157,
-    "title": "Sapne Vs Everyone",
-    "year": "2023–",
-    "rate": 9.2,
-    "url": "https://www.imdb.com/title/tt30263074/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt30263074"
-  },
-  {
-    "rank": 158,
     "title": "Crash Landing on You",
     "year": "2019–2020",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt10850932/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjM3ZGQ4ZTMtOTNjMS00NmJlLTljMWUtNWExMzJhMGJlMWNiXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt10850932"
+  },
+  {
+    "rank": 158,
+    "title": "Sapne Vs Everyone",
+    "year": "2023–",
+    "rate": 9.2,
+    "url": "https://www.imdb.com/title/tt30263074/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt30263074"
   },
   {
     "rank": 159,
@@ -2080,21 +2080,21 @@
   },
   {
     "rank": 232,
-    "title": "Trailer Park Boys",
-    "year": "2001–2026",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0290988/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTA0NTAwMTc1MF5BMl5BanBnXkFtZTgwODk2NjY0ODE@._V1_UX500.jpg",
-    "id": "tt0290988"
-  },
-  {
-    "rank": 233,
     "title": "Takopi's Original Sin",
     "year": "2025",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt36988358/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt36988358"
+  },
+  {
+    "rank": 233,
+    "title": "Trailer Park Boys",
+    "year": "2001–2026",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt0290988/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA0NTAwMTc1MF5BMl5BanBnXkFtZTgwODk2NjY0ODE@._V1_UX500.jpg",
+    "id": "tt0290988"
   },
   {
     "rank": 234,
@@ -2161,21 +2161,21 @@
   },
   {
     "rank": 241,
-    "title": "Solo Leveling",
-    "year": "2024–",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt21209876/",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt21209876"
-  },
-  {
-    "rank": 242,
     "title": "Tash Ma Tash",
     "year": "1993–2023",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt5851616/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt5851616"
+  },
+  {
+    "rank": 242,
+    "title": "Solo Leveling",
+    "year": "2024–",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt21209876/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt21209876"
   },
   {
     "rank": 243,
@@ -2188,6 +2188,15 @@
   },
   {
     "rank": 244,
+    "title": "Mahabharat",
+    "year": "2013–2014",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt3212600/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3212600"
+  },
+  {
+    "rank": 245,
     "title": "Brass Eye",
     "year": "1997–2001",
     "rate": 8.6,
@@ -2196,22 +2205,13 @@
     "id": "tt0118273"
   },
   {
-    "rank": 245,
+    "rank": 246,
     "title": "Smiling Friends",
     "year": "2020–2026",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt12074628/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt12074628"
-  },
-  {
-    "rank": 246,
-    "title": "Mahabharat",
-    "year": "2013–2014",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt3212600/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzM1MmNhMGQtNDliNy00ZDIwLTg1MDQtN2NjZjUyNTg2MGMxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3212600"
   },
   {
     "rank": 247,

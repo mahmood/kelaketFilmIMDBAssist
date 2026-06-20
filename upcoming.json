@@ -1,70 +1,6 @@
 [
   {
     "type": "movie",
-    "date": "2026-06-19",
-    "title": "Toy Story 5",
-    "id": "tt29355505",
-    "url": "https://www.imdb.com/title/tt29355505/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "The Death of Robin Hood",
-    "id": "tt32273171",
-    "url": "https://www.imdb.com/title/tt32273171/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "Leviticus",
-    "id": "tt39143902",
-    "url": "https://www.imdb.com/title/tt39143902/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "Girls Like Girls",
-    "id": "tt32432654",
-    "url": "https://www.imdb.com/title/tt32432654/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzAwYmRjMzMtNTdkNC00Yzk5LTllZDYtMWRiZGZkNWY2NzMwXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "Citizen Vigilante",
-    "id": "tt35309713",
-    "url": "https://www.imdb.com/title/tt35309713/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2FjZjE2YmUtNjE2NS00ZjcyLWEwMzUtZGYwNzI0ZWQxODVlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "Rose of Nevada",
-    "id": "tt35674521",
-    "url": "https://www.imdb.com/title/tt35674521/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwNjc1ZTEtNTVhMy00NGE0LWFjZGMtNzE4M2QyMjQ1ZGQ4XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "O Horizon",
-    "id": "tt25971256",
-    "url": "https://www.imdb.com/title/tt25971256/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDhkMDE1ZDItNzU0ZS00MTI2LTg3OTEtNGNjMzQxN2U2YTY2XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-19",
-    "title": "Cocktail 2",
-    "id": "tt35064672",
-    "url": "https://www.imdb.com/title/tt35064672/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-06-20",
     "title": "Dead Souls",
     "id": "tt34142731",
@@ -1018,6 +954,14 @@
   {
     "type": "movie",
     "date": "2026-10-23",
+    "title": "The Only Living Pickpocket in New York",
+    "id": "tt36482679",
+    "url": "https://www.imdb.com/title/tt36482679/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MWFmNjMtZTFkZC00ZmQ5LWFkM2MtNjgxNTE2NTE0YWMxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-23",
     "title": "Wife and Dog",
     "id": "tt32359344",
     "url": "https://www.imdb.com/title/tt32359344/",
@@ -1606,5 +1550,13 @@
     "id": "tt7406252",
     "url": "https://www.imdb.com/title/tt7406252/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjliOGE4ZWItODAwMy00MGEzLWFhYzYtOGQ4NTEwYmY0MTU2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-20",
+    "title": "Spider-Man: Beyond the Spider-Verse",
+    "id": "tt16360004",
+    "url": "https://www.imdb.com/title/tt16360004/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjkwOWViYzYtMDQzNi00N2U0LWIxYTktNWE2ZDYyM2FhN2M5XkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]
