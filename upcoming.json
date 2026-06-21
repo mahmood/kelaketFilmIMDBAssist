@@ -1,14 +1,6 @@
 [
   {
     "type": "movie",
-    "date": "2026-06-20",
-    "title": "Dead Souls",
-    "id": "tt34142731",
-    "url": "https://www.imdb.com/title/tt34142731/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzgwOTFmNjItODFkOS00ZDEwLTlhMjEtNGQ1NGM2ZjA0MDQ1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-06-26",
     "title": "Supergirl",
     "id": "tt8814476",
