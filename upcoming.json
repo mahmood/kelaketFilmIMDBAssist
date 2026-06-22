@@ -18,6 +18,14 @@
   {
     "type": "movie",
     "date": "2026-06-26",
+    "title": "Lucky Strike",
+    "id": "tt19035928",
+    "url": "https://www.imdb.com/title/tt19035928/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTU2MzEtNjgwZS00YzA5LWE3MjctNTljZmZjYjNjYzhhXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-26",
     "title": "Jackass: Best and Last",
     "id": "tt39316472",
     "url": "https://www.imdb.com/title/tt39316472/",
@@ -26,10 +34,18 @@
   {
     "type": "movie",
     "date": "2026-06-26",
-    "title": "Lucky Strike",
-    "id": "tt19035928",
-    "url": "https://www.imdb.com/title/tt19035928/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTU2MzEtNjgwZS00YzA5LWE3MjctNTljZmZjYjNjYzhhXkEyXkFqcGc@._V1_UX500.jpg"
+    "title": "Dear You",
+    "id": "tt41791573",
+    "url": "https://www.imdb.com/title/tt41791573/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAwZDgxNWQtYjRhMC00MzRiLTgxOGEtMjJjMGU4YTc1NjIxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-06-26",
+    "title": "7 Dogs",
+    "id": "tt35512499",
+    "url": "https://www.imdb.com/title/tt35512499/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJkN2QzZTQtZTllMS00YWRhLTg2OWEtN2RlYWE4YmY1NWNiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -46,14 +62,6 @@
     "id": "tt33219707",
     "url": "https://www.imdb.com/title/tt33219707/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTkwY2YxOTItN2EyYi00Yjc3LTlmYTYtZWY0Y2M1MGQyZjdhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Dear You",
-    "id": "tt41791573",
-    "url": "https://www.imdb.com/title/tt41791573/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTAwZDgxNWQtYjRhMC00MzRiLTgxOGEtMjJjMGU4YTc1NjIxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -114,18 +122,18 @@
   {
     "type": "movie",
     "date": "2026-07-03",
-    "title": "Alpha",
-    "id": "tt28363783",
-    "url": "https://www.imdb.com/title/tt28363783/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-03",
     "title": "Young Washington",
     "id": "tt32104007",
     "url": "https://www.imdb.com/title/tt32104007/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-03",
+    "title": "Alpha",
+    "id": "tt28363783",
+    "url": "https://www.imdb.com/title/tt28363783/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -178,6 +186,14 @@
   {
     "type": "movie",
     "date": "2026-07-10",
+    "title": "Crossing",
+    "id": "tt39276601",
+    "url": "https://www.imdb.com/title/tt39276601/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FjMTg0ODYtZGE4My00YWE1LTllOTEtNzg1YTdhMjU2YzFjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-10",
     "title": "Reading Lolita in Tehran",
     "id": "tt27679443",
     "url": "https://www.imdb.com/title/tt27679443/",
@@ -186,10 +202,10 @@
   {
     "type": "movie",
     "date": "2026-07-10",
-    "title": "Crossing",
-    "id": "tt39276601",
-    "url": "https://www.imdb.com/title/tt39276601/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FjMTg0ODYtZGE4My00YWE1LTllOTEtNzg1YTdhMjU2YzFjXkEyXkFqcGc@._V1_UX500.jpg"
+    "title": "Baby Doe",
+    "id": "tt34923417",
+    "url": "https://www.imdb.com/title/tt34923417/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MDcwZDEtYzA3Zi00ZjY3LTljNzYtOGEzNDY1OWVjMjJmXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -208,6 +224,14 @@
     "poster": null
   },
   {
+    "type": "series",
+    "date": "2026-07-16",
+    "title": "Scott Peterson: The New Evidence",
+    "id": "tt40430823",
+    "url": "https://www.imdb.com/title/tt40430823/",
+    "poster": null
+  },
+  {
     "type": "movie",
     "date": "2026-07-17",
     "title": "The Odyssey",
@@ -218,18 +242,18 @@
   {
     "type": "movie",
     "date": "2026-07-17",
-    "title": "Cut Off",
-    "id": "tt36246412",
-    "url": "https://www.imdb.com/title/tt36246412/",
-    "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-17",
     "title": "Horsegirls",
     "id": "tt13652006",
     "url": "https://www.imdb.com/title/tt13652006/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-17",
+    "title": "Cut Off",
+    "id": "tt36246412",
+    "url": "https://www.imdb.com/title/tt36246412/",
+    "poster": null
   },
   {
     "type": "series",
@@ -258,6 +282,14 @@
   {
     "type": "movie",
     "date": "2026-07-24",
+    "title": "Her Private Hell",
+    "id": "tt36629665",
+    "url": "https://www.imdb.com/title/tt36629665/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODNiMmM3MjEtZGZhMS00MTlkLWFhOTYtMWViZTg2ZTRlMjdjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-24",
     "title": "Motor City",
     "id": "tt2012616",
     "url": "https://www.imdb.com/title/tt2012616/",
@@ -274,18 +306,18 @@
   {
     "type": "movie",
     "date": "2026-07-24",
-    "title": "Her Private Hell",
-    "id": "tt36629665",
-    "url": "https://www.imdb.com/title/tt36629665/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNiMmM3MjEtZGZhMS00MTlkLWFhOTYtMWViZTg2ZTRlMjdjXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-24",
     "title": "Brunello: The Gracious Visionary",
     "id": "tt37107071",
     "url": "https://www.imdb.com/title/tt37107071/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-28",
+    "title": "WHAM! 10 Days in China",
+    "id": "tt43492793",
+    "url": "https://www.imdb.com/title/tt43492793/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhMWRiMGUtM2QwMC00ZjZiLTk3MWUtOWIwNWEzNTJmOWU2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -330,18 +362,18 @@
   {
     "type": "movie",
     "date": "2026-08-07",
-    "title": "One Night Only",
-    "id": "tt37853455",
-    "url": "https://www.imdb.com/title/tt37853455/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MmMxMjItNWQ5NC00OGI1LWFjNTYtYjA3NjNmM2EzNmIyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-07",
     "title": "Ice Cream Man",
     "id": "tt36893729",
     "url": "https://www.imdb.com/title/tt36893729/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWMxMzRhY2YtYzNlNC00OTdjLWFmODgtMTU0ODc0NmQ1OWI3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-07",
+    "title": "One Night Only",
+    "id": "tt37853455",
+    "url": "https://www.imdb.com/title/tt37853455/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MmMxMjItNWQ5NC00OGI1LWFjNTYtYjA3NjNmM2EzNmIyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -402,18 +434,18 @@
   {
     "type": "movie",
     "date": "2026-08-14",
-    "title": "Nimrods",
-    "id": "tt34895535",
-    "url": "https://www.imdb.com/title/tt34895535/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWJmNDdlMTktNGFkMi00MDk3LTkxMjAtNGViMGFiNjZjYjkxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-14",
     "title": "The Brink of War",
     "id": "tt33070884",
     "url": "https://www.imdb.com/title/tt33070884/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTBkODU5YmEtZTgzYy00ZTc3LWI1OGYtNzVkZjNhZDYzMDMxXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-14",
+    "title": "Nimrods",
+    "id": "tt34895535",
+    "url": "https://www.imdb.com/title/tt34895535/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJmNDdlMTktNGFkMi00MDk3LTkxMjAtNGViMGFiNjZjYjkxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -482,18 +514,18 @@
   {
     "type": "movie",
     "date": "2026-08-21",
-    "title": "Spa Weekend",
-    "id": "tt33305867",
-    "url": "https://www.imdb.com/title/tt33305867/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYjQwMzEtMTAwMS00MjQxLTg5NTEtNzExNzI1ODQzNmQ4XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-21",
     "title": "Hot Spot",
     "id": "tt14119302",
     "url": "https://www.imdb.com/title/tt14119302/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWI3NzdmNmYtYjJiNS00NjA4LThiNjktNWU1ZmZjZWJiMGQwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-21",
+    "title": "Spa Weekend",
+    "id": "tt33305867",
+    "url": "https://www.imdb.com/title/tt33305867/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTcwYjQwMzEtMTAwMS00MjQxLTg5NTEtNzExNzI1ODQzNmQ4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -513,6 +545,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-08-26",
+    "title": "Toxic",
+    "id": "tt27530512",
+    "url": "https://www.imdb.com/title/tt27530512/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-08-28",
     "title": "The Dog Stars",
     "id": "tt21285562",
@@ -522,18 +562,18 @@
   {
     "type": "movie",
     "date": "2026-08-28",
-    "title": "Cliffhanger",
-    "id": "tt1441251",
-    "url": "https://www.imdb.com/title/tt1441251/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-28",
     "title": "Coyote vs. Acme",
     "id": "tt1756855",
     "url": "https://www.imdb.com/title/tt1756855/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
+    "title": "Cliffhanger",
+    "id": "tt1441251",
+    "url": "https://www.imdb.com/title/tt1441251/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -688,6 +728,14 @@
     "poster": null
   },
   {
+    "type": "series",
+    "date": "2026-09-17",
+    "title": "The Traitors: New Blood (2026– )",
+    "id": "tt37939196",
+    "url": "https://www.imdb.com/title/tt37939196/",
+    "poster": null
+  },
+  {
     "type": "movie",
     "date": "2026-09-18",
     "title": "Resident Evil",
@@ -714,18 +762,18 @@
   {
     "type": "movie",
     "date": "2026-09-18",
-    "title": "Untitled Disney",
-    "id": "tt26443624",
-    "url": "https://www.imdb.com/title/tt26443624/",
-    "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-18",
     "title": "Rolling Loud",
     "id": "tt33184695",
     "url": "https://www.imdb.com/title/tt33184695/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-18",
+    "title": "Untitled Disney",
+    "id": "tt26443624",
+    "url": "https://www.imdb.com/title/tt26443624/",
+    "poster": null
   },
   {
     "type": "movie",
@@ -746,6 +794,14 @@
   {
     "type": "movie",
     "date": "2026-09-25",
+    "title": "Charlie Harper",
+    "id": "tt27739255",
+    "url": "https://www.imdb.com/title/tt27739255/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZiMWRlYjUtNTJjMy00ZTRkLWJlZDEtZDYyMjQzM2U1M2M5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-25",
     "title": "Forgotten Island",
     "id": "tt36583977",
     "url": "https://www.imdb.com/title/tt36583977/",
@@ -762,10 +818,10 @@
   {
     "type": "movie",
     "date": "2026-09-25",
-    "title": "Charlie Harper",
-    "id": "tt27739255",
-    "url": "https://www.imdb.com/title/tt27739255/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZiMWRlYjUtNTJjMy00ZTRkLWJlZDEtZDYyMjQzM2U1M2M5XkEyXkFqcGc@._V1_UX500.jpg"
+    "title": "The Scout",
+    "id": "tt36590599",
+    "url": "https://www.imdb.com/title/tt36590599/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -774,14 +830,6 @@
     "id": "tt32329539",
     "url": "https://www.imdb.com/title/tt32329539/",
     "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-25",
-    "title": "The Scout",
-    "id": "tt36590599",
-    "url": "https://www.imdb.com/title/tt36590599/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -810,18 +858,18 @@
   {
     "type": "movie",
     "date": "2026-10-02",
-    "title": "Digger",
-    "id": "tt31450459",
-    "url": "https://www.imdb.com/title/tt31450459/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-10-02",
     "title": "Verity",
     "id": "tt32261958",
     "url": "https://www.imdb.com/title/tt32261958/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-02",
+    "title": "Digger",
+    "id": "tt31450459",
+    "url": "https://www.imdb.com/title/tt31450459/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -930,18 +978,18 @@
   {
     "type": "movie",
     "date": "2026-10-23",
-    "title": "Wildwood",
-    "id": "tt2056785",
-    "url": "https://www.imdb.com/title/tt2056785/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmVhMWViOWUtMTE1YS00NjcwLThiNTctZDQ2MTBmM2ZjYzk3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-10-23",
     "title": "Klara and the Sun",
     "id": "tt14371256",
     "url": "https://www.imdb.com/title/tt14371256/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDg2YWM1YTktMTQ5Ny00YjY5LWE2MGUtNTBiZDI4Y2Y5YTQ5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-23",
+    "title": "Wildwood",
+    "id": "tt2056785",
+    "url": "https://www.imdb.com/title/tt2056785/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVhMWViOWUtMTE1YS00NjcwLThiNTctZDQ2MTBmM2ZjYzk3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1058,18 +1106,18 @@
   {
     "type": "movie",
     "date": "2026-11-25",
-    "title": "Focker-in-Law",
-    "id": "tt34966140",
-    "url": "https://www.imdb.com/title/tt34966140/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-11-25",
     "title": "Hexed",
     "id": "tt38077943",
     "url": "https://www.imdb.com/title/tt38077943/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5Y2YtZmQ3Ny00N2FjLWIyMGMtYzU1YzEyZTgyZjIwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-11-25",
+    "title": "Focker-in-Law",
+    "id": "tt34966140",
+    "url": "https://www.imdb.com/title/tt34966140/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGI0NjhmMmEtNDAxZC00MDFjLThlNzUtYTUwMDkzMjMxNGIzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1162,14 +1210,6 @@
   {
     "type": "movie",
     "date": "2026-12-25",
-    "title": "Jumanji: Open World",
-    "id": "tt26735127",
-    "url": "https://www.imdb.com/title/tt26735127/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-12-25",
     "title": "Werwulf",
     "id": "tt35514120",
     "url": "https://www.imdb.com/title/tt35514120/",
@@ -1178,10 +1218,10 @@
   {
     "type": "movie",
     "date": "2026-12-25",
-    "title": "A Place in Hell",
-    "id": "tt36931184",
-    "url": "https://www.imdb.com/title/tt36931184/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_UX500.jpg"
+    "title": "Jumanji: Open World",
+    "id": "tt26735127",
+    "url": "https://www.imdb.com/title/tt26735127/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxZmExZDYtNDhkZS00YWI0LTlmOWQtZWRhYzY0ZWY4ODljXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1190,6 +1230,14 @@
     "id": "tt30093348",
     "url": "https://www.imdb.com/title/tt30093348/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjllOWE3OWQtNmVhYS00MzM0LTk2NTEtZjQzNTEzNTc2MTc3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-12-25",
+    "title": "A Place in Hell",
+    "id": "tt36931184",
+    "url": "https://www.imdb.com/title/tt36931184/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
