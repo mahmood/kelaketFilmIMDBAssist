@@ -15,8 +15,8 @@
     "id": "tt15047880",
     "url": "https://www.imdb.com/title/tt15047880/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$17M",
-    "gross": "$78M",
+    "weekend": "$18M",
+    "gross": "$79M",
     "weeks": "2"
   },
   {
@@ -25,8 +25,8 @@
     "id": "tt37287335",
     "url": "https://www.imdb.com/title/tt37287335/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$14M",
-    "gross": "$216M",
+    "weekend": "$13M",
+    "gross": "$215M",
     "weeks": "6"
   },
   {
@@ -35,7 +35,7 @@
     "id": "tt26657236",
     "url": "https://www.imdb.com/title/tt26657236/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$7.3M",
+    "weekend": "$7.2M",
     "gross": "$175M",
     "weeks": "4"
   },
@@ -45,8 +45,8 @@
     "id": "tt32093575",
     "url": "https://www.imdb.com/title/tt32093575/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$6.7M",
-    "gross": "$98M",
+    "weekend": "$6.4M",
+    "gross": "$97M",
     "weeks": "3"
   },
   {
@@ -55,7 +55,7 @@
     "id": "tt0427340",
     "url": "https://www.imdb.com/title/tt0427340/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$5.6M",
+    "weekend": "$6.2M",
     "gross": "$57M",
     "weeks": "3"
   },
@@ -65,26 +65,26 @@
     "id": "tt30825738",
     "url": "https://www.imdb.com/title/tt30825738/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjRkYzAzNjktZmRhMy00NjRiLWE0OTMtYmRmMTE5NDkzY2NlXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$3.9M",
+    "weekend": "$4.2M",
     "gross": "$172M",
     "weeks": "5"
   },
   {
     "rank": 8,
-    "title": "Leviticus",
-    "id": "tt39143902",
-    "url": "https://www.imdb.com/title/tt39143902/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$2.7M",
-    "gross": "$2.7M",
-    "weeks": "1"
-  },
-  {
-    "rank": 9,
     "title": "The Death of Robin Hood",
     "id": "tt32273171",
     "url": "https://www.imdb.com/title/tt32273171/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$2.9M",
+    "gross": "$2.9M",
+    "weeks": "1"
+  },
+  {
+    "rank": 9,
+    "title": "Leviticus",
+    "id": "tt39143902",
+    "url": "https://www.imdb.com/title/tt39143902/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$2.6M",
     "gross": "$2.6M",
     "weeks": "1"
