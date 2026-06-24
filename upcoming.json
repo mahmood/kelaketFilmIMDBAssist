@@ -152,6 +152,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzg5ZDI2MTEtMDRjMS00MjhhLWJiM2EtNWQwNzIxYTdlZGU0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "series",
+    "date": "2026-07-09",
+    "title": "The Man Will Burn",
+    "id": "tt29033873",
+    "url": "https://www.imdb.com/title/tt29033873/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwOWU3ODYtNzVhOS00YmFmLWE3YmQtYzE4MDMyZjgxYmUyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "movie",
     "date": "2026-07-10",
     "title": "Moana",
@@ -214,6 +222,14 @@
     "id": "tt40367753",
     "url": "https://www.imdb.com/title/tt40367753/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgwMWVhMTMtMzYyZi00MjViLWI3MTktZmRmYjU0YTFlYWJiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-07-13",
+    "title": "Rabbit Hole (2026– )",
+    "id": "tt38737396",
+    "url": "https://www.imdb.com/title/tt38737396/",
+    "poster": null
   },
   {
     "type": "series",
@@ -601,14 +617,6 @@
   },
   {
     "type": "movie",
-    "date": "2026-08-28",
-    "title": "Beyond Belief",
-    "id": "tt32331539",
-    "url": "https://www.imdb.com/title/tt32331539/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyNmQyNmUtZmM5OS00ZmViLWE4ZTYtYjY1MTU1YWZiOTJhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-09-02",
     "title": "Fall 2: Deadpoint",
     "id": "tt31192372",
@@ -718,6 +726,14 @@
     "id": "tt9601292",
     "url": "https://www.imdb.com/title/tt9601292/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-11",
+    "title": "Beyond Belief",
+    "id": "tt32331539",
+    "url": "https://www.imdb.com/title/tt32331539/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyNmQyNmUtZmM5OS00ZmViLWE4ZTYtYjY1MTU1YWZiOTJhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1205,7 +1221,7 @@
     "title": "Werwulf",
     "id": "tt35514120",
     "url": "https://www.imdb.com/title/tt35514120/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYTMyYmQtMmY4OC00YTZlLTk2MjYtOTdkM2RmOTIyYzBhXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": null
   },
   {
     "type": "movie",

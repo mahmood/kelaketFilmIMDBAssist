@@ -1918,15 +1918,6 @@
   },
   {
     "rank": 214,
-    "title": "Logan",
-    "year": "2017",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt3315342/",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3315342"
-  },
-  {
-    "rank": 215,
     "title": "Rocky",
     "year": "1976",
     "rate": 8.1,
@@ -1935,22 +1926,31 @@
     "id": "tt0075148"
   },
   {
-    "rank": 216,
-    "title": "A Silent Voice: The Movie",
-    "year": "2016",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt5323662/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt5323662"
+    "rank": 215,
+    "title": "Logan",
+    "year": "2017",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt3315342/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3315342"
   },
   {
-    "rank": 217,
+    "rank": 216,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": "2025",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt30472557/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt30472557"
+  },
+  {
+    "rank": 217,
+    "title": "A Silent Voice: The Movie",
+    "year": "2016",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt5323662/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt5323662"
   },
   {
     "rank": 218,
@@ -2233,12 +2233,12 @@
   },
   {
     "rank": 249,
-    "title": "Drishyam",
-    "year": "2013",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt3417422/",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2MwMjNlNjctYjA2ZS00ZDA4LWJmNTYtODg5NDY1YzQzZDg2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3417422"
+    "title": "Network",
+    "year": "1976",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0074958/",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0074958"
   },
   {
     "rank": 250,

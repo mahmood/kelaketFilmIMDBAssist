@@ -649,21 +649,21 @@
   },
   {
     "rank": 73,
-    "title": "Dragon Ball Z",
-    "year": "1996–2003",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt0214341/",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0214341"
-  },
-  {
-    "rank": 74,
     "title": "Gullak",
     "year": "2019–",
     "rate": 9.1,
     "url": "https://www.imdb.com/title/tt10530900/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGE3NTA0MDQtZmM3NC00ZmUwLWJmODktMWZkNTczN2JiYzA0XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt10530900"
+  },
+  {
+    "rank": 74,
+    "title": "Dragon Ball Z",
+    "year": "1996–2003",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt0214341/",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2VlNTdlMzQtYzE5OC00YmYwLTgyZTItYjEzMWY0ZDNjMTJhXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0214341"
   },
   {
     "rank": 75,
@@ -777,7 +777,7 @@
     "rank": 87,
     "title": "Berserk",
     "year": "1997–1998",
-    "rate": 8.7,
+    "rate": 8.8,
     "url": "https://www.imdb.com/title/tt0318871/",
     "image": "https://m.media-amazon.com/images/M/MV5BMzEzMzhkNDgtY2Q0YS00MDk0LTg0YzItODY5ZjNjMDc4ODI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0318871"
@@ -1126,21 +1126,21 @@
   },
   {
     "rank": 126,
-    "title": "Behzat Ç: An Ankara Detective Story",
-    "year": "2010–2019",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt1795096/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1795096"
-  },
-  {
-    "rank": 127,
     "title": "How to with John Wilson",
     "year": "2020–2023",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt10801534/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTQwMTMyODYtNzkwOC00MmM0LTkyNGItNDAxYjE0Yjc1NjhhXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt10801534"
+  },
+  {
+    "rank": 127,
+    "title": "Behzat Ç: An Ankara Detective Story",
+    "year": "2010–2019",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt1795096/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1795096"
   },
   {
     "rank": 128,
@@ -1468,21 +1468,21 @@
   },
   {
     "rank": 164,
-    "title": "The Return of Sherlock Holmes",
-    "year": "1986–1988",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt0090509/",
-    "image": "https://m.media-amazon.com/images/M/MV5BODM1NTgxOTMtM2VmZi00M2FkLWJiYWUtMjc5Yjk1MzY5ZTYxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0090509"
-  },
-  {
-    "rank": 165,
     "title": "El Chavo",
     "year": "1972–1983",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt0229889/",
     "image": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0229889"
+  },
+  {
+    "rank": 165,
+    "title": "The Return of Sherlock Holmes",
+    "year": "1986–1988",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt0090509/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM1NTgxOTMtM2VmZi00M2FkLWJiYWUtMjc5Yjk1MzY5ZTYxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0090509"
   },
   {
     "rank": 166,
@@ -1612,21 +1612,21 @@
   },
   {
     "rank": 180,
-    "title": "Dopesick",
-    "year": "2021",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt9174558/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmM0ZGFkZTctZjg2Ny00YmFhLThhNmItZjRjODk4ZGJhNWY3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt9174558"
-  },
-  {
-    "rank": 181,
     "title": "Scavengers Reign",
     "year": "2023",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt21056886/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmEyOWU1YjctNjgxNS00MTcyLTk3NDgtZmY3ZjBkY2RkN2YxXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt21056886"
+  },
+  {
+    "rank": 181,
+    "title": "Dopesick",
+    "year": "2021",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt9174558/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmM0ZGFkZTctZjg2Ny00YmFhLThhNmItZjRjODk4ZGJhNWY3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt9174558"
   },
   {
     "rank": 182,
@@ -1846,21 +1846,21 @@
   },
   {
     "rank": 206,
-    "title": "The Family Man",
-    "year": "2019–",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt9544034/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjM3YTczOWQtNjkzNi00ZTRlLThkZWEtZjgwZGVmODhkMDU3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt9544034"
-  },
-  {
-    "rank": 207,
     "title": "Samurai Jack",
     "year": "2001–2017",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt0278238/",
     "image": "https://m.media-amazon.com/images/M/MV5BNjIwZDQyOTMtNjVjNy00ODBiLTlmZWYtYTJkYzVjMTc2NWJkXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0278238"
+  },
+  {
+    "rank": 207,
+    "title": "The Family Man",
+    "year": "2019–",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt9544034/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjM3YTczOWQtNjkzNi00ZTRlLThkZWEtZjgwZGVmODhkMDU3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt9544034"
   },
   {
     "rank": 208,
@@ -2017,21 +2017,21 @@
   },
   {
     "rank": 225,
-    "title": "Whose Line Is It Anyway?",
-    "year": "1998–2007",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0163507/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjk5YmQ3YjYtYWM2My00MDQ3LTgxYTMtYzQ1ZjFlNDU4NDFjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0163507"
-  },
-  {
-    "rank": 226,
     "title": "Impractical Jokers",
     "year": "2011–",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt2100976/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt2100976"
+  },
+  {
+    "rank": 226,
+    "title": "Whose Line Is It Anyway?",
+    "year": "1998–2007",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt0163507/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk5YmQ3YjYtYWM2My00MDQ3LTgxYTMtYzQ1ZjFlNDU4NDFjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0163507"
   },
   {
     "rank": 227,
@@ -2206,21 +2206,21 @@
   },
   {
     "rank": 246,
-    "title": "The Expanse",
-    "year": "2015–2022",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt3230854/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3230854"
-  },
-  {
-    "rank": 247,
     "title": "Smiling Friends",
     "year": "2020–2026",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt12074628/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjNkMjdiZGEtMTg3Mi00YTAzLWJkMGYtMmIxMzNjMmRhOGNmXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt12074628"
+  },
+  {
+    "rank": 247,
+    "title": "The Expanse",
+    "year": "2015–2022",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt3230854/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3230854"
   },
   {
     "rank": 248,
