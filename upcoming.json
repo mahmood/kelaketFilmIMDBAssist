@@ -178,6 +178,14 @@
   {
     "type": "movie",
     "date": "2026-07-10",
+    "title": "The Invite",
+    "id": "tt14173636",
+    "url": "https://www.imdb.com/title/tt14173636/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-10",
     "title": "Gail Daughtry and the Celebrity Sex Pass",
     "id": "tt36834010",
     "url": "https://www.imdb.com/title/tt36834010/",
@@ -293,7 +301,7 @@
     "title": "Her Private Hell",
     "id": "tt36629665",
     "url": "https://www.imdb.com/title/tt36629665/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNiMmM3MjEtZGZhMS00MTlkLWFhOTYtMWViZTg2ZTRlMjdjXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjkwNTUwZTAtZmNjNS00OTlkLTg3ZTEtNjVkMmRmYjIzZWM5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -318,6 +326,22 @@
     "id": "tt37107071",
     "url": "https://www.imdb.com/title/tt37107071/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-24",
+    "title": "Cruel Hands",
+    "id": "tt31116756",
+    "url": "https://www.imdb.com/title/tt31116756/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTRkYjdkOTMtZjc5OS00OTc2LTg3ODItM2FkNTBmZWNmOWEwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-07-27",
+    "title": "President Curtis (2026– )",
+    "id": "tt37692332",
+    "url": "https://www.imdb.com/title/tt37692332/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGEwNWY0ZGYtNjgyZC00MTViLTk3ODYtZTNiMWE0YjUxMWM3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -728,14 +752,6 @@
     "poster": null
   },
   {
-    "type": "movie",
-    "date": "2026-09-11",
-    "title": "Beyond Belief",
-    "id": "tt32331539",
-    "url": "https://www.imdb.com/title/tt32331539/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjQyNmQyNmUtZmM5OS00ZmViLWE4ZTYtYjY1MTU1YWZiOTJhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-09-17",
     "title": "The Traitors: New Blood (2026– )",
@@ -784,6 +800,14 @@
     "poster": null
   },
   {
+    "type": "series",
+    "date": "2026-09-21",
+    "title": "Line of Fire (2026– )",
+    "id": "tt39365612",
+    "url": "https://www.imdb.com/title/tt39365612/",
+    "poster": null
+  },
+  {
     "type": "movie",
     "date": "2026-09-22",
     "title": "Bedford Park",
@@ -813,7 +837,7 @@
     "title": "Forgotten Island",
     "id": "tt36583977",
     "url": "https://www.imdb.com/title/tt36583977/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGE1NWY2NmQtYTY2Yy00Y2Q2LTg3ZTQtOWUzOGYyNzcyMmQ1XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJlY2JiNTMtYTAwYy00NGFiLTkwYTEtM2VmNDc4MzM5YmJiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -914,6 +938,14 @@
   {
     "type": "movie",
     "date": "2026-10-09",
+    "title": "Fjord",
+    "id": "tt35410859",
+    "url": "https://www.imdb.com/title/tt35410859/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWYwMDA1N2QtNDBmNi00YjNmLWI4MjktNmM0OTIxNWMzMTdlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-09",
     "title": "Angel and the Badman",
     "id": "tt39850240",
     "url": "https://www.imdb.com/title/tt39850240/",
@@ -949,7 +981,7 @@
     "title": "Sense and Sensibility",
     "id": "tt13609648",
     "url": "https://www.imdb.com/title/tt13609648/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTMxYzgzYzktODYyYS00MDk4LWE0NmYtZjI4NjBkYTk5YzJlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1016,12 +1048,36 @@
     "poster": null
   },
   {
+    "type": "series",
+    "date": "2026-10-23",
+    "title": "Newlyweds (2026– )",
+    "id": "tt39469996",
+    "url": "https://www.imdb.com/title/tt39469996/",
+    "poster": null
+  },
+  {
     "type": "movie",
     "date": "2026-10-30",
     "title": "Wicker",
     "id": "tt29611136",
     "url": "https://www.imdb.com/title/tt29611136/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MzQ3MGYtMTU1Zi00OGE3LWFmZmUtZmM1MmY3NmRhOTRjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-30",
+    "title": "The Mongoose",
+    "id": "tt13611778",
+    "url": "https://www.imdb.com/title/tt13611778/",
+    "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-30",
+    "title": "Christmas at the Kringles",
+    "id": "tt42588704",
+    "url": "https://www.imdb.com/title/tt42588704/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjk4ZTkyNTktMzRmOC00MDMzLTk4N2YtN2VlZTYyMmJjNzVlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1606,5 +1662,13 @@
     "id": "tt16360004",
     "url": "https://www.imdb.com/title/tt16360004/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjkwOWViYzYtMDQzNi00N2U0LWIxYTktNWE2ZDYyM2FhN2M5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-25",
+    "title": "Untitled Ocean's Prequel",
+    "id": "tt20374502",
+    "url": "https://www.imdb.com/title/tt20374502/",
+    "poster": null
   }
 ]
