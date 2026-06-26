@@ -1162,6 +1162,15 @@
   },
   {
     "rank": 130,
+    "title": "Attack on Titan: The Last Attack",
+    "year": "2024",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt33175825/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt33175825"
+  },
+  {
+    "rank": 131,
     "title": "Bicycle Thieves",
     "year": "1948",
     "rate": 8.2,
@@ -1170,22 +1179,13 @@
     "id": "tt0040522"
   },
   {
-    "rank": 131,
+    "rank": 132,
     "title": "Green Book",
     "year": "2018",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt6966692/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt6966692"
-  },
-  {
-    "rank": 132,
-    "title": "Attack on Titan: The Last Attack",
-    "year": "2024",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt33175825/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt33175825"
   },
   {
     "rank": 133,
@@ -1927,21 +1927,21 @@
   },
   {
     "rank": 215,
-    "title": "Rocky",
-    "year": "1976",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0075148/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0075148"
-  },
-  {
-    "rank": 216,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": "2025",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt30472557/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt30472557"
+  },
+  {
+    "rank": 216,
+    "title": "Rocky",
+    "year": "1976",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0075148/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0075148"
   },
   {
     "rank": 217,
@@ -2215,21 +2215,21 @@
   },
   {
     "rank": 247,
-    "title": "The Handmaiden",
-    "year": "2016",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt4016934/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt4016934"
-  },
-  {
-    "rank": 248,
     "title": "Obsession",
     "year": "2025",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt37287335/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt37287335"
+  },
+  {
+    "rank": 248,
+    "title": "The Handmaiden",
+    "year": "2016",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt4016934/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt4016934"
   },
   {
     "rank": 249,
@@ -2242,11 +2242,11 @@
   },
   {
     "rank": 250,
-    "title": "Gangs of Wasseypur",
-    "year": "2012",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt1954470/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWQyMmJkYTItNDUyYS00MjgwLWFmYjUtOWQ1NmRjOGZlOTZhXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1954470"
+    "title": "96",
+    "year": "2018",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt7019842/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODFiZDk5MDgtMWMzNy00MTZmLTk2YTQtYjg1NzNmYzJlODJkXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt7019842"
   }
 ]
