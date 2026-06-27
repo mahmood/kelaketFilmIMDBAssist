@@ -1,85 +1,5 @@
 [
   {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Supergirl",
-    "id": "tt8814476",
-    "url": "https://www.imdb.com/title/tt8814476/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Welcome to the Jungle",
-    "id": "tt28540171",
-    "url": "https://www.imdb.com/title/tt28540171/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Lucky Strike",
-    "id": "tt19035928",
-    "url": "https://www.imdb.com/title/tt19035928/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODBhMTU2MzEtNjgwZS00YzA5LWE3MjctNTljZmZjYjNjYzhhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Jackass: Best and Last",
-    "id": "tt39316472",
-    "url": "https://www.imdb.com/title/tt39316472/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Dear You",
-    "id": "tt41791573",
-    "url": "https://www.imdb.com/title/tt41791573/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTAwZDgxNWQtYjRhMC00MzRiLTgxOGEtMjJjMGU4YTc1NjIxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "7 Dogs",
-    "id": "tt35512499",
-    "url": "https://www.imdb.com/title/tt35512499/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzJkN2QzZTQtZTllMS00YWRhLTg2OWEtN2RlYWE4YmY1NWNiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Couture",
-    "id": "tt34688195",
-    "url": "https://www.imdb.com/title/tt34688195/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzMwNzY0NzEtNjQyOS00MDNiLTkzYWMtNGNjNmQyNmU2MDI1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "40 Dates and 40 Nights",
-    "id": "tt33219707",
-    "url": "https://www.imdb.com/title/tt33219707/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTkwY2YxOTItN2EyYi00Yjc3LTlmYTYtZWY0Y2M1MGQyZjdhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Camp",
-    "id": "tt38226226",
-    "url": "https://www.imdb.com/title/tt38226226/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y3MDBmZjEtNzk2Ni00ZWEyLTgyMjEtNjViOWMzMjU2ZGM3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-06-26",
-    "title": "Bouchra",
-    "id": "tt36543744",
-    "url": "https://www.imdb.com/title/tt36543744/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODA5NWU5NzUtYmEyYy00MDJmLWFhNjEtNDM4ODgxMGM2M2I5XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-06-27",
     "title": "The paradise valley incident. (2026– )",
@@ -586,6 +506,14 @@
   {
     "type": "movie",
     "date": "2026-08-21",
+    "title": "It Ends",
+    "id": "tt35519455",
+    "url": "https://www.imdb.com/title/tt35519455/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFlYjUzMTktM2ZiOC00NmUyLWI2ZWUtN2Y4MmJmNDc5NmJjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-21",
     "title": "The Marching Band",
     "id": "tt30327451",
     "url": "https://www.imdb.com/title/tt30327451/",
@@ -997,7 +925,7 @@
     "title": "Your Mother Your Mother Your Mother",
     "id": "tt35856037",
     "url": "https://www.imdb.com/title/tt35856037/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmEzMThlY2QtMDY1Zi00OTNmLWIxMWUtYzczYzBmZjI4YmRlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1342,6 +1270,14 @@
     "id": "tt36931184",
     "url": "https://www.imdb.com/title/tt36931184/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-12-25",
+    "title": "Nutmeg & Mistletoe",
+    "id": "tt39822622",
+    "url": "https://www.imdb.com/title/tt39822622/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYwOGJkYTktODlkMC00ZTBkLTlkYTktYWU0NDBhMTY0ZTc0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
