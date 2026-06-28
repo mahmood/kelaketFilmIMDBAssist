@@ -334,21 +334,21 @@
   },
   {
     "rank": 38,
-    "title": "The Lion King",
-    "year": "1994",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0110357/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0110357"
-  },
-  {
-    "rank": 39,
     "title": "Harakiri",
     "year": "1962",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt0056058/",
     "image": "https://m.media-amazon.com/images/M/MV5BZThiZjU5ZDQtZDI4Mi00ZGYyLTkzOTktYmIzZTFlZTkxYzg5XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0056058"
+  },
+  {
+    "rank": 39,
+    "title": "The Lion King",
+    "year": "1994",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt0110357/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0110357"
   },
   {
     "rank": 40,
@@ -1144,21 +1144,21 @@
   },
   {
     "rank": 128,
-    "title": "Dangal",
-    "year": "2016",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt5074352/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UX500.jpg",
-    "id": "tt5074352"
-  },
-  {
-    "rank": 129,
     "title": "Attack on Titan: The Last Attack",
     "year": "2024",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt33175825/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt33175825"
+  },
+  {
+    "rank": 129,
+    "title": "Dangal",
+    "year": "2016",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt5074352/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UX500.jpg",
+    "id": "tt5074352"
   },
   {
     "rank": 130,
@@ -1225,21 +1225,21 @@
   },
   {
     "rank": 137,
-    "title": "Hamilton",
-    "year": "2020",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt8503618/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt8503618"
-  },
-  {
-    "rank": 138,
     "title": "For a Few Dollars More",
     "year": "1965",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0059578/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0059578"
+  },
+  {
+    "rank": 138,
+    "title": "Hamilton",
+    "year": "2020",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt8503618/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTc3MWIyMzAtMTZmNC00YmNjLWIyZTgtMmU4NjZkYzZkOThkXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt8503618"
   },
   {
     "rank": 139,
@@ -1603,21 +1603,21 @@
   },
   {
     "rank": 179,
-    "title": "The Bridge on the River Kwai",
-    "year": "1957",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0050212/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0050212"
-  },
-  {
-    "rank": 180,
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "year": "2011",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt1201607/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1201607"
+  },
+  {
+    "rank": 180,
+    "title": "The Bridge on the River Kwai",
+    "year": "1957",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0050212/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0050212"
   },
   {
     "rank": 181,
@@ -1675,21 +1675,21 @@
   },
   {
     "rank": 187,
-    "title": "Million Dollar Baby",
-    "year": "2004",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0405159/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX500.jpg",
-    "id": "tt0405159"
-  },
-  {
-    "rank": 188,
     "title": "Mad Max: Fury Road",
     "year": "2015",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt1392190/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1392190"
+  },
+  {
+    "rank": 188,
+    "title": "Million Dollar Baby",
+    "year": "2004",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0405159/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX500.jpg",
+    "id": "tt0405159"
   },
   {
     "rank": 189,
@@ -1909,21 +1909,21 @@
   },
   {
     "rank": 213,
-    "title": "The General",
-    "year": "1926",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0017925/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0017925"
-  },
-  {
-    "rank": 214,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": "2025",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt30472557/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt30472557"
+  },
+  {
+    "rank": 214,
+    "title": "The General",
+    "year": "1926",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0017925/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0017925"
   },
   {
     "rank": 215,

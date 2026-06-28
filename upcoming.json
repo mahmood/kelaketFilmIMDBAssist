@@ -1,14 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-06-27",
-    "title": "The paradise valley incident. (2026– )",
-    "id": "tt42906656",
-    "url": "https://www.imdb.com/title/tt42906656/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTE5MzQ5NTYtNmQ4Yi00Mjg1LWJiNDMtZjM5ZjNlMTFmZjM5XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-06-29",
     "title": "Adventure Time: Side Quests (2026– )",
     "id": "tt32603995",
@@ -208,6 +200,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-07-17",
+    "title": "Diamond Made Man Part 2",
+    "id": "tt43438442",
+    "url": "https://www.imdb.com/title/tt43438442/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-07-17",
     "title": "Young Farts Trailer Parts (2026– )",
@@ -262,6 +262,14 @@
     "id": "tt36307021",
     "url": "https://www.imdb.com/title/tt36307021/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGFjMDFlNDMtMjBhNy00MjJkLWE5ZjktOWVmMTIyY2Q3YTM1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-24",
+    "title": "Pinocchio: Unstrung",
+    "id": "tt30887701",
+    "url": "https://www.imdb.com/title/tt30887701/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1654,5 +1662,13 @@
     "id": "tt20374502",
     "url": "https://www.imdb.com/title/tt20374502/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-28",
+    "title": "Naya Legend of the Golden Dolphin",
+    "id": "tt7890826",
+    "url": "https://www.imdb.com/title/tt7890826/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU2Mjc5YzMtZjk2ZC00MTkwLWEwYzItMzA0MWMxZWRkOTY3XkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]
