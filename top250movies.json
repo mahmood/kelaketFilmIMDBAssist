@@ -955,21 +955,21 @@
   },
   {
     "rank": 107,
-    "title": "North by Northwest",
-    "year": "1959",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt0053125/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0053125"
-  },
-  {
-    "rank": 108,
     "title": "Like Stars on Earth",
     "year": "2007",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt0986264/",
     "image": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0986264"
+  },
+  {
+    "rank": 108,
+    "title": "North by Northwest",
+    "year": "1959",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt0053125/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0053125"
   },
   {
     "rank": 109,
@@ -1002,7 +1002,7 @@
     "rank": 112,
     "title": "Amélie",
     "year": "2001",
-    "rate": 8.3,
+    "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0211915/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0211915"
@@ -1135,21 +1135,21 @@
   },
   {
     "rank": 127,
-    "title": "L.A. Confidential",
-    "year": "1997",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt0119488/",
-    "image": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0119488"
-  },
-  {
-    "rank": 128,
     "title": "Attack on Titan: The Last Attack",
     "year": "2024",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt33175825/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt33175825"
+  },
+  {
+    "rank": 128,
+    "title": "L.A. Confidential",
+    "year": "1997",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt0119488/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0119488"
   },
   {
     "rank": 129,
@@ -1171,21 +1171,21 @@
   },
   {
     "rank": 131,
-    "title": "Bicycle Thieves",
-    "year": "1948",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt0040522/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_UX500.jpg",
-    "id": "tt0040522"
-  },
-  {
-    "rank": 132,
     "title": "Green Book",
     "year": "2018",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt6966692/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt6966692"
+  },
+  {
+    "rank": 132,
+    "title": "Bicycle Thieves",
+    "year": "1948",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt0040522/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_UX500.jpg",
+    "id": "tt0040522"
   },
   {
     "rank": 133,
@@ -1603,21 +1603,21 @@
   },
   {
     "rank": 179,
-    "title": "Harry Potter and the Deathly Hallows: Part 2",
-    "year": "2011",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt1201607/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1201607"
-  },
-  {
-    "rank": 180,
     "title": "The Bridge on the River Kwai",
     "year": "1957",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0050212/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzdkYmU2YmItNmZiYy00OWQyLTg0YWYtZmUxM2U3YTRiNTQ1XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0050212"
+  },
+  {
+    "rank": 180,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": "2011",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt1201607/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1201607"
   },
   {
     "rank": 181,

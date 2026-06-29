@@ -730,21 +730,21 @@
   },
   {
     "rank": 82,
-    "title": "Reply 1988",
-    "year": "2015–2016",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt5182866/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDBiNDE1NzUtYmU0OS00YmUxLTljODUtOTczNDE3ZGQ0MmYzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt5182866"
-  },
-  {
-    "rank": 83,
     "title": "Narcos",
     "year": "2015–2017",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt2707408/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzQwOTcwMzIwN15BMl5BanBnXkFtZTgwMjYxMTA0NjE@._V1_UX500.jpg",
     "id": "tt2707408"
+  },
+  {
+    "rank": 83,
+    "title": "Reply 1988",
+    "year": "2015–2016",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt5182866/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDBiNDE1NzUtYmU0OS00YmUxLTljODUtOTczNDE3ZGQ0MmYzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt5182866"
   },
   {
     "rank": 84,
@@ -1108,21 +1108,21 @@
   },
   {
     "rank": 124,
-    "title": "The Marvelous Mrs. Maisel",
-    "year": "2017–2023",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt5788792/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjM3MmFjMzYtMGNiYi00MDZmLTlkM2MtNzI3MDg1MzUwYWY2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt5788792"
-  },
-  {
-    "rank": 125,
     "title": "Fighting Spirit",
     "year": "2000–2002",
     "rate": 8.8,
     "url": "https://www.imdb.com/title/tt0481256/",
     "image": "https://m.media-amazon.com/images/M/MV5BN2UzMmM5NTQtYjUxYy00OWVjLTkwOWMtYzFhOGQxN2VlZjI5XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0481256"
+  },
+  {
+    "rank": 125,
+    "title": "The Marvelous Mrs. Maisel",
+    "year": "2017–2023",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt5788792/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjM3MmFjMzYtMGNiYi00MDZmLTlkM2MtNzI3MDg1MzUwYWY2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt5788792"
   },
   {
     "rank": 126,
@@ -1135,21 +1135,21 @@
   },
   {
     "rank": 127,
-    "title": "Behzat Ç: An Ankara Detective Story",
-    "year": "2010–2019",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt1795096/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1795096"
-  },
-  {
-    "rank": 128,
     "title": "This Is Us",
     "year": "2016–2022",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt5555260/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzk4YzY2ZjUtNTQ2YS00MWQ5LTgzZjctZTRlMmZlMzNjNDc3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt5555260"
+  },
+  {
+    "rank": 128,
+    "title": "Behzat Ç: An Ankara Detective Story",
+    "year": "2010–2019",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt1795096/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmMyM2Q3YWMtMmE4NS00ODczLWIwYjctN2MzZThiZWEyMTcyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1795096"
   },
   {
     "rank": 129,
@@ -1333,15 +1333,6 @@
   },
   {
     "rank": 149,
-    "title": "Mr. Bean",
-    "year": "1990–1995",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt0096657/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0096657"
-  },
-  {
-    "rank": 150,
     "title": "Lonesome Dove",
     "year": "1989",
     "rate": 8.6,
@@ -1350,22 +1341,31 @@
     "id": "tt0096639"
   },
   {
-    "rank": 151,
-    "title": "Primal",
-    "year": "2019–",
+    "rank": 150,
+    "title": "Mr. Bean",
+    "year": "1990–1995",
     "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt10332508/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTc0NTUyYmItOTY4Yi00ZjY5LWI1NjMtNDgyODJhYWRiY2UxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt10332508"
+    "url": "https://www.imdb.com/title/tt0096657/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY2OGQ4MTAtYTRkMy00NmYxLThlZTktOGE1NTRmNDVlZmI4XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0096657"
   },
   {
-    "rank": 152,
+    "rank": 151,
     "title": "Sapne Vs Everyone",
     "year": "2023–",
     "rate": 9.2,
     "url": "https://www.imdb.com/title/tt30263074/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTAyNzJkMDYtNGI4ZS00OGI4LTlkNTItZTQ5ZDVmYzAwN2JlXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt30263074"
+  },
+  {
+    "rank": 152,
+    "title": "Primal",
+    "year": "2019–",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt10332508/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc0NTUyYmItOTY4Yi00ZjY5LWI1NjMtNDgyODJhYWRiY2UxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt10332508"
   },
   {
     "rank": 153,
@@ -1432,15 +1432,6 @@
   },
   {
     "rank": 160,
-    "title": "Shōgun",
-    "year": "2024–2026",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt2788316/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2788316"
-  },
-  {
-    "rank": 161,
     "title": "The Offer",
     "year": "2022",
     "rate": 8.6,
@@ -1449,22 +1440,31 @@
     "id": "tt13111040"
   },
   {
-    "rank": 162,
-    "title": "Yes Minister",
-    "year": "1980–1984",
+    "rank": 161,
+    "title": "Shōgun",
+    "year": "2024–2026",
     "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt0080306/",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2FkYTVmMjMtN2IyMS00YTI2LTgzYTItOTFhYmI3M2Y0ODUxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0080306"
+    "url": "https://www.imdb.com/title/tt2788316/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2788316"
   },
   {
-    "rank": 163,
+    "rank": 162,
     "title": "Andor",
     "year": "2022–2025",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt9253284/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGI2MTJjMjUtMTJhOC00YTY2LTg1NjUtMTdmMjg4YTk2YjM5XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt9253284"
+  },
+  {
+    "rank": 163,
+    "title": "Yes Minister",
+    "year": "1980–1984",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt0080306/",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FkYTVmMjMtN2IyMS00YTI2LTgzYTItOTFhYmI3M2Y0ODUxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0080306"
   },
   {
     "rank": 164,
@@ -1612,21 +1612,21 @@
   },
   {
     "rank": 180,
-    "title": "Scavengers Reign",
-    "year": "2023",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt21056886/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmEyOWU1YjctNjgxNS00MTcyLTk3NDgtZmY3ZjBkY2RkN2YxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt21056886"
-  },
-  {
-    "rank": 181,
     "title": "Dopesick",
     "year": "2021",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt9174558/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmM0ZGFkZTctZjg2Ny00YmFhLThhNmItZjRjODk4ZGJhNWY3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt9174558"
+  },
+  {
+    "rank": 181,
+    "title": "Scavengers Reign",
+    "year": "2023",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt21056886/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmEyOWU1YjctNjgxNS00MTcyLTk3NDgtZmY3ZjBkY2RkN2YxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt21056886"
   },
   {
     "rank": 182,
@@ -1765,15 +1765,6 @@
   },
   {
     "rank": 197,
-    "title": "Black Sun",
-    "year": "2017–2026",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt6108262/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt6108262"
-  },
-  {
-    "rank": 198,
     "title": "Samurai Champloo",
     "year": "2004–2005",
     "rate": 8.5,
@@ -1782,13 +1773,22 @@
     "id": "tt0423731"
   },
   {
-    "rank": 199,
+    "rank": 198,
     "title": "Dragon Ball",
     "year": "1995–2003",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt0280249/",
     "image": "https://m.media-amazon.com/images/M/MV5BOWI0NzkxYTUtNGU5MS00MTUwLTk3NDItMTFlZDJiM2NlZDAxXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0280249"
+  },
+  {
+    "rank": 199,
+    "title": "Black Sun",
+    "year": "2017–2026",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt6108262/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt6108262"
   },
   {
     "rank": 200,
@@ -2017,21 +2017,21 @@
   },
   {
     "rank": 225,
-    "title": "Whose Line Is It Anyway?",
-    "year": "1998–2007",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0163507/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjk5YmQ3YjYtYWM2My00MDQ3LTgxYTMtYzQ1ZjFlNDU4NDFjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0163507"
-  },
-  {
-    "rank": 226,
     "title": "Impractical Jokers",
     "year": "2011–",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt2100976/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjViMmNjNWQtNGY1Ni00ODZmLTk5YTctNGY5YzM5NjM0NDQ3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt2100976"
+  },
+  {
+    "rank": 226,
+    "title": "Whose Line Is It Anyway?",
+    "year": "1998–2007",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt0163507/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjk5YmQ3YjYtYWM2My00MDQ3LTgxYTMtYzQ1ZjFlNDU4NDFjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0163507"
   },
   {
     "rank": 227,
@@ -2044,24 +2044,6 @@
   },
   {
     "rank": 228,
-    "title": "Takopi's Original Sin",
-    "year": "2025",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt36988358/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt36988358"
-  },
-  {
-    "rank": 229,
-    "title": "Star Wars: Maul - Shadow Lord",
-    "year": "2026–",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt36594331/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmUzZWRkOGMtOGM2OC00ODk0LWFjZjUtMjUyOGRjYzgwYjdjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt36594331"
-  },
-  {
-    "rank": 230,
     "title": "Through the Wormhole",
     "year": "2010–2017",
     "rate": 8.6,
@@ -2070,13 +2052,31 @@
     "id": "tt1513168"
   },
   {
-    "rank": 231,
+    "rank": 229,
+    "title": "Takopi's Original Sin",
+    "year": "2025",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt36988358/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt36988358"
+  },
+  {
+    "rank": 230,
     "title": "Louie",
     "year": "2010–2015",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt1492966/",
     "image": "https://m.media-amazon.com/images/M/MV5BMWI4NDMxNGMtZGUxOS00MjJkLWIxMmItZGE1ODNjMDFjYzZmXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1492966"
+  },
+  {
+    "rank": 231,
+    "title": "Star Wars: Maul - Shadow Lord",
+    "year": "2026–",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt36594331/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmUzZWRkOGMtOGM2OC00ODk0LWFjZjUtMjUyOGRjYzgwYjdjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt36594331"
   },
   {
     "rank": 232,
@@ -2134,6 +2134,15 @@
   },
   {
     "rank": 238,
+    "title": "Schitt's Creek",
+    "year": "2015–2020",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt3526078/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODk2Nzg4OWYtODczMy00NWRkLTg5ODQtZTU1ZGRhMzRhZGZhXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3526078"
+  },
+  {
+    "rank": 239,
     "title": "The Office",
     "year": "2001–2003",
     "rate": 8.5,
@@ -2142,22 +2151,13 @@
     "id": "tt0290978"
   },
   {
-    "rank": 239,
+    "rank": 240,
     "title": "The Eric Andre Show",
     "year": "2012–",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt2244495/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGY0OGMzYjItNjhkMy00NjZjLThlZTEtMTdlYWU0NzliZWNkXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt2244495"
-  },
-  {
-    "rank": 240,
-    "title": "Schitt's Creek",
-    "year": "2015–2020",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt3526078/",
-    "image": "https://m.media-amazon.com/images/M/MV5BODk2Nzg4OWYtODczMy00NWRkLTg5ODQtZTU1ZGRhMzRhZGZhXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3526078"
   },
   {
     "rank": 241,
