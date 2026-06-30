@@ -1,14 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-06-29",
-    "title": "Adventure Time: Side Quests (2026– )",
-    "id": "tt32603995",
-    "url": "https://www.imdb.com/title/tt32603995/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmNiMGJjZTAtNjUwMy00MmZiLTljZTgtZTg2YzVhMWNiMWQxXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-06-30",
     "title": "ComicView: Rooftop Series",
     "id": "tt43595620",
@@ -317,7 +309,7 @@
     "title": "Her Private Hell",
     "id": "tt36629665",
     "url": "https://www.imdb.com/title/tt36629665/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjkwNTUwZTAtZmNjNS00OTlkLTg3ZTEtNjVkMmRmYjIzZWM5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDZmZTZlZDAtN2JlYy00NzBlLTgxYWYtZjQyOGVhYjBjY2IyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -526,6 +518,14 @@
     "id": "tt36981462",
     "url": "https://www.imdb.com/title/tt36981462/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ZWVmNGMtNjYwMC00NjY0LTgzYWQtMTY1MzJlMjBkYjNkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-14",
+    "title": "Awarapan 2",
+    "id": "tt36300841",
+    "url": "https://www.imdb.com/title/tt36300841/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdlNTAxMTUtMzg4Mi00MmNkLTgyYzktMjk0NjcwN2JhODk1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -817,6 +817,14 @@
   },
   {
     "type": "series",
+    "date": "2026-09-16",
+    "title": "The Doll (2026– )",
+    "id": "tt37578538",
+    "url": "https://www.imdb.com/title/tt37578538/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA5NTQyYjEtNTY2Ni00Y2JhLWI0MmMtYmMyNjFhNWI4NmVlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
     "date": "2026-09-17",
     "title": "The Traitors: New Blood (2026– )",
     "id": "tt37939196",
@@ -926,6 +934,14 @@
     "id": "tt36590599",
     "url": "https://www.imdb.com/title/tt36590599/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-09-25",
+    "title": "SWAT Exiles (2026– )",
+    "id": "tt36984433",
+    "url": "https://www.imdb.com/title/tt36984433/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRjMTdmZjMtZWI5Yy00Yjc4LWEzMjItZTAwYjYyZDBhZmQyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1144,6 +1160,14 @@
     "poster": null
   },
   {
+    "type": "series",
+    "date": "2026-10-31",
+    "title": "The Great Crimson (2026– )",
+    "id": "tt35360062",
+    "url": "https://www.imdb.com/title/tt35360062/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM1MTU0MzItNWYwYi00ZjJjLTgwMzQtMjY0ZGYwNTYzODU5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "movie",
     "date": "2026-11-06",
     "title": "Wild Horse Nine",
@@ -1257,7 +1281,7 @@
   },
   {
     "type": "movie",
-    "date": "2026-11-26",
+    "date": "2026-11-25",
     "title": "Hershey",
     "id": "tt17055444",
     "url": "https://www.imdb.com/title/tt17055444/",
@@ -1325,7 +1349,7 @@
     "title": "The Angry Birds Movie 3",
     "id": "tt32557122",
     "url": "https://www.imdb.com/title/tt32557122/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2JlNjA5ZDItNjI4OC00YTQ3LWJiOGQtZGJiN2FkZDc2MDE0XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjk4N2IwMzUtZDI2Ny00NTE2LTk4ZTMtODVhYjU2YjUwZDM5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1349,7 +1373,7 @@
     "title": "Werwulf",
     "id": "tt35514120",
     "url": "https://www.imdb.com/title/tt35514120/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ0MGJiYWItMTAyMS00MDM5LTk3ODQtMjYwNjAwMmEwZTkzXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTA5YjA5NTAtMjJlOS00ZTVkLWE0MDgtNDY0ZjVhOTE5NTg3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1774,5 +1798,13 @@
     "id": "tt7890826",
     "url": "https://www.imdb.com/title/tt7890826/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTU2Mjc5YzMtZjk2ZC00MTkwLWEwYzItMzA0MWMxZWRkOTY3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-30",
+    "title": "Shrek 5",
+    "id": "tt6113186",
+    "url": "https://www.imdb.com/title/tt6113186/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]

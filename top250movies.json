@@ -793,21 +793,21 @@
   },
   {
     "rank": 89,
-    "title": "Joker",
-    "year": "2019",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt7286456/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt7286456"
-  },
-  {
-    "rank": 90,
     "title": "Once Upon a Time in America",
     "year": "1984",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt0087843/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0087843"
+  },
+  {
+    "rank": 90,
+    "title": "Joker",
+    "year": "2019",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt7286456/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt7286456"
   },
   {
     "rank": 91,
@@ -955,21 +955,21 @@
   },
   {
     "rank": 107,
-    "title": "Like Stars on Earth",
-    "year": "2007",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt0986264/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0986264"
-  },
-  {
-    "rank": 108,
     "title": "North by Northwest",
     "year": "1959",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt0053125/",
     "image": "https://m.media-amazon.com/images/M/MV5BZWIzODI2OGItMzM0Ny00OGRmLTlkNmItMDQxMTFmMTk3YmQwXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0053125"
+  },
+  {
+    "rank": 108,
+    "title": "Like Stars on Earth",
+    "year": "2007",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt0986264/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI0ZGRiMDEtNGNjMS00MGU4LWI3OTktNzcxMDZmZTk3MTljXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0986264"
   },
   {
     "rank": 109,
@@ -1117,6 +1117,15 @@
   },
   {
     "rank": 125,
+    "title": "Attack on Titan: The Last Attack",
+    "year": "2024",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt33175825/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt33175825"
+  },
+  {
+    "rank": 126,
     "title": "The Truman Show",
     "year": "1998",
     "rate": 8.2,
@@ -1125,22 +1134,13 @@
     "id": "tt0120382"
   },
   {
-    "rank": 126,
+    "rank": 127,
     "title": "Downfall",
     "year": "2004",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0363163/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UX500.jpg",
     "id": "tt0363163"
-  },
-  {
-    "rank": 127,
-    "title": "Attack on Titan: The Last Attack",
-    "year": "2024",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt33175825/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt33175825"
   },
   {
     "rank": 128,
@@ -1891,21 +1891,21 @@
   },
   {
     "rank": 211,
-    "title": "The Chaos Class Failed the Class",
-    "year": "1975",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt0252488/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0252488"
-  },
-  {
-    "rank": 212,
     "title": "The Wages of Fear",
     "year": "1953",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0046268/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjI3MjU2Mzg2MF5BMl5BanBnXkFtZTgwOTg2MTMzMjE@._V1_UX500.jpg",
     "id": "tt0046268"
+  },
+  {
+    "rank": 212,
+    "title": "The Chaos Class Failed the Class",
+    "year": "1975",
+    "rate": 8.4,
+    "url": "https://www.imdb.com/title/tt0252488/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0252488"
   },
   {
     "rank": 213,
@@ -2215,21 +2215,21 @@
   },
   {
     "rank": 247,
-    "title": "Obsession",
-    "year": "2025",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt37287335/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt37287335"
-  },
-  {
-    "rank": 248,
     "title": "The Handmaiden",
     "year": "2016",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt4016934/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt4016934"
+  },
+  {
+    "rank": 248,
+    "title": "Obsession",
+    "year": "2025",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt37287335/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt37287335"
   },
   {
     "rank": 249,
@@ -2242,11 +2242,11 @@
   },
   {
     "rank": 250,
-    "title": "Network",
-    "year": "1976",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0074958/",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0074958"
+    "title": "Gangs of Wasseypur",
+    "year": "2012",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt1954470/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQyMmJkYTItNDUyYS00MjgwLWFmYjUtOWQ1NmRjOGZlOTZhXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1954470"
   }
 ]
