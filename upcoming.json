@@ -1,13 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-06-30",
-    "title": "ComicView: Rooftop Series",
-    "id": "tt43595620",
-    "url": "https://www.imdb.com/title/tt43595620/",
-    "poster": null
-  },
-  {
     "type": "movie",
     "date": "2026-07-01",
     "title": "Minions & Monsters",
@@ -922,14 +914,6 @@
   {
     "type": "movie",
     "date": "2026-09-25",
-    "title": "Crawlers",
-    "id": "tt32329539",
-    "url": "https://www.imdb.com/title/tt32329539/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjY1NTg2NmEtN2NjZS00YmU3LTljZWEtODUxMjkyY2M4YjA5XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-25",
     "title": "The Scout",
     "id": "tt36590599",
     "url": "https://www.imdb.com/title/tt36590599/",
@@ -982,6 +966,14 @@
     "id": "tt32261958",
     "url": "https://www.imdb.com/title/tt32261958/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzUyODgxN2YtNWQ2MC00ZTQxLWJkYjMtYzYwM2RmOTcxNzFhXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-02",
+    "title": "Crawlers",
+    "id": "tt32329539",
+    "url": "https://www.imdb.com/title/tt32329539/",
+    "poster": null
   },
   {
     "type": "movie",
@@ -1265,6 +1257,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-11-20",
+    "title": "Minotaur",
+    "id": "tt37118301",
+    "url": "https://www.imdb.com/title/tt37118301/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjEwOWY3YTAtYzVlYS00YTdlLWJkMGQtMjkwM2M3NTMxZTY1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-11-25",
     "title": "Hexed",
     "id": "tt38077943",
@@ -1398,6 +1398,14 @@
     "id": "tt36931184",
     "url": "https://www.imdb.com/title/tt36931184/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGExZDE3NWItZmY0Ni00ZjE1LThlZWUtNTJjN2VjYmMzM2NjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-12-25",
+    "title": "Coward",
+    "id": "tt39328391",
+    "url": "https://www.imdb.com/title/tt39328391/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI4MjlhNWMtNDQ1NS00NzFlLTljZTktNTkxNjMwMmNkMWJlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",

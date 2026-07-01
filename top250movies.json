@@ -793,21 +793,21 @@
   },
   {
     "rank": 89,
-    "title": "Once Upon a Time in America",
-    "year": "1984",
-    "rate": 8.3,
-    "url": "https://www.imdb.com/title/tt0087843/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0087843"
-  },
-  {
-    "rank": 90,
     "title": "Joker",
     "year": "2019",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt7286456/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt7286456"
+  },
+  {
+    "rank": 90,
+    "title": "Once Upon a Time in America",
+    "year": "1984",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt0087843/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0087843"
   },
   {
     "rank": 91,
@@ -921,7 +921,7 @@
     "rank": 103,
     "title": "Reservoir Dogs",
     "year": "1992",
-    "rate": 8.3,
+    "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0105236/",
     "image": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0105236"
@@ -1108,21 +1108,21 @@
   },
   {
     "rank": 124,
-    "title": "The Wolf of Wall Street",
-    "year": "2013",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt0993846/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX500.jpg",
-    "id": "tt0993846"
-  },
-  {
-    "rank": 125,
     "title": "Attack on Titan: The Last Attack",
     "year": "2024",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt33175825/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt33175825"
+  },
+  {
+    "rank": 125,
+    "title": "The Wolf of Wall Street",
+    "year": "2013",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt0993846/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX500.jpg",
+    "id": "tt0993846"
   },
   {
     "rank": 126,
@@ -1900,21 +1900,21 @@
   },
   {
     "rank": 212,
-    "title": "The Chaos Class Failed the Class",
-    "year": "1975",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt0252488/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0252488"
-  },
-  {
-    "rank": 213,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": "2025",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt30472557/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt30472557"
+  },
+  {
+    "rank": 213,
+    "title": "The Chaos Class Failed the Class",
+    "year": "1975",
+    "rate": 8.4,
+    "url": "https://www.imdb.com/title/tt0252488/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0252488"
   },
   {
     "rank": 214,
@@ -2170,21 +2170,21 @@
   },
   {
     "rank": 242,
-    "title": "The Wizard of Oz",
-    "year": "1939",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0032138/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0032138"
-  },
-  {
-    "rank": 243,
     "title": "Stand by Me",
     "year": "1986",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0092005/",
     "image": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0092005"
+  },
+  {
+    "rank": 243,
+    "title": "The Wizard of Oz",
+    "year": "1939",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0032138/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0032138"
   },
   {
     "rank": 244,
@@ -2224,15 +2224,6 @@
   },
   {
     "rank": 248,
-    "title": "Obsession",
-    "year": "2025",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt37287335/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt37287335"
-  },
-  {
-    "rank": 249,
     "title": "Drishyam",
     "year": "2013",
     "rate": 8.4,
@@ -2241,12 +2232,21 @@
     "id": "tt3417422"
   },
   {
-    "rank": 250,
+    "rank": 249,
     "title": "Gangs of Wasseypur",
     "year": "2012",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt1954470/",
     "image": "https://m.media-amazon.com/images/M/MV5BNWQyMmJkYTItNDUyYS00MjgwLWFmYjUtOWQ1NmRjOGZlOTZhXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1954470"
+  },
+  {
+    "rank": 250,
+    "title": "Lost Ladies",
+    "year": "2023",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt21626284/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGI5NzVmNDktZWY2Ni00ZGMwLTlhMzctNzJhYTgzZmQ2ZjNjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt21626284"
   }
 ]
