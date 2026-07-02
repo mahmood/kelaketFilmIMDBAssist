@@ -1,29 +1,5 @@
 [
   {
-    "type": "movie",
-    "date": "2026-07-01",
-    "title": "Minions & Monsters",
-    "id": "tt32890033",
-    "url": "https://www.imdb.com/title/tt32890033/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-01",
-    "title": "Star Wars: Visions Presents - The Ninth Jedi (2026– )",
-    "id": "tt43337681",
-    "url": "https://www.imdb.com/title/tt43337681/",
-    "poster": null
-  },
-  {
-    "type": "series",
-    "date": "2026-07-01",
-    "title": "League Night (2026– )",
-    "id": "tt43387937",
-    "url": "https://www.imdb.com/title/tt43387937/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ4MWFkY2UtYTI1Yy00ZjIyLTk0ZDYtMzcxYTkyMDNiODVmXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-07-02",
     "title": "Yes, And (2026– )",
@@ -249,6 +225,14 @@
   },
   {
     "type": "series",
+    "date": "2026-07-21",
+    "title": "The Real Housewives of London (2025– )",
+    "id": "tt34333196",
+    "url": "https://www.imdb.com/title/tt34333196/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2YwOGU1OGYtNjc4MC00NzdlLThlMDgtNDM5NTNjYjQ1NWQyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
     "date": "2026-07-22",
     "title": "Pompeii: Out of Time with Tom Hiddleston (2026– )",
     "id": "tt34688214",
@@ -326,6 +310,14 @@
     "id": "tt37107071",
     "url": "https://www.imdb.com/title/tt37107071/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-24",
+    "title": "Haunted Heist",
+    "id": "tt34890565",
+    "url": "https://www.imdb.com/title/tt34890565/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgyNzFjODEtYTE0MC00ZWQ0LTg4NWMtZTU3Nzc2MWY5YWFhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -509,7 +501,7 @@
     "title": "Union County",
     "id": "tt36981462",
     "url": "https://www.imdb.com/title/tt36981462/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0ZWVmNGMtNjYwMC00NjY0LTgzYWQtMTY1MzJlMjBkYjNkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTdiYTIwMGEtMzYwOC00NzlhLTk2NTQtMDdlYTBjYjhhMzRjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1013,7 +1005,7 @@
     "title": "The Social Reckoning",
     "id": "tt37510326",
     "url": "https://www.imdb.com/title/tt37510326/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWM4MTEyY2MtZmIwMy00Zjk5LWIyMmQtZTkxNTI2Mjk1NDhmXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODAyY2ItY2FjZi00ZTM2LTgxNGQtODk2OGZkMWQ3MzhmXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1062,6 +1054,14 @@
     "id": "tt32063220",
     "url": "https://www.imdb.com/title/tt32063220/",
     "poster": "https://m.media-amazon.com/images/M/MV5BODEzYTk1NjQtY2I4My00ZDZmLWFkMjAtZmZiYjNiMWQwZTNiXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-16",
+    "title": "California Schemin'",
+    "id": "tt29549490",
+    "url": "https://www.imdb.com/title/tt29549490/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTViMmQ2ZjQtZGZjYy00OThlLTgzYzEtNTQxMTg1YWViZGNkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
