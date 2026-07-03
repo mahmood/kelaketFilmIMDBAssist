@@ -1,13 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-07-02",
-    "title": "Yes, And (2026– )",
-    "id": "tt43598966",
-    "url": "https://www.imdb.com/title/tt43598966/",
-    "poster": null
-  },
-  {
     "type": "movie",
     "date": "2026-07-03",
     "title": "Young Washington",
@@ -106,14 +98,6 @@
   {
     "type": "movie",
     "date": "2026-07-10",
-    "title": "Reading Lolita in Tehran",
-    "id": "tt27679443",
-    "url": "https://www.imdb.com/title/tt27679443/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
     "title": "Crossing",
     "id": "tt39276601",
     "url": "https://www.imdb.com/title/tt39276601/",
@@ -206,6 +190,14 @@
     "id": "tt13652006",
     "url": "https://www.imdb.com/title/tt13652006/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-17",
+    "title": "Reading Lolita in Tehran",
+    "id": "tt27679443",
+    "url": "https://www.imdb.com/title/tt27679443/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
