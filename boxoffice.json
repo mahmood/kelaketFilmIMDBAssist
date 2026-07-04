@@ -6,7 +6,7 @@
     "url": "https://www.imdb.com/title/tt29355505/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$71M",
-    "gross": "$327M",
+    "gross": "$335M",
     "weeks": "2"
   },
   {
@@ -26,7 +26,7 @@
     "url": "https://www.imdb.com/title/tt37287335/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$9.7M",
-    "gross": "$238M",
+    "gross": "$240M",
     "weeks": "7"
   },
   {
@@ -46,7 +46,7 @@
     "url": "https://www.imdb.com/title/tt15047880/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$8.3M",
-    "gross": "$98M",
+    "gross": "$99M",
     "weeks": "3"
   },
   {
@@ -55,8 +55,8 @@
     "id": "tt26657236",
     "url": "https://www.imdb.com/title/tt26657236/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$4.3M",
-    "gross": "$184M",
+    "weekend": "$4.4M",
+    "gross": "$187M",
     "weeks": "5"
   },
   {
@@ -71,16 +71,6 @@
   },
   {
     "rank": 8,
-    "title": "BLEACH: Thousand-Year Blood War - The Calamity",
-    "id": "tt43383343",
-    "url": "https://www.imdb.com/title/tt43383343/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmM3YzYzNmMtZjA3Yi00ZTEwLWJjMzEtZTQ3OWIxMGIxZDNhXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$3M",
-    "gross": "$3M",
-    "weeks": "1"
-  },
-  {
-    "rank": 9,
     "title": "Masters of the Universe",
     "id": "tt0427340",
     "url": "https://www.imdb.com/title/tt0427340/",
@@ -88,6 +78,16 @@
     "weekend": "$2.3M",
     "gross": "$63M",
     "weeks": "4"
+  },
+  {
+    "rank": 9,
+    "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+    "id": "tt43383343",
+    "url": "https://www.imdb.com/title/tt43383343/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmM3YzYzNmMtZjA3Yi00ZTEwLWJjMzEtZTQ3OWIxMGIxZDNhXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$2.2M",
+    "gross": "$3.9M",
+    "weeks": "1"
   },
   {
     "rank": 10,

@@ -1,37 +1,5 @@
 [
   {
-    "type": "movie",
-    "date": "2026-07-03",
-    "title": "Young Washington",
-    "id": "tt32104007",
-    "url": "https://www.imdb.com/title/tt32104007/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-03",
-    "title": "Alpha",
-    "id": "tt28363783",
-    "url": "https://www.imdb.com/title/tt28363783/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-03",
-    "title": "Nagabandham - The Secret Treasure",
-    "id": "tt32065777",
-    "url": "https://www.imdb.com/title/tt32065777/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjUzNTY0ZjItMDFiNC00NGQxLTkyZTAtMzdiM2Y1NzNkZmFiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-03",
-    "title": "The Loyalty Game (2026– )",
-    "id": "tt41793322",
-    "url": "https://www.imdb.com/title/tt41793322/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwZDkzYWUtYWUwMy00MjkxLThkMTUtMzg4MWU2MTI4MzA4XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-07-04",
     "title": "The Cowboy (2026– )",
@@ -798,14 +766,6 @@
     "id": "tt37578538",
     "url": "https://www.imdb.com/title/tt37578538/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzA5NTQyYjEtNTY2Ni00Y2JhLWI0MmMtYmMyNjFhNWI4NmVlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-09-17",
-    "title": "The Traitors: New Blood (2026– )",
-    "id": "tt37939196",
-    "url": "https://www.imdb.com/title/tt37939196/",
-    "poster": null
   },
   {
     "type": "movie",
@@ -1806,5 +1766,13 @@
     "id": "tt6113186",
     "url": "https://www.imdb.com/title/tt6113186/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNmNkNmRkNDAtOTMzNC00MWYzLWJhNjMtYjNkZTNjODVhOTg2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-07-04",
+    "title": "The Splendid Thing",
+    "id": "tt31968478",
+    "url": "https://www.imdb.com/title/tt31968478/",
+    "poster": null
   }
 ]
