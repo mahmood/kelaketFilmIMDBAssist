@@ -280,6 +280,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTEzY2MxMjYtYmFlYi00OTJlLTk1ZjMtMzYxYTFhMjhhZTgwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-07-24",
+    "title": "Swallowtail & Dragonfly",
+    "id": "tt28512342",
+    "url": "https://www.imdb.com/title/tt28512342/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQzNzEzNzctZGM5NC00NWQyLThjYTUtOTNjZGVjMmIyZTVkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-07-24",
     "title": "Roast My Rental (2026– )",
@@ -496,6 +504,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTkwYWZlMjAtYTgwZS00NDUwLTlmMGYtYTI1NmI0NzExYWJjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-08-14",
+    "title": "Terrestrial",
+    "id": "tt36870725",
+    "url": "https://www.imdb.com/title/tt36870725/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZkNzViZTktZTI2NC00ZWExLWE0MGYtOGY2OGRjZDI4ZGFlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-08-16",
     "title": "Lanterns (2026– )",
@@ -541,7 +557,7 @@
     "title": "It Ends",
     "id": "tt35519455",
     "url": "https://www.imdb.com/title/tt35519455/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFlYjUzMTktM2ZiOC00NmUyLWI2ZWUtN2Y4MmJmNDc5NmJjXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE2ZGYyMzMtYjQ2OS00Y2ZhLWE2MzktMDY1YzM3MjUxZTM4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -642,18 +658,18 @@
   {
     "type": "movie",
     "date": "2026-08-28",
-    "title": "Buddy",
-    "id": "tt37281055",
-    "url": "https://www.imdb.com/title/tt37281055/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-28",
     "title": "Rise of the Footsoldier: Retribution",
     "id": "tt34470118",
     "url": "https://www.imdb.com/title/tt34470118/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWRjMmY5YTYtYWYwZi00NzVkLTlmMmMtMjExYWRjZWY3MTVmXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
+    "title": "Nika & Madison",
+    "id": "tt37598347",
+    "url": "https://www.imdb.com/title/tt37598347/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhlYjAyYmMtZTMxNS00NzQ4LTkzZTEtYTMyZWFhY2EyNTVjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -686,6 +702,14 @@
     "id": "tt32268691",
     "url": "https://www.imdb.com/title/tt32268691/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-04",
+    "title": "Buddy",
+    "id": "tt37281055",
+    "url": "https://www.imdb.com/title/tt37281055/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -770,6 +794,14 @@
   {
     "type": "movie",
     "date": "2026-09-11",
+    "title": "Don't Look Back in Anger",
+    "id": "tt36152310",
+    "url": "https://www.imdb.com/title/tt36152310/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNlOTJmNGUtMjhiNS00Y2NkLWE1OWEtYzA1Y2U1ODI4N2Q2XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-11",
     "title": "The Fix",
     "id": "tt9601292",
     "url": "https://www.imdb.com/title/tt9601292/",
@@ -806,14 +838,6 @@
     "id": "tt36841161",
     "url": "https://www.imdb.com/title/tt36841161/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-18",
-    "title": "Rolling Loud",
-    "id": "tt33184695",
-    "url": "https://www.imdb.com/title/tt33184695/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -942,6 +966,14 @@
     "id": "tt32329539",
     "url": "https://www.imdb.com/title/tt32329539/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-02",
+    "title": "Rolling Loud",
+    "id": "tt33184695",
+    "url": "https://www.imdb.com/title/tt33184695/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlZDBmMGQtNjFiYy00ZGUwLTk5ZjMtNzYzNDU5MWIyY2I1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1169,14 +1201,6 @@
   },
   {
     "type": "movie",
-    "date": "2026-11-08",
-    "title": "Ramayana",
-    "id": "tt27988879",
-    "url": "https://www.imdb.com/title/tt27988879/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-11-13",
     "title": "Ebenezer: A Christmas Carol",
     "id": "tt38773219",
@@ -1317,7 +1341,7 @@
     "title": "Dune: Part Three",
     "id": "tt31378509",
     "url": "https://www.imdb.com/title/tt31378509/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDA2MDVmNWItODA3My00Mzc2LThmODMtMThhYTVlMGJkYjA4XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1797,6 +1821,14 @@
     "title": "The Splendid Thing",
     "id": "tt31968478",
     "url": "https://www.imdb.com/title/tt31968478/",
+    "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2027-07-09",
+    "title": "Man of Tomorrow",
+    "id": "tt37833661",
+    "url": "https://www.imdb.com/title/tt37833661/",
     "poster": null
   }
 ]
