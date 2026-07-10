@@ -1,13 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-07-09",
-    "title": "The Man Will Burn",
-    "id": "tt29033873",
-    "url": "https://www.imdb.com/title/tt29033873/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwOWU3ODYtNzVhOS00YmFmLWE3YmQtYzE4MDMyZjgxYmUyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "movie",
     "date": "2026-07-10",
     "title": "The Invite",
@@ -125,7 +117,7 @@
     "title": "Nation's Dumbest (2026– )",
     "id": "tt38865342",
     "url": "https://www.imdb.com/title/tt38865342/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWVhYWMxNGUtNWJiNC00MzQ2LThhNDgtMTRlNmE4YWUwOWQ1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -493,7 +485,7 @@
     "title": "The Wrong Girls",
     "id": "tt35060353",
     "url": "https://www.imdb.com/title/tt35060353/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDliNzEyNGYtZDY2Ni00Nzk3LTllMDctZTY1ZjczNDhjOWZiXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -653,7 +645,15 @@
     "title": "Legend of the White Dragon",
     "id": "tt12446086",
     "url": "https://www.imdb.com/title/tt12446086/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMzU5MjQtYTU5OS00ZWQ1LTgyZDMtNjQ3ODZkZWYwNTdmXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
+    "title": "Buddy",
+    "id": "tt37281055",
+    "url": "https://www.imdb.com/title/tt37281055/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -681,6 +681,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-09-03",
+    "title": "Silenced",
+    "id": "tt39087873",
+    "url": "https://www.imdb.com/title/tt39087873/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQxZWI5NGYtMTY3Ni00NmJlLWFmYTYtNjk5OTBlYzU2NmUwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-09-04",
     "title": "How to Rob a Bank",
     "id": "tt35866986",
@@ -702,14 +710,6 @@
     "id": "tt32268691",
     "url": "https://www.imdb.com/title/tt32268691/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-04",
-    "title": "Buddy",
-    "id": "tt37281055",
-    "url": "https://www.imdb.com/title/tt37281055/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1165,7 +1165,7 @@
     "title": "Godzilla Minus Zero",
     "id": "tt34384661",
     "url": "https://www.imdb.com/title/tt34384661/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWUyMDY0NWQtMjI2Zi00YjMwLTkwYmItZDk1MGI5MjEzODQxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1294,14 +1294,6 @@
     "id": "tt3195548",
     "url": "https://www.imdb.com/title/tt3195548/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGMzMWU4MjYtMzIyOS00YzI2LWJkZTQtZmRjNjE3MjcxMTc2XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-12-03",
-    "title": "The Debut",
-    "id": "tt34718200",
-    "url": "https://www.imdb.com/title/tt34718200/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q5ZTdmN2UtYzJjZi00ZjZjLWJmMWMtMjFjMmM5M2VmOWY4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
