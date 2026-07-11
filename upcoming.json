@@ -1,69 +1,5 @@
 [
   {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "The Invite",
-    "id": "tt14173636",
-    "url": "https://www.imdb.com/title/tt14173636/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Moana",
-    "id": "tt27419466",
-    "url": "https://www.imdb.com/title/tt27419466/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Evil Dead Burn",
-    "id": "tt31170389",
-    "url": "https://www.imdb.com/title/tt31170389/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Gail Daughtry and the Celebrity Sex Pass",
-    "id": "tt36834010",
-    "url": "https://www.imdb.com/title/tt36834010/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Night Nurse",
-    "id": "tt38906892",
-    "url": "https://www.imdb.com/title/tt38906892/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzU4ZWQyYzctMDc5OC00N2M1LTgwYzEtZWM5N2QyZDZhNDBiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Baby Doe",
-    "id": "tt34923417",
-    "url": "https://www.imdb.com/title/tt34923417/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MDcwZDEtYzA3Zi00ZjY3LTljNzYtOGEzNDY1OWVjMjJmXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-10",
-    "title": "Crossing",
-    "id": "tt39276601",
-    "url": "https://www.imdb.com/title/tt39276601/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FjMTg0ODYtZGE4My00YWE1LTllOTEtNzg1YTdhMjU2YzFjXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-10",
-    "title": "Big Brother: Unlocked (2025– )",
-    "id": "tt36988423",
-    "url": "https://www.imdb.com/title/tt36988423/",
-    "poster": null
-  },
-  {
     "type": "series",
     "date": "2026-07-13",
     "title": "Dancing with the Stars: The Next Pro (2026– )",
@@ -425,6 +361,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-08-10",
+    "title": "Ambleside",
+    "id": "tt12759038",
+    "url": "https://www.imdb.com/title/tt12759038/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-08-14",
     "title": "The End of Oak Street",
     "id": "tt27165187",
@@ -666,6 +610,14 @@
   {
     "type": "movie",
     "date": "2026-08-28",
+    "title": "The Cycle of Love",
+    "id": "tt38063160",
+    "url": "https://www.imdb.com/title/tt38063160/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzEzOTRlMmEtOWQ0My00ZjgwLTkzMmMtMjQzN2M3MGRkNjI3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
     "title": "Nika & Madison",
     "id": "tt37598347",
     "url": "https://www.imdb.com/title/tt37598347/",
@@ -686,14 +638,6 @@
     "id": "tt39087873",
     "url": "https://www.imdb.com/title/tt39087873/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQxZWI5NGYtMTY3Ni00NmJlLWFmYTYtNjk5OTBlYzU2NmUwXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-04",
-    "title": "How to Rob a Bank",
-    "id": "tt35866986",
-    "url": "https://www.imdb.com/title/tt35866986/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -805,7 +749,7 @@
     "title": "The Fix",
     "id": "tt9601292",
     "url": "https://www.imdb.com/title/tt9601292/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBmZGQ3ZWUtYzQzZC00Yjg1LTkzMGQtYmI4MmNkNjFiNDZhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -838,14 +782,6 @@
     "id": "tt36841161",
     "url": "https://www.imdb.com/title/tt36841161/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-18",
-    "title": "Untitled Disney",
-    "id": "tt26443624",
-    "url": "https://www.imdb.com/title/tt26443624/",
-    "poster": null
   },
   {
     "type": "movie",
@@ -1112,14 +1048,6 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZGM4MWFmNjMtZTFkZC00ZmQ5LWFkM2MtNjgxNTE2NTE0YWMxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
-    "type": "movie",
-    "date": "2026-10-23",
-    "title": "Wife and Dog",
-    "id": "tt32359344",
-    "url": "https://www.imdb.com/title/tt32359344/",
-    "poster": null
-  },
-  {
     "type": "series",
     "date": "2026-10-23",
     "title": "Newlyweds (2026– )",
@@ -1198,6 +1126,14 @@
     "id": "tt38686316",
     "url": "https://www.imdb.com/title/tt38686316/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-11-13",
+    "title": "How to Rob a Bank",
+    "id": "tt35866986",
+    "url": "https://www.imdb.com/title/tt35866986/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1522,14 +1458,6 @@
   {
     "type": "movie",
     "date": "2027-02-12",
-    "title": "The Nightingale",
-    "id": "tt4540534",
-    "url": "https://www.imdb.com/title/tt4540534/",
-    "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2027-02-12",
     "title": "Wishful Thinking",
     "id": "tt37599264",
     "url": "https://www.imdb.com/title/tt37599264/",
@@ -1541,6 +1469,14 @@
     "title": "Untitled Disney",
     "id": "tt26443623",
     "url": "https://www.imdb.com/title/tt26443623/",
+    "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2027-02-19",
+    "title": "Wife and Dog",
+    "id": "tt32359344",
+    "url": "https://www.imdb.com/title/tt32359344/",
     "poster": null
   },
   {
@@ -1590,6 +1526,14 @@
     "id": "tt16744566",
     "url": "https://www.imdb.com/title/tt16744566/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMmIxMTdiNDctMDcyYi00N2RmLTk5Y2EtMWE5N2YzOTEyYjdlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-03-19",
+    "title": "The Nightingale",
+    "id": "tt4540534",
+    "url": "https://www.imdb.com/title/tt4540534/",
+    "poster": null
   },
   {
     "type": "movie",
