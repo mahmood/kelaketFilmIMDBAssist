@@ -1000,21 +1000,21 @@
   },
   {
     "rank": 112,
-    "title": "Amélie",
-    "year": "2001",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt0211915/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0211915"
-  },
-  {
-    "rank": 113,
     "title": "Vertigo",
     "year": "1958",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0052357/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0052357"
+  },
+  {
+    "rank": 113,
+    "title": "Amélie",
+    "year": "2001",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt0211915/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0211915"
   },
   {
     "rank": 114,
@@ -1288,15 +1288,6 @@
   },
   {
     "rank": 144,
-    "title": "Project Hail Mary",
-    "year": "2026",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt12042730/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt12042730"
-  },
-  {
-    "rank": 145,
     "title": "All About Eve",
     "year": "1950",
     "rate": 8.2,
@@ -1305,13 +1296,22 @@
     "id": "tt0042192"
   },
   {
-    "rank": 146,
+    "rank": 145,
     "title": "The Sixth Sense",
     "year": "1999",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0167404/",
     "image": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0167404"
+  },
+  {
+    "rank": 146,
+    "title": "Project Hail Mary",
+    "year": "2026",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt12042730/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt12042730"
   },
   {
     "rank": 147,
@@ -1918,21 +1918,21 @@
   },
   {
     "rank": 214,
-    "title": "The General",
-    "year": "1926",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0017925/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0017925"
-  },
-  {
-    "rank": 215,
     "title": "Logan",
     "year": "2017",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt3315342/",
     "image": "https://m.media-amazon.com/images/M/MV5BM2JjODdkMGMtNmY2YS00OGM2LThiY2YtZGYyNzE4Nzc2ODA0XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt3315342"
+  },
+  {
+    "rank": 215,
+    "title": "The General",
+    "year": "1926",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0017925/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTVhM2Y1MDUtMDkxYi00Y2UxLWI2MTMtZjMzYTY4ODM4MGIzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0017925"
   },
   {
     "rank": 216,
@@ -1945,21 +1945,21 @@
   },
   {
     "rank": 217,
-    "title": "The Chaos Class Failed the Class",
-    "year": "1975",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt0252488/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0252488"
-  },
-  {
-    "rank": 218,
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "year": "2003",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0325980/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0325980"
+  },
+  {
+    "rank": 218,
+    "title": "The Chaos Class Failed the Class",
+    "year": "1975",
+    "rate": 8.4,
+    "url": "https://www.imdb.com/title/tt0252488/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0252488"
   },
   {
     "rank": 219,
@@ -2026,21 +2026,21 @@
   },
   {
     "rank": 226,
-    "title": "Wild Strawberries",
-    "year": "1957",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0050986/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0050986"
-  },
-  {
-    "rank": 227,
     "title": "Maharaja",
     "year": "2024",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt26548265/",
     "image": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt26548265"
+  },
+  {
+    "rank": 227,
+    "title": "Wild Strawberries",
+    "year": "1957",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0050986/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0050986"
   },
   {
     "rank": 228,
@@ -2233,20 +2233,20 @@
   },
   {
     "rank": 249,
-    "title": "Autumn Sonata",
-    "year": "1978",
+    "title": "Network",
+    "year": "1976",
     "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0077711/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTg1MzJiNTYtZjcyNS00NDE5LWE0N2ItMGIxM2Y2ZDMyYjJjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0077711"
+    "url": "https://www.imdb.com/title/tt0074958/",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E4ZGJiNTMtZTAxZC00MmVlLWI1NjYtMGVhMjhkOGEwZDhjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0074958"
   },
   {
     "rank": 250,
-    "title": "Andhadhun",
-    "year": "2018",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt8108198/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjc5OWIzOTgtMmM2ZS00ZjZhLTkyZWItMTFjYTc0NWQ4NzhkXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt8108198"
+    "title": "Sita Ramam",
+    "year": "2022",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt20850406/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWE0NDNiNzEtNThmMi00NjZlLTk3NDAtYzIzOWNmNWQyYTI3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt20850406"
   }
 ]
