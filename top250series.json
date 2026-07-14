@@ -68,7 +68,7 @@
     "year": "1999–2007",
     "rate": 9.2,
     "url": "https://www.imdb.com/title/tt0141842/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjYwNWQwOTMtMzYwOS00NTcxLWFhNTYtNGQ4YjdmYTcyNDFkXkEyXkFqcGc@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGFlY2FlMGUtMDcyZS00NDM2LWIyY2QtMjZhN2FmOTU0NDg0XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0141842"
   },
   {
@@ -676,21 +676,21 @@
   },
   {
     "rank": 76,
-    "title": "Leyla and Mecnun",
-    "year": "2011–2023",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt1831164/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzQ4ZTMxM2UtYTY2MS00NjlmLTlmNmYtYWFmMjMyMzZmZjZkXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1831164"
-  },
-  {
-    "rank": 77,
     "title": "Dragon Ball Z",
     "year": "1989–1996",
     "rate": 8.8,
     "url": "https://www.imdb.com/title/tt0121220/",
     "image": "https://m.media-amazon.com/images/M/MV5BNmFiM2FkYTYtY2FiOS00ZWJkLTkyOTgtNmFmODI4NjcwNDgzXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0121220"
+  },
+  {
+    "rank": 77,
+    "title": "Leyla and Mecnun",
+    "year": "2011–2023",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt1831164/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQ4ZTMxM2UtYTY2MS00NjlmLTlmNmYtYWFmMjMyMzZmZjZkXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1831164"
   },
   {
     "rank": 78,
@@ -1000,21 +1000,21 @@
   },
   {
     "rank": 112,
-    "title": "Mahabharat",
-    "year": "1988–1990",
-    "rate": 8.9,
-    "url": "https://www.imdb.com/title/tt0158417/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzZiY2QyNTMtNTMzMi00ODZkLWEwNWItYmJiM2MyNWJmY2Q5XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0158417"
-  },
-  {
-    "rank": 113,
     "title": "The Simpsons",
     "year": "1989–",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt0096697/",
     "image": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0096697"
+  },
+  {
+    "rank": 113,
+    "title": "Mahabharat",
+    "year": "1988–1990",
+    "rate": 8.9,
+    "url": "https://www.imdb.com/title/tt0158417/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzZiY2QyNTMtNTMzMi00ODZkLWEwNWItYmJiM2MyNWJmY2Q5XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0158417"
   },
   {
     "rank": 114,
@@ -1063,15 +1063,6 @@
   },
   {
     "rank": 119,
-    "title": "Ramayan",
-    "year": "1987–1988",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt0268093/",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2ZhOGFhNDgtZDdiNy00OTM1LTkwYzctN2ZlYTY5MDJlMTFmXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0268093"
-  },
-  {
-    "rank": 120,
     "title": "Code Geass: Lelouch of the Rebellion",
     "year": "2006–2008",
     "rate": 8.7,
@@ -1080,7 +1071,7 @@
     "id": "tt0994314"
   },
   {
-    "rank": 121,
+    "rank": 120,
     "title": "Friday Night Lights",
     "year": "2006–2011",
     "rate": 8.7,
@@ -1089,7 +1080,7 @@
     "id": "tt0758745"
   },
   {
-    "rank": 122,
+    "rank": 121,
     "title": "Arrested Development",
     "year": "2003–2019",
     "rate": 8.6,
@@ -1098,13 +1089,22 @@
     "id": "tt0367279"
   },
   {
-    "rank": 123,
+    "rank": 122,
     "title": "Severance",
     "year": "2022–",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt11280740/",
     "image": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt11280740"
+  },
+  {
+    "rank": 123,
+    "title": "Ramayan",
+    "year": "1987–1988",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt0268093/",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2ZhOGFhNDgtZDdiNy00OTM1LTkwYzctN2ZlYTY5MDJlMTFmXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0268093"
   },
   {
     "rank": 124,
@@ -1270,21 +1270,21 @@
   },
   {
     "rank": 142,
-    "title": "Sarabhai V/S Sarabhai",
-    "year": "2004–2017",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt1518542/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzQ5OWMxM2YtZDVkNS00Y2E4LWJmOTItYmMwNTM0Nzk4NTczXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1518542"
-  },
-  {
-    "rank": 143,
     "title": "Daredevil",
     "year": "2015–2018",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt3322312/",
     "image": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_UX500.jpg",
     "id": "tt3322312"
+  },
+  {
+    "rank": 143,
+    "title": "Sarabhai V/S Sarabhai",
+    "year": "2004–2017",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt1518542/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzQ5OWMxM2YtZDVkNS00Y2E4LWJmOTItYmMwNTM0Nzk4NTczXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1518542"
   },
   {
     "rank": 144,
@@ -1378,21 +1378,21 @@
   },
   {
     "rank": 154,
-    "title": "Haikyuu!!",
-    "year": "2014–2020",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt3398540/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjYxMWFlYTAtYTk0YS00NTMxLWJjNTQtM2E0NjdhYTRhNzE4XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3398540"
-  },
-  {
-    "rank": 155,
     "title": "Blackadder II",
     "year": "1986",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt0088484/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmIyYmYwZDUtYmRiNi00ZmQ5LTliMDctZGE2ZjE0MWRlYzE4XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0088484"
+  },
+  {
+    "rank": 155,
+    "title": "Haikyuu!!",
+    "year": "2014–2020",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt3398540/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjYxMWFlYTAtYTk0YS00NTMxLWJjNTQtM2E0NjdhYTRhNzE4XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3398540"
   },
   {
     "rank": 156,
@@ -1450,12 +1450,12 @@
   },
   {
     "rank": 162,
-    "title": "Farouk Omar",
-    "year": "2012",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt2063241/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2063241"
+    "title": "El Chavo",
+    "year": "1972–1983",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt0229889/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0229889"
   },
   {
     "rank": 163,
@@ -1468,12 +1468,12 @@
   },
   {
     "rank": 164,
-    "title": "El Chavo",
-    "year": "1972–1983",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt0229889/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0229889"
+    "title": "Farouk Omar",
+    "year": "2012",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt2063241/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2063241"
   },
   {
     "rank": 165,
@@ -1630,21 +1630,21 @@
   },
   {
     "rank": 182,
-    "title": "Critical Role",
-    "year": "2015–",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt4834232/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzYyNWM1MTItMTI5YS00Njg3LWE4MjItNmYwM2VkOTRkNjgzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt4834232"
-  },
-  {
-    "rank": 183,
     "title": "Mystery Science Theater 3000",
     "year": "1988–1999",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt0094517/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDA1MjM1Y2ItNjJjZi00ZjFkLWI5MjMtYWM3ODIwZDI5M2IzXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0094517"
+  },
+  {
+    "rank": 183,
+    "title": "Critical Role",
+    "year": "2015–",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt4834232/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzYyNWM1MTItMTI5YS00Njg3LWE4MjItNmYwM2VkOTRkNjgzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt4834232"
   },
   {
     "rank": 184,
@@ -1765,15 +1765,6 @@
   },
   {
     "rank": 197,
-    "title": "Samurai Champloo",
-    "year": "2004–2005",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0423731/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjBhZTY4NzMtOGU3OC00ZDllLWE2ZjUtMGFjYTU5OWI0YTQ2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0423731"
-  },
-  {
-    "rank": 198,
     "title": "Dragon Ball",
     "year": "1995–2003",
     "rate": 8.5,
@@ -1782,22 +1773,31 @@
     "id": "tt0280249"
   },
   {
-    "rank": 199,
-    "title": "Black Sun",
-    "year": "2017–2026",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt6108262/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt6108262"
+    "rank": 198,
+    "title": "Samurai Champloo",
+    "year": "2004–2005",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt0423731/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBhZTY4NzMtOGU3OC00ZDllLWE2ZjUtMGFjYTU5OWI0YTQ2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0423731"
   },
   {
-    "rank": 200,
+    "rank": 199,
     "title": "The Haunting of Hill House",
     "year": "2018",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt6763664/",
     "image": "https://m.media-amazon.com/images/M/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_UX500.jpg",
     "id": "tt6763664"
+  },
+  {
+    "rank": 200,
+    "title": "Black Sun",
+    "year": "2017–2026",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt6108262/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzMwMTY3NzktNGE0NC00MjJiLWIyNzMtNGY2MDU5ZTgyMDAyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt6108262"
   },
   {
     "rank": 201,
@@ -1873,6 +1873,15 @@
   },
   {
     "rank": 209,
+    "title": "The Queen's Gambit",
+    "year": "2020",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt10048342/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt10048342"
+  },
+  {
+    "rank": 210,
     "title": "Coupling",
     "year": "2000–2004",
     "rate": 8.5,
@@ -1881,22 +1890,13 @@
     "id": "tt0237123"
   },
   {
-    "rank": 210,
+    "rank": 211,
     "title": "Ezel",
     "year": "2009–2011",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt1534360/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2VhYTA5YjMtNDBjZS00NTU3LTk1YWEtZGI0NDcxMTEyYjIyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1534360"
-  },
-  {
-    "rank": 211,
-    "title": "The Queen's Gambit",
-    "year": "2020",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt10048342/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt10048342"
   },
   {
     "rank": 212,
@@ -2062,21 +2062,21 @@
   },
   {
     "rank": 230,
-    "title": "My Brilliant Friend",
-    "year": "2018–2024",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt7278862/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt7278862"
-  },
-  {
-    "rank": 231,
     "title": "Takopi's Original Sin",
     "year": "2025",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt36988358/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt36988358"
+  },
+  {
+    "rank": 231,
+    "title": "My Brilliant Friend",
+    "year": "2018–2024",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt7278862/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt7278862"
   },
   {
     "rank": 232,
@@ -2161,21 +2161,21 @@
   },
   {
     "rank": 241,
-    "title": "Solo Leveling",
-    "year": "2024–",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt21209876/",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt21209876"
-  },
-  {
-    "rank": 242,
     "title": "Twinkling Watermelon",
     "year": "2023",
     "rate": 8.8,
     "url": "https://www.imdb.com/title/tt27446493/",
     "image": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt27446493"
+  },
+  {
+    "rank": 242,
+    "title": "Solo Leveling",
+    "year": "2024–",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt21209876/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt21209876"
   },
   {
     "rank": 243,

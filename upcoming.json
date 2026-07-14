@@ -1,38 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-07-13",
-    "title": "Dancing with the Stars: The Next Pro (2026– )",
-    "id": "tt40367753",
-    "url": "https://www.imdb.com/title/tt40367753/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTgwMWVhMTMtMzYyZi00MjViLWI3MTktZmRmYjU0YTFlYWJiXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-13",
-    "title": "Pitmasters (2026– )",
-    "id": "tt43631172",
-    "url": "https://www.imdb.com/title/tt43631172/",
-    "poster": null
-  },
-  {
-    "type": "series",
-    "date": "2026-07-13",
-    "title": "Rabbit Hole (2026– )",
-    "id": "tt38737396",
-    "url": "https://www.imdb.com/title/tt38737396/",
-    "poster": null
-  },
-  {
-    "type": "series",
-    "date": "2026-07-13",
-    "title": "Hot Ones: Extra Heat (2026– )",
-    "id": "tt43611663",
-    "url": "https://www.imdb.com/title/tt43611663/",
-    "poster": null
-  },
-  {
-    "type": "series",
     "date": "2026-07-14",
     "title": "The Real Wolf of Wall Street",
     "id": "tt39399104",
@@ -253,7 +221,7 @@
     "title": "President Curtis (2026– )",
     "id": "tt37692332",
     "url": "https://www.imdb.com/title/tt37692332/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGEwNWY0ZGYtNjgyZC00MTViLTk3ODYtZTNiMWE0YjUxMWM3XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWU1YTNhMDctYmE5OC00ZTY2LTk0YjYtZDMzYmY3OTE3OTljXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -269,7 +237,7 @@
     "title": "House of Stassi (2026– )",
     "id": "tt42006748",
     "url": "https://www.imdb.com/title/tt42006748/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWNhYjFjNmUtNmFlNC00YjdjLTg2OGUtYWRlODU0ZTNjYTA2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -554,14 +522,6 @@
   {
     "type": "movie",
     "date": "2026-08-21",
-    "title": "The Marching Band",
-    "id": "tt30327451",
-    "url": "https://www.imdb.com/title/tt30327451/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-21",
     "title": "Never Stop Chasing",
     "id": "tt43596451",
     "url": "https://www.imdb.com/title/tt43596451/",
@@ -638,6 +598,14 @@
     "id": "tt12446086",
     "url": "https://www.imdb.com/title/tt12446086/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
+    "title": "The Marching Band",
+    "id": "tt30327451",
+    "url": "https://www.imdb.com/title/tt30327451/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjYyZjI2ZDgtN2YxOS00NGVlLTkwNTEtODY4MTJiMmFjNDc3XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -778,10 +746,10 @@
   {
     "type": "movie",
     "date": "2026-09-11",
-    "title": "Daniel",
-    "id": "tt37542993",
-    "url": "https://www.imdb.com/title/tt37542993/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_UX500.jpg"
+    "title": "Ranabaali",
+    "id": "tt32324552",
+    "url": "https://www.imdb.com/title/tt32324552/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBmY2M5ODAtOTU0Yi00MTY5LTk2MGQtZDc1Mjg4MWEzNjkzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -818,10 +786,18 @@
   {
     "type": "movie",
     "date": "2026-09-18",
+    "title": "Daniel",
+    "id": "tt37542993",
+    "url": "https://www.imdb.com/title/tt37542993/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzExMDZkNWItMTI2NS00YjI1LTk0MmMtOWQ5YmFmYzBlYjA1XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-18",
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "id": "tt36841161",
     "url": "https://www.imdb.com/title/tt36841161/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDViZGRhOWQtY2IxOS00NTYyLTk5YzAtOTRlZGQ4NTU1OWVjXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY4YzVkODQtNWRmMS00MTZmLWJhYmQtODNkYjYzY2Y3YWNjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -830,6 +806,14 @@
     "id": "tt32827454",
     "url": "https://www.imdb.com/title/tt32827454/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-18",
+    "title": "Without Blood",
+    "id": "tt18398986",
+    "url": "https://www.imdb.com/title/tt18398986/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDcwYzJhZTgtNTEyZS00ZDBjLWE5YTQtM2Y1ZTNhZWFkMTExXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -925,7 +909,7 @@
     "title": "Digger",
     "id": "tt31450459",
     "url": "https://www.imdb.com/title/tt31450459/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNiMjI1MzItMDkwNy00YzNjLWIwYjUtZTM5ZGIyYTVkZDhiXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2E0YTg1M2YtOGQyYi00NDFkLTk3NzUtYmEyNTZhYThhZDQ0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
