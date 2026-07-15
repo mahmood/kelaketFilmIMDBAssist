@@ -1,22 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-07-14",
-    "title": "The Real Wolf of Wall Street",
-    "id": "tt39399104",
-    "url": "https://www.imdb.com/title/tt39399104/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4ZWY2ZWMtY2YwNC00YjAwLWE0NzItZWIxZmY5MWRmOTc3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-14",
-    "title": "Homestead Rescue: Intervention (2026– )",
-    "id": "tt43603717",
-    "url": "https://www.imdb.com/title/tt43603717/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmUwNGJlNTEtNzcyNi00ZWZhLWEzYWItNTFhZmRlOWU1ZTIzXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-07-15",
     "title": "Nation's Dumbest (2026– )",
     "id": "tt38865342",
@@ -74,14 +58,6 @@
   {
     "type": "movie",
     "date": "2026-07-17",
-    "title": "Diamond Made Man Part 2",
-    "id": "tt43438442",
-    "url": "https://www.imdb.com/title/tt43438442/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-17",
     "title": "Reading Lolita in Tehran",
     "id": "tt27679443",
     "url": "https://www.imdb.com/title/tt27679443/",
@@ -94,6 +70,14 @@
     "id": "tt37090886",
     "url": "https://www.imdb.com/title/tt37090886/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTk0NWUwMDYtZmRkMC00M2U2LTg2ODUtMTk5YzNjZGY2MTM4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-20",
+    "title": "Diamond Made Man Part 2",
+    "id": "tt43438442",
+    "url": "https://www.imdb.com/title/tt43438442/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -344,6 +328,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDVkZmFkNzctMmM4Yy00YzhhLWE1MTAtOWFmN2ZhODdhZjdlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-08-07",
+    "title": "Anh Hung",
+    "id": "tt38866269",
+    "url": "https://www.imdb.com/title/tt38866269/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2YzZDdmYmQtOTRmYy00YzYxLThjZjktZWU0NWU2OWQwZGNkXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-08-07",
     "title": "Anna Pigeon (2026– )",
@@ -362,7 +354,7 @@
   {
     "type": "movie",
     "date": "2026-08-10",
-    "title": "Ambleside",
+    "title": "Prisoners of Paradise",
     "id": "tt12759038",
     "url": "https://www.imdb.com/title/tt12759038/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDg4YmVhMmUtNzc3ZS00MWEzLWJlYWYtYWEzZTIzNDAwZTY5XkEyXkFqcGc@._V1_UX500.jpg"
@@ -502,6 +494,14 @@
     "id": "tt35519455",
     "url": "https://www.imdb.com/title/tt35519455/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNWE2ZGYyMzMtYjQ2OS00Y2ZhLWE2MzktMDY1YzM3MjUxZTM4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-21",
+    "title": "Tony",
+    "id": "tt33095251",
+    "url": "https://www.imdb.com/title/tt33095251/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -872,6 +872,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "The Incomer",
+    "id": "tt36980182",
+    "url": "https://www.imdb.com/title/tt36980182/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGExNTk0NjgtOGMxNS00MGE3LTk3NjAtNzE5MGEwZDA0Nzk0XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-09-25",
     "title": "SWAT Exiles (2026– )",
@@ -1101,7 +1109,15 @@
     "title": "The Mongoose",
     "id": "tt13611778",
     "url": "https://www.imdb.com/title/tt13611778/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDBmN2E2YTQtMWE2Ni00ZjMxLWE4NGItODk2ZDZjZDU0MjdlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-10-31",
+    "title": "Holy Father",
+    "id": "tt36465142",
+    "url": "https://www.imdb.com/title/tt36465142/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRlYjkyNzUtNTJmMy00NzE0LTlkYmUtMDdkOGQ3ZTk5MTQyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1146,7 +1162,7 @@
   {
     "type": "movie",
     "date": "2026-11-06",
-    "title": "Archangel",
+    "title": "Ghost Soldier",
     "id": "tt38686316",
     "url": "https://www.imdb.com/title/tt38686316/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_UX500.jpg"
@@ -1265,6 +1281,14 @@
   },
   {
     "type": "movie",
+    "date": "2026-12-04",
+    "title": "Behemoth!",
+    "id": "tt36415529",
+    "url": "https://www.imdb.com/title/tt36415529/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU1YWQ5MzItNTQ0NC00ZThkLTlmNDAtOWFmY2JkMTNjNWRjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-12-11",
     "title": "Zero A.D.",
     "id": "tt34491649",
@@ -1374,6 +1398,14 @@
     "id": "tt9810236",
     "url": "https://www.imdb.com/title/tt9810236/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjA3NGE5MTctYjljZi00ZjkyLWI0ZWMtZjYzODRkZDc1NTVlXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-01-08",
+    "title": "Harmonia",
+    "id": "tt8613988",
+    "url": "https://www.imdb.com/title/tt8613988/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjU5NDhjMGUtYTE5NS00ODZlLWJhNTktNjFhZDEyNjZhYzRiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1621,7 +1653,7 @@
     "title": "Spaceballs: The New One",
     "id": "tt32659463",
     "url": "https://www.imdb.com/title/tt32659463/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmU1YWJjMTItYTdmYS00YzQ0LTlkZGQtMzhhMGNhYTk5Mjg5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTcwNTEwYTYtZmI4Ni00NjJmLTgzNjQtOTQyYTNhMTFiYWY5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",

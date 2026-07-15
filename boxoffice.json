@@ -6,7 +6,7 @@
     "url": "https://www.imdb.com/title/tt27419466/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$43M",
-    "gross": "$43M",
+    "gross": "$48M",
     "weeks": "1"
   },
   {
@@ -16,7 +16,7 @@
     "url": "https://www.imdb.com/title/tt32890033/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$21M",
-    "gross": "$109M",
+    "gross": "$112M",
     "weeks": "2"
   },
   {
@@ -26,7 +26,7 @@
     "url": "https://www.imdb.com/title/tt29355505/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$19M",
-    "gross": "$404M",
+    "gross": "$407M",
     "weeks": "4"
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://www.imdb.com/title/tt31170389/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$14M",
-    "gross": "$14M",
+    "gross": "$15M",
     "weeks": "1"
   },
   {
@@ -51,46 +51,36 @@
   },
   {
     "rank": 6,
-    "title": "The Invite",
-    "id": "tt14173636",
-    "url": "https://www.imdb.com/title/tt14173636/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$5.7M",
-    "gross": "$7.4M",
-    "weeks": "3"
-  },
-  {
-    "rank": 7,
     "title": "Obsession",
     "id": "tt37287335",
     "url": "https://www.imdb.com/title/tt37287335/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$3.8M",
-    "gross": "$253M",
+    "gross": "$254M",
     "weeks": "9"
   },
   {
-    "rank": 8,
+    "rank": 7,
     "title": "Supergirl",
     "id": "tt8814476",
     "url": "https://www.imdb.com/title/tt8814476/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$3.8M",
-    "gross": "$66M",
+    "gross": "$67M",
     "weeks": "3"
   },
   {
-    "rank": 9,
+    "rank": 8,
     "title": "Disclosure Day",
     "id": "tt15047880",
     "url": "https://www.imdb.com/title/tt15047880/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_UX500.jpg",
     "weekend": "$3.4M",
-    "gross": "$111M",
+    "gross": "$112M",
     "weeks": "5"
   },
   {
-    "rank": 10,
+    "rank": 9,
     "title": "Backrooms",
     "id": "tt26657236",
     "url": "https://www.imdb.com/title/tt26657236/",
@@ -98,5 +88,15 @@
     "weekend": "$1.5M",
     "gross": "$194M",
     "weeks": "7"
+  },
+  {
+    "rank": 10,
+    "title": "Gail Daughtry and the Celebrity Sex Pass",
+    "id": "tt36834010",
+    "url": "https://www.imdb.com/title/tt36834010/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOGJhNzEtMWUxMC00Yjc1LWE1MTUtODc4Yzk3MzVjMWUyXkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$899K",
+    "gross": "$899K",
+    "weeks": "1"
   }
 ]
