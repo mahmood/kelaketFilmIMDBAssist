@@ -1,22 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-07-15",
-    "title": "Nation's Dumbest (2026– )",
-    "id": "tt38865342",
-    "url": "https://www.imdb.com/title/tt38865342/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWVhYWMxNGUtNWJiNC00MzQ2LThhNDgtMTRlNmE4YWUwOWQ1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-15",
-    "title": "Worst Yard on the Block (2026– )",
-    "id": "tt43475149",
-    "url": "https://www.imdb.com/title/tt43475149/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2VlYWE4MDgtOTcwMy00ZjU0LTllZTUtZjUzYWMyZGM4OWI3XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-07-16",
     "title": "Scott Peterson: The New Evidence",
     "id": "tt40430823",
@@ -270,6 +254,14 @@
     "id": "tt14541160",
     "url": "https://www.imdb.com/title/tt14541160/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDQ5NmVlZTMtYTVhOC00NDdmLTk3NWItYjNiZGNiY2YzMGM4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-08-02",
+    "title": "Decades in Sports (2026– )",
+    "id": "tt36958248",
+    "url": "https://www.imdb.com/title/tt36958248/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZlNzZjYzMtMzQ5Ny00NjA2LThhZTMtNGQ0MzI2M2I3MmRlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -717,7 +709,7 @@
     "title": "Runner",
     "id": "tt31349844",
     "url": "https://www.imdb.com/title/tt31349844/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmZhZjFmNTMtODgxZC00MWE3LTkwMTYtOWEyN2I2ODc2YTM2XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjBiYmVlZTMtZmY5MS00Nzg5LTg4MzYtNTI3NjJkMzFmMzQ5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -725,7 +717,7 @@
     "title": "The Uprising",
     "id": "tt36983905",
     "url": "https://www.imdb.com/title/tt36983905/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MTMyZmMtOTZmMy00OTBkLWE0MWItZjgwZTE0MGFhNDg2XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc1ZWRlMjQtMDc4NC00ODczLWIwNGMtZmFlZjA3YzIyZWVhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1165,7 +1157,15 @@
     "title": "Ghost Soldier",
     "id": "tt38686316",
     "url": "https://www.imdb.com/title/tt38686316/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWQxMmNkZWQtNjQyNi00YTgyLTkzMjktMzY1MWJlOTAyN2MyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmY0ZTMzNWMtODVhMi00Mjg3LTgwMGItYjBhMTRhY2NhYmJhXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-11-06",
+    "title": "Drummer Boy",
+    "id": "tt10098420",
+    "url": "https://www.imdb.com/title/tt10098420/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQzYzFmODctMTcxZS00MzNjLWI3N2MtNjAzNWNmZWFjYmUxXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1174,14 +1174,6 @@
     "id": "tt35866986",
     "url": "https://www.imdb.com/title/tt35866986/",
     "poster": "https://m.media-amazon.com/images/M/MV5BODY5YWIzZTAtMzA5OC00MDgwLTgxZjQtZGIwZTg2YTk3YWE1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-11-13",
-    "title": "The Great Beyond",
-    "id": "tt33075482",
-    "url": "https://www.imdb.com/title/tt33075482/",
-    "poster": null
   },
   {
     "type": "movie",
@@ -1254,6 +1246,14 @@
     "id": "tt17055444",
     "url": "https://www.imdb.com/title/tt17055444/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZjNlOGQ4NmEtNjRjNi00OWY3LWFhMDktMmRhMjExN2U3Mjc0XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-11-25",
+    "title": "All of a Sudden",
+    "id": "tt36834996",
+    "url": "https://www.imdb.com/title/tt36834996/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ2NWE0MGYtNGMyOC00MjRmLTg2MDctMjY2OTlmNjI3OTI0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1634,6 +1634,14 @@
   {
     "type": "movie",
     "date": "2027-04-09",
+    "title": "Panic Carefully",
+    "id": "tt34900169",
+    "url": "https://www.imdb.com/title/tt34900169/",
+    "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2027-04-09",
     "title": "Get Lite",
     "id": "tt13655056",
     "url": "https://www.imdb.com/title/tt13655056/",
@@ -1777,7 +1785,7 @@
   },
   {
     "type": "movie",
-    "date": "2027-06-20",
+    "date": "2027-06-18",
     "title": "Spider-Man: Beyond the Spider-Verse",
     "id": "tt16360004",
     "url": "https://www.imdb.com/title/tt16360004/",
