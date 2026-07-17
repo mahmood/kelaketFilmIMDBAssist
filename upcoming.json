@@ -1,29 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-07-16",
-    "title": "Scott Peterson: The New Evidence",
-    "id": "tt40430823",
-    "url": "https://www.imdb.com/title/tt40430823/",
-    "poster": null
-  },
-  {
-    "type": "series",
-    "date": "2026-07-16",
-    "title": "Keep the Meter Running (2026– )",
-    "id": "tt28311290",
-    "url": "https://www.imdb.com/title/tt28311290/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNjZGJiYTgtYWNjMi00YWYyLTljZTMtYTEwZjI4M2Y4NGU1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-16",
-    "title": "Glass House (2026– )",
-    "id": "tt39311785",
-    "url": "https://www.imdb.com/title/tt39311785/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTU0ODMyMDktMGI5Zi00OTYwLWIyNzItZDAzZWJiY2I2YzZlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "movie",
     "date": "2026-07-17",
     "title": "The Odyssey",
@@ -133,7 +109,7 @@
     "title": "Her Private Hell",
     "id": "tt36629665",
     "url": "https://www.imdb.com/title/tt36629665/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDZmZTZlZDAtN2JlYy00NzBlLTgxYWYtZjQyOGVhYjBjY2IyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NlMzRhNWItYzQ4MC00MDIwLWJlNDctMWUzNzYwYzgwZWJhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -270,6 +246,14 @@
     "id": "tt43619348",
     "url": "https://www.imdb.com/title/tt43619348/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDFkMjcyMjQtN2E4NC00ZTQwLThiODMtYzg5MjkyMzJiMWRjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-08-06",
+    "title": "Monsters of God",
+    "id": "tt39368539",
+    "url": "https://www.imdb.com/title/tt39368539/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTNlZTY2YjMtYzRmZi00OTdhLThmN2YtYWY5NGZjYzU4N2Q0XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -549,7 +533,7 @@
     "title": "Buddy",
     "id": "tt37281055",
     "url": "https://www.imdb.com/title/tt37281055/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YWZlY2YtYzJhMS00MzFkLWI3NGUtMWJhMWNmNTU1YzBkXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5ZWQzZWQtMzViMS00NmJjLWIwNWYtM2VhNDU5MTY0YjNhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -654,14 +638,6 @@
     "id": "tt32268691",
     "url": "https://www.imdb.com/title/tt32268691/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-04",
-    "title": "Jessica Frost",
-    "id": "tt4519000",
-    "url": "https://www.imdb.com/title/tt4519000/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmE4NzBiMzMtNTA4Ni00NWY3LThlNzUtYWY1NmExMGUwNGZlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1109,7 +1085,7 @@
     "title": "Holy Father",
     "id": "tt36465142",
     "url": "https://www.imdb.com/title/tt36465142/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWRlYjkyNzUtNTJmMy00NzE0LTlkYmUtMDdkOGQ3ZTk5MTQyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTAzZjgxNzUtZGUwYi00MGRjLWJjNGItODAyNDdmYWExNDE5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1245,7 +1221,7 @@
     "title": "Hershey",
     "id": "tt17055444",
     "url": "https://www.imdb.com/title/tt17055444/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjNlOGQ4NmEtNjRjNi00OWY3LWFhMDktMmRhMjExN2U3Mjc0XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxNTNkYjUtYTgxYy00ODMxLWFlNTEtMzcxYjU2ZWIzODk5XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1637,14 +1613,6 @@
     "title": "Panic Carefully",
     "id": "tt34900169",
     "url": "https://www.imdb.com/title/tt34900169/",
-    "poster": null
-  },
-  {
-    "type": "movie",
-    "date": "2027-04-09",
-    "title": "Get Lite",
-    "id": "tt13655056",
-    "url": "https://www.imdb.com/title/tt13655056/",
     "poster": null
   },
   {
