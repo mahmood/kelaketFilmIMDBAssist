@@ -1,38 +1,6 @@
 [
   {
     "type": "movie",
-    "date": "2026-07-17",
-    "title": "The Odyssey",
-    "id": "tt33764258",
-    "url": "https://www.imdb.com/title/tt33764258/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-17",
-    "title": "Horsegirls",
-    "id": "tt13652006",
-    "url": "https://www.imdb.com/title/tt13652006/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGJhMGIyYzEtMTg2Ni00ZjI5LTk5ZGMtMWEwZWM5Yjc4ZWI1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-07-17",
-    "title": "Reading Lolita in Tehran",
-    "id": "tt27679443",
-    "url": "https://www.imdb.com/title/tt27679443/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTMwYjAwZDQtNGMyNC00MTA4LWE5Y2YtMzU4MzA2YWVmOGM1XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-17",
-    "title": "Young Farts Trailer Parts (2026– )",
-    "id": "tt37090886",
-    "url": "https://www.imdb.com/title/tt37090886/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTk0NWUwMDYtZmRkMC00M2U2LTg2ODUtMTk5YzNjZGY2MTM4XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
     "date": "2026-07-20",
     "title": "Diamond Made Man Part 2",
     "id": "tt43438442",
@@ -306,7 +274,7 @@
   {
     "type": "movie",
     "date": "2026-08-07",
-    "title": "Anh Hung",
+    "title": "Mr. Hero",
     "id": "tt38866269",
     "url": "https://www.imdb.com/title/tt38866269/",
     "poster": "https://m.media-amazon.com/images/M/MV5BN2YzZDdmYmQtOTRmYy00YzYxLThjZjktZWU0NWU2OWQwZGNkXkEyXkFqcGc@._V1_UX500.jpg"
@@ -318,14 +286,6 @@
     "id": "tt36937503",
     "url": "https://www.imdb.com/title/tt36937503/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZWUzMzFiZDAtZGNiYi00MWRlLThjZTItYWQ2NDBlNWVjOTQ0XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-08-09",
-    "title": "The Real Housewives Ultimate Girls Trip: Roaring 20th (2026– )",
-    "id": "tt43617114",
-    "url": "https://www.imdb.com/title/tt43617114/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzhlNmUxZjYtZmZhMi00Y2JmLThhZmYtNDlmZjA2N2M0M2Q4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -422,6 +382,14 @@
     "id": "tt37670940",
     "url": "https://www.imdb.com/title/tt37670940/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTkwYWZlMjAtYTgwZS00NDUwLTlmMGYtYTI1NmI0NzExYWJjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-14",
+    "title": "All Wishes Come True!",
+    "id": "tt43515101",
+    "url": "https://www.imdb.com/title/tt43515101/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZmNzZiMDgtZTk1My00ZDA0LWFlODEtYjBjZjNkNmMzZmRlXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -549,7 +517,7 @@
     "title": "Idiots",
     "id": "tt6628920",
     "url": "https://www.imdb.com/title/tt6628920/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTQzNmNkMWMtZDM2NS00YTM1LWFkZTItNWY4ODU5ODEwNGZiXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI0MTAxYjktMTYxMi00MzIxLWFlMGMtMDJhNjJhZGZmZGU2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -685,7 +653,7 @@
     "title": "Runner",
     "id": "tt31349844",
     "url": "https://www.imdb.com/title/tt31349844/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjBiYmVlZTMtZmY5MS00Nzg5LTg4MzYtNTI3NjJkMzFmMzQ5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWY4YWYxNWItOGIzNC00ZDI3LTk3OGUtYWRlODRkMDA4YWY1XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1221,7 +1189,7 @@
     "title": "Hershey",
     "id": "tt17055444",
     "url": "https://www.imdb.com/title/tt17055444/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxNTNkYjUtYTgxYy00ODMxLWFlNTEtMzcxYjU2ZWIzODk5XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ViZTQ2N2QtZDRmMC00MTU2LTlhM2EtZjg2YzA0YzI4NzRkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1265,8 +1233,16 @@
   },
   {
     "type": "movie",
+    "date": "2026-12-04",
+    "title": "Tender Loving Care",
+    "id": "tt35638092",
+    "url": "https://www.imdb.com/title/tt35638092/",
+    "poster": null
+  },
+  {
+    "type": "movie",
     "date": "2026-12-11",
-    "title": "Zero A.D.",
+    "title": "Zero A.D.: The Birth of Christ",
     "id": "tt34491649",
     "url": "https://www.imdb.com/title/tt34491649/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjU2ZGE2MjktZjZhNC00ZWZiLWI2MTYtMThhZDJkZDQ3YTE2XkEyXkFqcGc@._V1_UX500.jpg"
