@@ -1081,6 +1081,15 @@
   },
   {
     "rank": 121,
+    "title": "The Odyssey",
+    "year": "2026",
+    "rate": 8.3,
+    "url": "https://www.imdb.com/title/tt33764258/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt33764258"
+  },
+  {
+    "rank": 122,
     "title": "A Clockwork Orange",
     "year": "1971",
     "rate": 8.2,
@@ -1089,7 +1098,7 @@
     "id": "tt0066921"
   },
   {
-    "rank": 122,
+    "rank": 123,
     "title": "Metropolis",
     "year": "1927",
     "rate": 8.2,
@@ -1098,7 +1107,7 @@
     "id": "tt0017136"
   },
   {
-    "rank": 123,
+    "rank": 124,
     "title": "1917",
     "year": "2019",
     "rate": 8.2,
@@ -1107,7 +1116,7 @@
     "id": "tt8579674"
   },
   {
-    "rank": 124,
+    "rank": 125,
     "title": "Snatch",
     "year": "2000",
     "rate": 8.2,
@@ -1116,7 +1125,7 @@
     "id": "tt0208092"
   },
   {
-    "rank": 125,
+    "rank": 126,
     "title": "The Wolf of Wall Street",
     "year": "2013",
     "rate": 8.2,
@@ -1125,7 +1134,7 @@
     "id": "tt0993846"
   },
   {
-    "rank": 126,
+    "rank": 127,
     "title": "The Truman Show",
     "year": "1998",
     "rate": 8.2,
@@ -1134,7 +1143,7 @@
     "id": "tt0120382"
   },
   {
-    "rank": 127,
+    "rank": 128,
     "title": "Downfall",
     "year": "2004",
     "rate": 8.2,
@@ -1143,7 +1152,7 @@
     "id": "tt0363163"
   },
   {
-    "rank": 128,
+    "rank": 129,
     "title": "L.A. Confidential",
     "year": "1997",
     "rate": 8.2,
@@ -1152,7 +1161,7 @@
     "id": "tt0119488"
   },
   {
-    "rank": 129,
+    "rank": 130,
     "title": "Dangal",
     "year": "2016",
     "rate": 8.3,
@@ -1161,7 +1170,7 @@
     "id": "tt5074352"
   },
   {
-    "rank": 130,
+    "rank": 131,
     "title": "Shutter Island",
     "year": "2010",
     "rate": 8.2,
@@ -1170,7 +1179,7 @@
     "id": "tt1130884"
   },
   {
-    "rank": 131,
+    "rank": 132,
     "title": "Green Book",
     "year": "2018",
     "rate": 8.2,
@@ -1179,7 +1188,7 @@
     "id": "tt6966692"
   },
   {
-    "rank": 132,
+    "rank": 133,
     "title": "Bicycle Thieves",
     "year": "1948",
     "rate": 8.2,
@@ -1188,7 +1197,7 @@
     "id": "tt0040522"
   },
   {
-    "rank": 133,
+    "rank": 134,
     "title": "Judgment at Nuremberg",
     "year": "1961",
     "rate": 8.3,
@@ -1197,7 +1206,7 @@
     "id": "tt0055031"
   },
   {
-    "rank": 134,
+    "rank": 135,
     "title": "Oppenheimer",
     "year": "2023",
     "rate": 8.2,
@@ -1206,7 +1215,7 @@
     "id": "tt15398776"
   },
   {
-    "rank": 135,
+    "rank": 136,
     "title": "Batman Begins",
     "year": "2005",
     "rate": 8.2,
@@ -1215,7 +1224,7 @@
     "id": "tt0372784"
   },
   {
-    "rank": 136,
+    "rank": 137,
     "title": "Jurassic Park",
     "year": "1993",
     "rate": 8.2,
@@ -1224,7 +1233,7 @@
     "id": "tt0107290"
   },
   {
-    "rank": 137,
+    "rank": 138,
     "title": "For a Few Dollars More",
     "year": "1965",
     "rate": 8.2,
@@ -1233,7 +1242,7 @@
     "id": "tt0059578"
   },
   {
-    "rank": 138,
+    "rank": 139,
     "title": "Hamilton",
     "year": "2020",
     "rate": 8.3,
@@ -1242,7 +1251,7 @@
     "id": "tt8503618"
   },
   {
-    "rank": 139,
+    "rank": 140,
     "title": "Taxi Driver",
     "year": "1976",
     "rate": 8.2,
@@ -1251,7 +1260,7 @@
     "id": "tt0075314"
   },
   {
-    "rank": 140,
+    "rank": 141,
     "title": "Some Like It Hot",
     "year": "1959",
     "rate": 8.2,
@@ -1260,7 +1269,7 @@
     "id": "tt0053291"
   },
   {
-    "rank": 141,
+    "rank": 142,
     "title": "There Will Be Blood",
     "year": "2007",
     "rate": 8.2,
@@ -1269,7 +1278,7 @@
     "id": "tt0469494"
   },
   {
-    "rank": 142,
+    "rank": 143,
     "title": "The Father",
     "year": "2020",
     "rate": 8.2,
@@ -1278,7 +1287,7 @@
     "id": "tt10272386"
   },
   {
-    "rank": 143,
+    "rank": 144,
     "title": "The Kid",
     "year": "1921",
     "rate": 8.2,
@@ -1287,7 +1296,7 @@
     "id": "tt0012349"
   },
   {
-    "rank": 144,
+    "rank": 145,
     "title": "All About Eve",
     "year": "1950",
     "rate": 8.2,
@@ -1296,7 +1305,7 @@
     "id": "tt0042192"
   },
   {
-    "rank": 145,
+    "rank": 146,
     "title": "The Sixth Sense",
     "year": "1999",
     "rate": 8.2,
@@ -1305,7 +1314,7 @@
     "id": "tt0167404"
   },
   {
-    "rank": 146,
+    "rank": 147,
     "title": "Ran",
     "year": "1985",
     "rate": 8.2,
@@ -1314,7 +1323,7 @@
     "id": "tt0089881"
   },
   {
-    "rank": 147,
+    "rank": 148,
     "title": "Project Hail Mary",
     "year": "2026",
     "rate": 8.2,
@@ -1323,7 +1332,7 @@
     "id": "tt12042730"
   },
   {
-    "rank": 148,
+    "rank": 149,
     "title": "Casino",
     "year": "1995",
     "rate": 8.2,
@@ -1332,7 +1341,7 @@
     "id": "tt0112641"
   },
   {
-    "rank": 149,
+    "rank": 150,
     "title": "The Thing",
     "year": "1982",
     "rate": 8.2,
@@ -1341,7 +1350,7 @@
     "id": "tt0084787"
   },
   {
-    "rank": 150,
+    "rank": 151,
     "title": "No Country for Old Men",
     "year": "2007",
     "rate": 8.2,
@@ -1350,7 +1359,7 @@
     "id": "tt0477348"
   },
   {
-    "rank": 151,
+    "rank": 152,
     "title": "Prisoners",
     "year": "2013",
     "rate": 8.2,
@@ -1359,7 +1368,7 @@
     "id": "tt1392214"
   },
   {
-    "rank": 152,
+    "rank": 153,
     "title": "Top Gun: Maverick",
     "year": "2022",
     "rate": 8.2,
@@ -1368,7 +1377,7 @@
     "id": "tt1745960"
   },
   {
-    "rank": 153,
+    "rank": 154,
     "title": "Kill Bill: Vol. 1",
     "year": "2003",
     "rate": 8.2,
@@ -1377,7 +1386,7 @@
     "id": "tt0266697"
   },
   {
-    "rank": 154,
+    "rank": 155,
     "title": "Pan's Labyrinth",
     "year": "2006",
     "rate": 8.2,
@@ -1386,7 +1395,7 @@
     "id": "tt0457430"
   },
   {
-    "rank": 155,
+    "rank": 156,
     "title": "Unforgiven",
     "year": "1992",
     "rate": 8.2,
@@ -1395,7 +1404,7 @@
     "id": "tt0105695"
   },
   {
-    "rank": 156,
+    "rank": 157,
     "title": "A Beautiful Mind",
     "year": "2001",
     "rate": 8.2,
@@ -1404,7 +1413,7 @@
     "id": "tt0268978"
   },
   {
-    "rank": 157,
+    "rank": 158,
     "title": "Howl's Moving Castle",
     "year": "2004",
     "rate": 8.2,
@@ -1413,7 +1422,7 @@
     "id": "tt0347149"
   },
   {
-    "rank": 158,
+    "rank": 159,
     "title": "The Treasure of the Sierra Madre",
     "year": "1948",
     "rate": 8.2,
@@ -1422,7 +1431,7 @@
     "id": "tt0040897"
   },
   {
-    "rank": 159,
+    "rank": 160,
     "title": "Finding Nemo",
     "year": "2003",
     "rate": 8.2,
@@ -1431,7 +1440,7 @@
     "id": "tt0266543"
   },
   {
-    "rank": 160,
+    "rank": 161,
     "title": "Klaus",
     "year": "2019",
     "rate": 8.2,
@@ -1440,7 +1449,7 @@
     "id": "tt4729430"
   },
   {
-    "rank": 161,
+    "rank": 162,
     "title": "Yojimbo",
     "year": "1961",
     "rate": 8.2,
@@ -1449,7 +1458,7 @@
     "id": "tt0055630"
   },
   {
-    "rank": 162,
+    "rank": 163,
     "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
     "year": "2025",
     "rate": 8.4,
@@ -1458,7 +1467,7 @@
     "id": "tt32820897"
   },
   {
-    "rank": 163,
+    "rank": 164,
     "title": "The Elephant Man",
     "year": "1980",
     "rate": 8.2,
@@ -1467,7 +1476,7 @@
     "id": "tt0080678"
   },
   {
-    "rank": 164,
+    "rank": 165,
     "title": "The Great Escape",
     "year": "1963",
     "rate": 8.2,
@@ -1476,7 +1485,7 @@
     "id": "tt0057115"
   },
   {
-    "rank": 165,
+    "rank": 166,
     "title": "Monty Python and the Holy Grail",
     "year": "1975",
     "rate": 8.1,
@@ -1485,7 +1494,7 @@
     "id": "tt0071853"
   },
   {
-    "rank": 166,
+    "rank": 167,
     "title": "Dial M for Murder",
     "year": "1954",
     "rate": 8.1,
@@ -1494,7 +1503,7 @@
     "id": "tt0046912"
   },
   {
-    "rank": 167,
+    "rank": 168,
     "title": "The Secret in Their Eyes",
     "year": "2009",
     "rate": 8.2,
@@ -1503,7 +1512,7 @@
     "id": "tt1305806"
   },
   {
-    "rank": 168,
+    "rank": 169,
     "title": "Gone with the Wind",
     "year": "1939",
     "rate": 8.2,
@@ -1512,7 +1521,7 @@
     "id": "tt0031381"
   },
   {
-    "rank": 169,
+    "rank": 170,
     "title": "Lock, Stock and Two Smoking Barrels",
     "year": "1998",
     "rate": 8.1,
@@ -1521,7 +1530,7 @@
     "id": "tt0120735"
   },
   {
-    "rank": 170,
+    "rank": 171,
     "title": "Chinatown",
     "year": "1974",
     "rate": 8.1,
@@ -1530,7 +1539,7 @@
     "id": "tt0071315"
   },
   {
-    "rank": 171,
+    "rank": 172,
     "title": "The Best of Youth",
     "year": "2003",
     "rate": 8.4,
@@ -1539,7 +1548,7 @@
     "id": "tt0346336"
   },
   {
-    "rank": 172,
+    "rank": 173,
     "title": "Catch Me If You Can",
     "year": "2002",
     "rate": 8.1,
@@ -1548,7 +1557,7 @@
     "id": "tt0264464"
   },
   {
-    "rank": 173,
+    "rank": 174,
     "title": "V for Vendetta",
     "year": "2005",
     "rate": 8.1,
@@ -1557,7 +1566,7 @@
     "id": "tt0434409"
   },
   {
-    "rank": 174,
+    "rank": 175,
     "title": "Inside Out",
     "year": "2015",
     "rate": 8.1,
@@ -1566,7 +1575,7 @@
     "id": "tt2096673"
   },
   {
-    "rank": 175,
+    "rank": 176,
     "title": "Trainspotting",
     "year": "1996",
     "rate": 8.1,
@@ -1575,7 +1584,7 @@
     "id": "tt0117951"
   },
   {
-    "rank": 176,
+    "rank": 177,
     "title": "Dead Poets Society",
     "year": "1989",
     "rate": 8.1,
@@ -1584,7 +1593,7 @@
     "id": "tt0097165"
   },
   {
-    "rank": 177,
+    "rank": 178,
     "title": "Three Billboards Outside Ebbing, Missouri",
     "year": "2017",
     "rate": 8.1,
@@ -1593,7 +1602,7 @@
     "id": "tt5027774"
   },
   {
-    "rank": 178,
+    "rank": 179,
     "title": "Rashomon",
     "year": "1950",
     "rate": 8.1,
@@ -1602,7 +1611,7 @@
     "id": "tt0042876"
   },
   {
-    "rank": 179,
+    "rank": 180,
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "year": "2011",
     "rate": 8.1,
@@ -1611,7 +1620,7 @@
     "id": "tt1201607"
   },
   {
-    "rank": 180,
+    "rank": 181,
     "title": "The Bridge on the River Kwai",
     "year": "1957",
     "rate": 8.1,
@@ -1620,7 +1629,7 @@
     "id": "tt0050212"
   },
   {
-    "rank": 181,
+    "rank": 182,
     "title": "The Wild Robot",
     "year": "2024",
     "rate": 8.2,
@@ -1629,7 +1638,7 @@
     "id": "tt29623480"
   },
   {
-    "rank": 182,
+    "rank": 183,
     "title": "Barry Lyndon",
     "year": "1975",
     "rate": 8.1,
@@ -1638,7 +1647,7 @@
     "id": "tt0072684"
   },
   {
-    "rank": 183,
+    "rank": 184,
     "title": "Ben-Hur",
     "year": "1959",
     "rate": 8.1,
@@ -1647,7 +1656,7 @@
     "id": "tt0052618"
   },
   {
-    "rank": 184,
+    "rank": 185,
     "title": "Warrior",
     "year": "2011",
     "rate": 8.1,
@@ -1656,7 +1665,7 @@
     "id": "tt1291584"
   },
   {
-    "rank": 185,
+    "rank": 186,
     "title": "Fargo",
     "year": "1996",
     "rate": 8.1,
@@ -1665,7 +1674,7 @@
     "id": "tt0116282"
   },
   {
-    "rank": 186,
+    "rank": 187,
     "title": "Hacksaw Ridge",
     "year": "2016",
     "rate": 8.1,
@@ -1674,7 +1683,7 @@
     "id": "tt2119532"
   },
   {
-    "rank": 187,
+    "rank": 188,
     "title": "Mad Max: Fury Road",
     "year": "2015",
     "rate": 8.1,
@@ -1683,7 +1692,7 @@
     "id": "tt1392190"
   },
   {
-    "rank": 188,
+    "rank": 189,
     "title": "Million Dollar Baby",
     "year": "2004",
     "rate": 8.1,
@@ -1692,7 +1701,7 @@
     "id": "tt0405159"
   },
   {
-    "rank": 189,
+    "rank": 190,
     "title": "Children of Heaven",
     "year": "1997",
     "rate": 8.2,
@@ -1701,7 +1710,7 @@
     "id": "tt0118849"
   },
   {
-    "rank": 190,
+    "rank": 191,
     "title": "Ratatouille",
     "year": "2007",
     "rate": 8.1,
@@ -1710,7 +1719,7 @@
     "id": "tt0382932"
   },
   {
-    "rank": 191,
+    "rank": 192,
     "title": "My Neighbor Totoro",
     "year": "1988",
     "rate": 8.1,
@@ -1719,7 +1728,7 @@
     "id": "tt0096283"
   },
   {
-    "rank": 192,
+    "rank": 193,
     "title": "Raging Bull",
     "year": "1980",
     "rate": 8.1,
@@ -1728,7 +1737,7 @@
     "id": "tt0081398"
   },
   {
-    "rank": 193,
+    "rank": 194,
     "title": "Gran Torino",
     "year": "2008",
     "rate": 8.1,
@@ -1737,7 +1746,7 @@
     "id": "tt1205489"
   },
   {
-    "rank": 194,
+    "rank": 195,
     "title": "12 Years a Slave",
     "year": "2013",
     "rate": 8.1,
@@ -1746,7 +1755,7 @@
     "id": "tt2024544"
   },
   {
-    "rank": 195,
+    "rank": 196,
     "title": "The Grand Budapest Hotel",
     "year": "2014",
     "rate": 8.1,
@@ -1755,7 +1764,7 @@
     "id": "tt2278388"
   },
   {
-    "rank": 196,
+    "rank": 197,
     "title": "Memories of Murder",
     "year": "2003",
     "rate": 8.1,
@@ -1764,7 +1773,7 @@
     "id": "tt0353969"
   },
   {
-    "rank": 197,
+    "rank": 198,
     "title": "How to Train Your Dragon",
     "year": "2010",
     "rate": 8.1,
@@ -1773,7 +1782,7 @@
     "id": "tt0892769"
   },
   {
-    "rank": 198,
+    "rank": 199,
     "title": "Before Sunrise",
     "year": "1995",
     "rate": 8.1,
@@ -1782,7 +1791,7 @@
     "id": "tt0112471"
   },
   {
-    "rank": 199,
+    "rank": 200,
     "title": "Blade Runner",
     "year": "1982",
     "rate": 8.1,
@@ -1791,7 +1800,7 @@
     "id": "tt0083658"
   },
   {
-    "rank": 200,
+    "rank": 201,
     "title": "Monsters, Inc.",
     "year": "2001",
     "rate": 8.1,
@@ -1800,7 +1809,7 @@
     "id": "tt0198781"
   },
   {
-    "rank": 201,
+    "rank": 202,
     "title": "Gone Girl",
     "year": "2014",
     "rate": 8.1,
@@ -1809,7 +1818,7 @@
     "id": "tt2267998"
   },
   {
-    "rank": 202,
+    "rank": 203,
     "title": "Spider-Man: No Way Home",
     "year": "2021",
     "rate": 8.1,
@@ -1818,7 +1827,7 @@
     "id": "tt10872600"
   },
   {
-    "rank": 203,
+    "rank": 204,
     "title": "Jaws",
     "year": "1975",
     "rate": 8.1,
@@ -1827,7 +1836,7 @@
     "id": "tt0073195"
   },
   {
-    "rank": 204,
+    "rank": 205,
     "title": "Ford v Ferrari",
     "year": "2019",
     "rate": 8.1,
@@ -1836,7 +1845,7 @@
     "id": "tt1950186"
   },
   {
-    "rank": 205,
+    "rank": 206,
     "title": "In the Name of the Father",
     "year": "1993",
     "rate": 8.1,
@@ -1845,7 +1854,7 @@
     "id": "tt0107207"
   },
   {
-    "rank": 206,
+    "rank": 207,
     "title": "Wild Tales",
     "year": "2014",
     "rate": 8.1,
@@ -1854,7 +1863,7 @@
     "id": "tt3011894"
   },
   {
-    "rank": 207,
+    "rank": 208,
     "title": "The Gold Rush",
     "year": "1925",
     "rate": 8.1,
@@ -1863,7 +1872,7 @@
     "id": "tt0015864"
   },
   {
-    "rank": 208,
+    "rank": 209,
     "title": "Sherlock Jr.",
     "year": "1924",
     "rate": 8.1,
@@ -1872,7 +1881,7 @@
     "id": "tt0015324"
   },
   {
-    "rank": 209,
+    "rank": 210,
     "title": "Mary and Max",
     "year": "2009",
     "rate": 8.1,
@@ -1881,7 +1890,7 @@
     "id": "tt0978762"
   },
   {
-    "rank": 210,
+    "rank": 211,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "year": "2025",
     "rate": 8.3,
@@ -1890,7 +1899,7 @@
     "id": "tt30472557"
   },
   {
-    "rank": 211,
+    "rank": 212,
     "title": "The Deer Hunter",
     "year": "1978",
     "rate": 8.1,
@@ -1899,7 +1908,7 @@
     "id": "tt0077416"
   },
   {
-    "rank": 212,
+    "rank": 213,
     "title": "The Wages of Fear",
     "year": "1953",
     "rate": 8.1,
@@ -1908,7 +1917,7 @@
     "id": "tt0046268"
   },
   {
-    "rank": 213,
+    "rank": 214,
     "title": "A Silent Voice: The Movie",
     "year": "2016",
     "rate": 8.2,
@@ -1917,7 +1926,7 @@
     "id": "tt5323662"
   },
   {
-    "rank": 214,
+    "rank": 215,
     "title": "Rocky",
     "year": "1976",
     "rate": 8.1,
@@ -1926,7 +1935,7 @@
     "id": "tt0075148"
   },
   {
-    "rank": 215,
+    "rank": 216,
     "title": "Logan",
     "year": "2017",
     "rate": 8.1,
@@ -1935,7 +1944,7 @@
     "id": "tt3315342"
   },
   {
-    "rank": 216,
+    "rank": 217,
     "title": "The General",
     "year": "1926",
     "rate": 8.1,
@@ -1944,22 +1953,13 @@
     "id": "tt0017925"
   },
   {
-    "rank": 217,
+    "rank": 218,
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "year": "2003",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0325980/",
     "image": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0325980"
-  },
-  {
-    "rank": 218,
-    "title": "The Chaos Class Failed the Class",
-    "year": "1975",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt0252488/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0252488"
   },
   {
     "rank": 219,
@@ -1972,6 +1972,15 @@
   },
   {
     "rank": 220,
+    "title": "The Chaos Class Failed the Class",
+    "year": "1975",
+    "rate": 8.4,
+    "url": "https://www.imdb.com/title/tt0252488/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0252488"
+  },
+  {
+    "rank": 221,
     "title": "Tokyo Story",
     "year": "1953",
     "rate": 8.1,
@@ -1980,22 +1989,13 @@
     "id": "tt0046438"
   },
   {
-    "rank": 221,
+    "rank": 222,
     "title": "La haine",
     "year": "1995",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0113247/",
     "image": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0113247"
-  },
-  {
-    "rank": 222,
-    "title": "The Odyssey",
-    "year": "2026",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt33764258/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt33764258"
   },
   {
     "rank": 223,
