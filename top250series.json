@@ -433,21 +433,21 @@
   },
   {
     "rank": 49,
-    "title": "Nathan for You",
-    "year": "2013–2017",
-    "rate": 8.9,
-    "url": "https://www.imdb.com/title/tt2297757/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDU5OTA3YWUtYTIxYi00MWEwLTljZDEtYjhiYjEwYmJhMGVlXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2297757"
-  },
-  {
-    "rank": 50,
     "title": "True Detective",
     "year": "2014–",
     "rate": 8.8,
     "url": "https://www.imdb.com/title/tt2356777/",
     "image": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt2356777"
+  },
+  {
+    "rank": 50,
+    "title": "Nathan for You",
+    "year": "2013–2017",
+    "rate": 8.9,
+    "url": "https://www.imdb.com/title/tt2297757/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDU5OTA3YWUtYTIxYi00MWEwLTljZDEtYjhiYjEwYmJhMGVlXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2297757"
   },
   {
     "rank": 51,
@@ -478,15 +478,6 @@
   },
   {
     "rank": 54,
-    "title": "One Piece",
-    "year": "1999–",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt0388629/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0388629"
-  },
-  {
-    "rank": 55,
     "title": "Africa",
     "year": "2013",
     "rate": 8.9,
@@ -495,13 +486,22 @@
     "id": "tt2571774"
   },
   {
-    "rank": 56,
+    "rank": 55,
     "title": "Bleach: Thousand-Year Blood War",
     "year": "2022–",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt14986406/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjgyM2QzMjAtOGZjOS00OGFkLTkxZGYtMDJjZGM5MzIzYmM3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt14986406"
+  },
+  {
+    "rank": 56,
+    "title": "One Piece",
+    "year": "1999–",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt0388629/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0388629"
   },
   {
     "rank": 57,
@@ -876,7 +876,7 @@
     "rank": 98,
     "title": "Monster",
     "year": "2004–2005",
-    "rate": 8.8,
+    "rate": 8.7,
     "url": "https://www.imdb.com/title/tt0434706/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzU2MWQ5NGQtYmNlMC00ZjJkLWJmODItZDM5MDM3YmUyMWJkXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0434706"
@@ -1306,12 +1306,12 @@
   },
   {
     "rank": 146,
-    "title": "A Knight of the Seven Kingdoms",
-    "year": "2026–",
+    "title": "It's a Sin",
+    "year": "2021",
     "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt27497448/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt27497448"
+    "url": "https://www.imdb.com/title/tt9140342/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzI4NThmYTQtY2E2Ni00NjI0LThmYzQtNmZlMmI1NzY2OWQ0XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt9140342"
   },
   {
     "rank": 147,
@@ -1324,21 +1324,21 @@
   },
   {
     "rank": 148,
-    "title": "It's a Sin",
-    "year": "2021",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt9140342/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMzI4NThmYTQtY2E2Ni00NjI0LThmYzQtNmZlMmI1NzY2OWQ0XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt9140342"
-  },
-  {
-    "rank": 149,
     "title": "Mindhunter",
     "year": "2017–2019",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt5290382/",
     "image": "https://m.media-amazon.com/images/M/MV5BYTk4NDA4MGMtNjliOC00MjExLWI1YzctOTc4NWIxM2I1YjM5XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt5290382"
+  },
+  {
+    "rank": 149,
+    "title": "A Knight of the Seven Kingdoms",
+    "year": "2026–",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt27497448/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt27497448"
   },
   {
     "rank": 150,
@@ -1432,12 +1432,12 @@
   },
   {
     "rank": 160,
-    "title": "Shōgun",
-    "year": "2024–2026",
-    "rate": 8.6,
-    "url": "https://www.imdb.com/title/tt2788316/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2788316"
+    "title": "Farouk Omar",
+    "year": "2012",
+    "rate": 9,
+    "url": "https://www.imdb.com/title/tt2063241/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2063241"
   },
   {
     "rank": 161,
@@ -1450,12 +1450,12 @@
   },
   {
     "rank": 162,
-    "title": "El Chavo",
-    "year": "1972–1983",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt0229889/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0229889"
+    "title": "Shōgun",
+    "year": "2024–2026",
+    "rate": 8.6,
+    "url": "https://www.imdb.com/title/tt2788316/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmJkMDRjYzEtMWI3Ny00OWE3LWJlNTItMGQ1MTQzMzc3NDY5XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt2788316"
   },
   {
     "rank": 163,
@@ -1468,12 +1468,12 @@
   },
   {
     "rank": 164,
-    "title": "Farouk Omar",
-    "year": "2012",
-    "rate": 9,
-    "url": "https://www.imdb.com/title/tt2063241/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOWUxN2ZjZWYtYjViZC00ZmVlLTg4NDItNjY1OTAzODFkNDgzXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt2063241"
+    "title": "El Chavo",
+    "year": "1972–1983",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt0229889/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0229889"
   },
   {
     "rank": 165,
@@ -1882,21 +1882,21 @@
   },
   {
     "rank": 210,
-    "title": "The Queen's Gambit",
-    "year": "2020",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt10048342/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt10048342"
-  },
-  {
-    "rank": 211,
     "title": "Ezel",
     "year": "2009–2011",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt1534360/",
     "image": "https://m.media-amazon.com/images/M/MV5BY2VhYTA5YjMtNDBjZS00NTU3LTk1YWEtZGI0NDcxMTEyYjIyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt1534360"
+  },
+  {
+    "rank": 211,
+    "title": "The Queen's Gambit",
+    "year": "2020",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt10048342/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt10048342"
   },
   {
     "rank": 212,
@@ -1963,21 +1963,21 @@
   },
   {
     "rank": 219,
-    "title": "The Boys",
-    "year": "2019–2026",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt1190634/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGE4YTljMTctZWYxZi00NDA2LTk4OTItYmEyN2IxOGI3MzY2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt1190634"
-  },
-  {
-    "rank": 220,
     "title": "Alchemy of Souls",
     "year": "2022–2023",
     "rate": 8.7,
     "url": "https://www.imdb.com/title/tt20859920/",
     "image": "https://m.media-amazon.com/images/M/MV5BOGFhNGQzMWUtZWJhNi00NGZiLTg1MjEtMTQzZmU4Njg2MWRhXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt20859920"
+  },
+  {
+    "rank": 220,
+    "title": "The Boys",
+    "year": "2019–2026",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt1190634/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGE4YTljMTctZWYxZi00NDA2LTk4OTItYmEyN2IxOGI3MzY2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt1190634"
   },
   {
     "rank": 221,
@@ -2044,6 +2044,15 @@
   },
   {
     "rank": 228,
+    "title": "Takopi's Original Sin",
+    "year": "2025",
+    "rate": 8.7,
+    "url": "https://www.imdb.com/title/tt36988358/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt36988358"
+  },
+  {
+    "rank": 229,
     "title": "Through the Wormhole",
     "year": "2010–2017",
     "rate": 8.6,
@@ -2052,7 +2061,7 @@
     "id": "tt1513168"
   },
   {
-    "rank": 229,
+    "rank": 230,
     "title": "Louie",
     "year": "2010–2015",
     "rate": 8.5,
@@ -2061,22 +2070,13 @@
     "id": "tt1492966"
   },
   {
-    "rank": 230,
+    "rank": 231,
     "title": "My Brilliant Friend",
     "year": "2018–2024",
     "rate": 8.6,
     "url": "https://www.imdb.com/title/tt7278862/",
     "image": "https://m.media-amazon.com/images/M/MV5BZjQ3NjZmMDMtNWE1MS00MWNlLWE4YzEtZjRkODhiZjJkMzIxXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt7278862"
-  },
-  {
-    "rank": 231,
-    "title": "Takopi's Original Sin",
-    "year": "2025",
-    "rate": 8.7,
-    "url": "https://www.imdb.com/title/tt36988358/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmRkN2I1OGEtOWM3Yi00NjViLWJjMDktYTNmZTMxYjBiNTU3XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt36988358"
   },
   {
     "rank": 232,
@@ -2161,21 +2161,21 @@
   },
   {
     "rank": 241,
-    "title": "Twinkling Watermelon",
-    "year": "2023",
-    "rate": 8.8,
-    "url": "https://www.imdb.com/title/tt27446493/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt27446493"
-  },
-  {
-    "rank": 242,
     "title": "Solo Leveling",
     "year": "2024–",
     "rate": 8.5,
     "url": "https://www.imdb.com/title/tt21209876/",
     "image": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt21209876"
+  },
+  {
+    "rank": 242,
+    "title": "Twinkling Watermelon",
+    "year": "2023",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt27446493/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGNhMDc0NTgtODc1MS00ZWU5LTgwMWUtYmYzMDZjNDg5ODk1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt27446493"
   },
   {
     "rank": 243,
@@ -2206,15 +2206,6 @@
   },
   {
     "rank": 246,
-    "title": "The Boondocks",
-    "year": "2005–2014",
-    "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt0373732/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjFjZTAxZTItYjhjZS00MzNkLTk0NDYtYWMxYTQxNTE3YTQxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0373732"
-  },
-  {
-    "rank": 247,
     "title": "The Great British Baking Show",
     "year": "2010–",
     "rate": 8.6,
@@ -2223,22 +2214,31 @@
     "id": "tt1877368"
   },
   {
-    "rank": 248,
-    "title": "The Expanse",
-    "year": "2015–2022",
+    "rank": 247,
+    "title": "The Boondocks",
+    "year": "2005–2014",
     "rate": 8.5,
-    "url": "https://www.imdb.com/title/tt3230854/",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt3230854"
+    "url": "https://www.imdb.com/title/tt0373732/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjFjZTAxZTItYjhjZS00MzNkLTk0NDYtYWMxYTQxNTE3YTQxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0373732"
   },
   {
-    "rank": 249,
+    "rank": 248,
     "title": "Tash Ma Tash",
     "year": "1993–2023",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt5851616/",
     "image": "https://m.media-amazon.com/images/M/MV5BYzMzMWMyMzQtNDk2OS00ZTY5LTkwNDctMGFhYmRiNGFlYzMzXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt5851616"
+  },
+  {
+    "rank": 249,
+    "title": "The Expanse",
+    "year": "2015–2022",
+    "rate": 8.5,
+    "url": "https://www.imdb.com/title/tt3230854/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzUyYmI3MjctY2Q2MC00NmFjLTgwZGUtNWQzZWNlYmVjNzE2XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt3230854"
   },
   {
     "rank": 250,
