@@ -622,6 +622,15 @@
   },
   {
     "rank": 70,
+    "title": "The Odyssey",
+    "year": "2026",
+    "rate": 8.4,
+    "url": "https://www.imdb.com/title/tt33764258/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt33764258"
+  },
+  {
+    "rank": 71,
     "title": "Aliens",
     "year": "1986",
     "rate": 8.4,
@@ -630,7 +639,7 @@
     "id": "tt0090605"
   },
   {
-    "rank": 71,
+    "rank": 72,
     "title": "12th Fail",
     "year": "2023",
     "rate": 8.7,
@@ -639,7 +648,7 @@
     "id": "tt23849204"
   },
   {
-    "rank": 72,
+    "rank": 73,
     "title": "High and Low",
     "year": "1963",
     "rate": 8.4,
@@ -648,7 +657,7 @@
     "id": "tt0057565"
   },
   {
-    "rank": 73,
+    "rank": 74,
     "title": "Avengers: Endgame",
     "year": "2019",
     "rate": 8.4,
@@ -657,7 +666,7 @@
     "id": "tt4154796"
   },
   {
-    "rank": 74,
+    "rank": 75,
     "title": "Good Will Hunting",
     "year": "1997",
     "rate": 8.4,
@@ -666,7 +675,7 @@
     "id": "tt0119217"
   },
   {
-    "rank": 75,
+    "rank": 76,
     "title": "Coco",
     "year": "2017",
     "rate": 8.4,
@@ -675,7 +684,7 @@
     "id": "tt2380307"
   },
   {
-    "rank": 76,
+    "rank": 77,
     "title": "The Dark Knight Rises",
     "year": "2012",
     "rate": 8.4,
@@ -684,7 +693,7 @@
     "id": "tt1345836"
   },
   {
-    "rank": 77,
+    "rank": 78,
     "title": "Toy Story",
     "year": "1995",
     "rate": 8.3,
@@ -693,7 +702,7 @@
     "id": "tt0114709"
   },
   {
-    "rank": 78,
+    "rank": 79,
     "title": "Amadeus",
     "year": "1984",
     "rate": 8.4,
@@ -702,7 +711,7 @@
     "id": "tt0086879"
   },
   {
-    "rank": 79,
+    "rank": 80,
     "title": "Your Name.",
     "year": "2016",
     "rate": 8.4,
@@ -711,7 +720,7 @@
     "id": "tt5311514"
   },
   {
-    "rank": 80,
+    "rank": 81,
     "title": "Das Boot",
     "year": "1981",
     "rate": 8.3,
@@ -720,7 +729,7 @@
     "id": "tt0082096"
   },
   {
-    "rank": 81,
+    "rank": 82,
     "title": "Braveheart",
     "year": "1995",
     "rate": 8.3,
@@ -729,7 +738,7 @@
     "id": "tt0112573"
   },
   {
-    "rank": 82,
+    "rank": 83,
     "title": "Princess Mononoke",
     "year": "1997",
     "rate": 8.3,
@@ -738,7 +747,7 @@
     "id": "tt0119698"
   },
   {
-    "rank": 83,
+    "rank": 84,
     "title": "Oldboy",
     "year": "2003",
     "rate": 8.3,
@@ -747,7 +756,7 @@
     "id": "tt0364569"
   },
   {
-    "rank": 84,
+    "rank": 85,
     "title": "3 Idiots",
     "year": "2009",
     "rate": 8.4,
@@ -756,7 +765,7 @@
     "id": "tt1187043"
   },
   {
-    "rank": 85,
+    "rank": 86,
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "year": "1964",
     "rate": 8.3,
@@ -765,22 +774,13 @@
     "id": "tt0057012"
   },
   {
-    "rank": 86,
+    "rank": 87,
     "title": "American Beauty",
     "year": "1999",
     "rate": 8.3,
     "url": "https://www.imdb.com/title/tt0169547/",
     "image": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0169547"
-  },
-  {
-    "rank": 87,
-    "title": "The Odyssey",
-    "year": "2026",
-    "rate": 8.4,
-    "url": "https://www.imdb.com/title/tt33764258/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt33764258"
   },
   {
     "rank": 88,
@@ -1045,21 +1045,21 @@
   },
   {
     "rank": 117,
-    "title": "To Kill a Mockingbird",
-    "year": "1962",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt0056592/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0056592"
-  },
-  {
-    "rank": 118,
     "title": "Attack on Titan: The Last Attack",
     "year": "2024",
     "rate": 9,
     "url": "https://www.imdb.com/title/tt33175825/",
     "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt33175825"
+  },
+  {
+    "rank": 118,
+    "title": "To Kill a Mockingbird",
+    "year": "1962",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt0056592/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0056592"
   },
   {
     "rank": 119,
@@ -1333,15 +1333,6 @@
   },
   {
     "rank": 149,
-    "title": "Project Hail Mary",
-    "year": "2026",
-    "rate": 8.2,
-    "url": "https://www.imdb.com/title/tt12042730/",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt12042730"
-  },
-  {
-    "rank": 150,
     "title": "The Thing",
     "year": "1982",
     "rate": 8.2,
@@ -1350,13 +1341,22 @@
     "id": "tt0084787"
   },
   {
-    "rank": 151,
+    "rank": 150,
     "title": "No Country for Old Men",
     "year": "2007",
     "rate": 8.2,
     "url": "https://www.imdb.com/title/tt0477348/",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UX500.jpg",
     "id": "tt0477348"
+  },
+  {
+    "rank": 151,
+    "title": "Project Hail Mary",
+    "year": "2026",
+    "rate": 8.2,
+    "url": "https://www.imdb.com/title/tt12042730/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt12042730"
   },
   {
     "rank": 152,
@@ -1765,21 +1765,21 @@
   },
   {
     "rank": 197,
-    "title": "How to Train Your Dragon",
-    "year": "2010",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0892769/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX500.jpg",
-    "id": "tt0892769"
-  },
-  {
-    "rank": 198,
     "title": "Memories of Murder",
     "year": "2003",
     "rate": 8.1,
     "url": "https://www.imdb.com/title/tt0353969/",
     "image": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0353969"
+  },
+  {
+    "rank": 198,
+    "title": "How to Train Your Dragon",
+    "year": "2010",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0892769/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX500.jpg",
+    "id": "tt0892769"
   },
   {
     "rank": 199,
@@ -1963,21 +1963,21 @@
   },
   {
     "rank": 219,
-    "title": "Mr. Smith Goes to Washington",
-    "year": "1939",
-    "rate": 8.1,
-    "url": "https://www.imdb.com/title/tt0031679/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_UX500.jpg",
-    "id": "tt0031679"
-  },
-  {
-    "rank": 220,
     "title": "The Chaos Class Failed the Class",
     "year": "1975",
     "rate": 8.4,
     "url": "https://www.imdb.com/title/tt0252488/",
     "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
     "id": "tt0252488"
+  },
+  {
+    "rank": 220,
+    "title": "Mr. Smith Goes to Washington",
+    "year": "1939",
+    "rate": 8.1,
+    "url": "https://www.imdb.com/title/tt0031679/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZjNmMjEtMjcxYi00NDAxLWFlMjQtNWIyNjg5NWUzNTdjXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0031679"
   },
   {
     "rank": 221,

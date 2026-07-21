@@ -5,8 +5,8 @@
     "id": "tt33764258",
     "url": "https://www.imdb.com/title/tt33764258/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$125M",
-    "gross": "$125M",
+    "weekend": "$124M",
+    "gross": "$124M",
     "weeks": "1"
   },
   {
@@ -15,29 +15,29 @@
     "id": "tt27419466",
     "url": "https://www.imdb.com/title/tt27419466/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$19M",
-    "gross": "$82M",
+    "weekend": "$18M",
+    "gross": "$81M",
     "weeks": "2"
   },
   {
     "rank": 3,
-    "title": "Minions & Monsters",
-    "id": "tt32890033",
-    "url": "https://www.imdb.com/title/tt32890033/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$15M",
-    "gross": "$138M",
-    "weeks": "3"
-  },
-  {
-    "rank": 4,
     "title": "Toy Story 5",
     "id": "tt29355505",
     "url": "https://www.imdb.com/title/tt29355505/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$15M",
-    "gross": "$431M",
+    "weekend": "$14M",
+    "gross": "$430M",
     "weeks": "5"
+  },
+  {
+    "rank": 4,
+    "title": "Minions & Monsters",
+    "id": "tt32890033",
+    "url": "https://www.imdb.com/title/tt32890033/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_UX500.jpg",
+    "weekend": "$14M",
+    "gross": "$136M",
+    "weeks": "3"
   },
   {
     "rank": 5,
@@ -45,7 +45,7 @@
     "id": "tt31170389",
     "url": "https://www.imdb.com/title/tt31170389/",
     "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$5M",
+    "weekend": "$4.7M",
     "gross": "$24M",
     "weeks": "2"
   },
@@ -65,7 +65,7 @@
     "id": "tt32104007",
     "url": "https://www.imdb.com/title/tt32104007/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$3.7M",
+    "weekend": "$3.6M",
     "gross": "$41M",
     "weeks": "3"
   },
@@ -75,7 +75,7 @@
     "id": "tt37287335",
     "url": "https://www.imdb.com/title/tt37287335/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$2.5M",
+    "weekend": "$2.4M",
     "gross": "$258M",
     "weeks": "10"
   },
@@ -95,7 +95,7 @@
     "id": "tt15047880",
     "url": "https://www.imdb.com/title/tt15047880/",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDI1ZjctYWNmMS00MTJhLTg1ZWItMzI1Yjk5NjZkYWFkXkEyXkFqcGc@._V1_UX500.jpg",
-    "weekend": "$1.5M",
+    "weekend": "$1.3M",
     "gross": "$115M",
     "weeks": "6"
   }

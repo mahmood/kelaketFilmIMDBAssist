@@ -1,13 +1,5 @@
 [
   {
-    "type": "movie",
-    "date": "2026-07-20",
-    "title": "Diamond Made Man Part 2",
-    "id": "tt43438442",
-    "url": "https://www.imdb.com/title/tt43438442/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDRlYWZkZDYtYmI1NC00YWJmLTgxZTItOTQ4ZDVmYzBhOWE2XkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "series",
     "date": "2026-07-21",
     "title": "The Real Housewives of London (2025– )",
@@ -773,7 +765,7 @@
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "id": "tt36841161",
     "url": "https://www.imdb.com/title/tt36841161/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmY4YzVkODQtNWRmMS00MTZmLWJhYmQtODNkYjYzY2Y3YWNjXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NWIxODktNjcwOC00MjNjLWE1ZDctNWNmODkzYzc2Y2RhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -846,14 +838,6 @@
     "id": "tt38589433",
     "url": "https://www.imdb.com/title/tt38589433/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-09-25",
-    "title": "The Scout",
-    "id": "tt36590599",
-    "url": "https://www.imdb.com/title/tt36590599/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWZmZjdjNzQtZGFjNi00MjNhLTkwZmQtZmFhMzFmMWE4MjhiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -1317,7 +1301,7 @@
     "title": "Avengers: Doomsday",
     "id": "tt21357150",
     "url": "https://www.imdb.com/title/tt21357150/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2E1ZTJiZTgtZGI2Zi00MzAxLThhZjktMmU3M2E3Yzk3NjUxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1766,6 +1750,14 @@
     "id": "tt36963968",
     "url": "https://www.imdb.com/title/tt36963968/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTJhMDkzY2YtMTU0NC00NWFlLTllMDAtNThjYjNmNjQ3YzExXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2027-06-04",
+    "title": "Skeletons",
+    "id": "tt36972737",
+    "url": "https://www.imdb.com/title/tt36972737/",
+    "poster": null
   },
   {
     "type": "movie",
