@@ -1,22 +1,6 @@
 [
   {
     "type": "series",
-    "date": "2026-07-21",
-    "title": "The Real Housewives of London (2025– )",
-    "id": "tt34333196",
-    "url": "https://www.imdb.com/title/tt34333196/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2YwOGU1OGYtNjc4MC00NzdlLThlMDgtNDM5NTNjYjQ1NWQyXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
-    "date": "2026-07-21",
-    "title": "Extreme Buyers Club (2026– )",
-    "id": "tt43475872",
-    "url": "https://www.imdb.com/title/tt43475872/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE2OGEyOTktOWJlMC00N2FjLTlhMWEtZDQwMTZmOGQzMjRlXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "series",
     "date": "2026-07-22",
     "title": "Pompeii: Out of Time with Tom Hiddleston (2026– )",
     "id": "tt34688214",
@@ -112,6 +96,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZGQzNzEzNzctZGM5NC00NWQyLThjYTUtOTNjZGVjMmIyZTVkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-07-24",
+    "title": "A Sad and Beautiful World",
+    "id": "tt32622406",
+    "url": "https://www.imdb.com/title/tt32622406/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI0ZGU0M2YtZWRlYS00ODc5LTg2MjMtYjJkNWIwMzBjNWY4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-07-24",
     "title": "Roast My Rental (2026– )",
@@ -182,6 +174,14 @@
     "id": "tt32332915",
     "url": "https://www.imdb.com/title/tt32332915/",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTM4YmE0NDQtM2I4ZS00YTcyLTk5ZjEtMjdmOTYzYTYxY2RjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-07-31",
+    "title": "Sheep in the Box",
+    "id": "tt38551209",
+    "url": "https://www.imdb.com/title/tt38551209/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI4MmExNTMtYTg4ZS00ZDc3LThiODctN2M1OGY4MGVhYjVmXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -513,11 +513,19 @@
   },
   {
     "type": "movie",
+    "date": "2026-08-23",
+    "title": "40 Years of Fuckin' Up",
+    "id": "tt40644918",
+    "url": "https://www.imdb.com/title/tt40644918/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJkYWY4MzEtMjY5NC00MTNmLTg2NWItMjU3ODdlNjFiMTcyXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2026-08-26",
     "title": "Toxic",
     "id": "tt27530512",
     "url": "https://www.imdb.com/title/tt27530512/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjY4NTA2ZDYtZjkzMi00ZGEyLTgyMTUtOWVlNDgyMGNiYmEyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJhYjI3MjktMDRhZS00ZjU1LThiN2UtYjc2ZGQzZDNmMjQ4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -549,15 +557,7 @@
     "title": "Buddy",
     "id": "tt37281055",
     "url": "https://www.imdb.com/title/tt37281055/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWQ5ZWQzZWQtMzViMS00NmJjLWIwNWYtM2VhNDU5MTY0YjNhXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
-    "type": "movie",
-    "date": "2026-08-28",
-    "title": "Cliffhanger",
-    "id": "tt1441251",
-    "url": "https://www.imdb.com/title/tt1441251/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWRkNWJhNjYtY2FkZC00YjFlLWFjMjUtZGFhMjc5MGYyODE4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -709,7 +709,7 @@
     "title": "The Fix",
     "id": "tt9601292",
     "url": "https://www.imdb.com/title/tt9601292/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDBmZGQ3ZWUtYzQzZC00Yjg1LTkzMGQtYmI4MmNkNjFiNDZhXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhiYzQ5YjQtZTlhZS00YTQ0LTk5YzMtNmRjY2EwYmFhYmIzXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -840,6 +840,22 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTVhZmNiNjktMzJkYS00ZGZmLTgxZjYtZDU0NTIwOGZlNzkyXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "Ha-Chan, Shake Your Booty!",
+    "id": "tt39149197",
+    "url": "https://www.imdb.com/title/tt39149197/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGU3ZGViYTgtYjExMC00NzI0LWE5ODMtZTdkN2I4NmE3NDUzXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "The Stunt Driver",
+    "id": "tt34611096",
+    "url": "https://www.imdb.com/title/tt34611096/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODAxNWRjMDItOWMxOS00NWJlLTliMTctMmRmZDMzN2E0OTA4XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-09-25",
     "title": "SWAT Exiles (2026– )",
@@ -917,7 +933,7 @@
     "title": "Other Mommy",
     "id": "tt36586020",
     "url": "https://www.imdb.com/title/tt36586020/",
-    "poster": null
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWU2MzZlNmItYzVmYi00Y2Y4LWI4NTktNTg3NDE0MGE5NGRkXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
