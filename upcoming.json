@@ -1,13 +1,5 @@
 [
   {
-    "type": "series",
-    "date": "2026-07-22",
-    "title": "Pompeii: Out of Time with Tom Hiddleston (2026– )",
-    "id": "tt34688214",
-    "url": "https://www.imdb.com/title/tt34688214/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmIwYmQ3MzYtNWVlMC00ZjJjLTgxMTctYTM5MjgxYjNjNzdkXkEyXkFqcGc@._V1_UX500.jpg"
-  },
-  {
     "type": "movie",
     "date": "2026-07-23",
     "title": "Bad Counselors",
@@ -229,7 +221,7 @@
     "title": "One Night Only",
     "id": "tt37853455",
     "url": "https://www.imdb.com/title/tt37853455/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ5MmMxMjItNWQ5NC00OGI1LWFjNTYtYjA3NjNmM2EzNmIyXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -318,6 +310,14 @@
     "id": "tt43657324",
     "url": "https://www.imdb.com/title/tt43657324/",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzM5MjlhODYtYzhlNC00MTVlLTk3MGItZDQ2ZjM4OTAzOTUzXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-13",
+    "title": "Namaslay",
+    "id": "tt40047746",
+    "url": "https://www.imdb.com/title/tt40047746/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Y3NDE0ODYtMGJmMS00NThiLTllYzYtYjk2ZDI1ODFmYzZjXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -413,7 +413,7 @@
     "title": "Lanterns (2026– )",
     "id": "tt26545992",
     "url": "https://www.imdb.com/title/tt26545992/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTZiMDdjN2QtMmMwMi00YzgwLThkNjMtNGUxNjljMDcwMWFmXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -430,6 +430,14 @@
     "id": "tt42467010",
     "url": "https://www.imdb.com/title/tt42467010/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOWU0ZTk3M2QtYjc5Mi00OWVlLWIwNTItMDExOGY1Nzk2YWRjXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "series",
+    "date": "2026-08-19",
+    "title": "Lion",
+    "id": "tt43661815",
+    "url": "https://www.imdb.com/title/tt43661815/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNhNzQ3OTAtZGJjNC00OGUyLWI3MWMtNWRjYjU0OTk1Y2ZhXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -469,7 +477,7 @@
     "title": "It Ends",
     "id": "tt35519455",
     "url": "https://www.imdb.com/title/tt35519455/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWE2ZGYyMzMtYjQ2OS00Y2ZhLWE2MzktMDY1YzM3MjUxZTM4XkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTAyOWE1YmMtM2YzNy00M2I3LWI5MDgtODI4MjliZTAxNzNiXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -562,6 +570,14 @@
   {
     "type": "movie",
     "date": "2026-08-28",
+    "title": "Finding Emily",
+    "id": "tt32499466",
+    "url": "https://www.imdb.com/title/tt32499466/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-08-28",
     "title": "Coyote vs. Acme",
     "id": "tt1756855",
     "url": "https://www.imdb.com/title/tt1756855/",
@@ -646,6 +662,14 @@
     "id": "tt3842436",
     "url": "https://www.imdb.com/title/tt3842436/",
     "poster": "https://m.media-amazon.com/images/M/MV5BOWFjMGYzYzEtOTI4Yi00MWI4LWI4NmUtYWFlNzExYWVmYjYwXkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
+    "date": "2026-09-04",
+    "title": "The Girl in the River",
+    "id": "tt21452628",
+    "url": "https://www.imdb.com/title/tt21452628/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFhZWViYWQtMDkzMi00NDM0LWI2MDctNDNhNmExYjRmYzUwXkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "series",
@@ -856,6 +880,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODAxNWRjMDItOWMxOS00NWJlLTliMTctMmRmZDMzN2E0OTA4XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
+    "type": "movie",
+    "date": "2026-09-25",
+    "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution, Spread Love & Overalls, and Created a Community That Changed the World (in a Canadian Kind of Way)",
+    "id": "tt31726535",
+    "url": "https://www.imdb.com/title/tt31726535/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGViODVkOTQtMGE4OC00YTJlLWJjNTEtYzFkMTkwY2FjNzQ0XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
     "type": "series",
     "date": "2026-09-25",
     "title": "SWAT Exiles (2026– )",
@@ -941,7 +973,7 @@
     "title": "The Social Reckoning",
     "id": "tt37510326",
     "url": "https://www.imdb.com/title/tt37510326/",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODAyY2ItY2FjZi00ZTM2LTgxNGQtODk2OGZkMWQ3MzhmXkEyXkFqcGc@._V1_UX500.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGRhMWI2OWUtMGU5Yi00NGMxLWFjNDMtMTgxY2RjZTVlYjI2XkEyXkFqcGc@._V1_UX500.jpg"
   },
   {
     "type": "movie",
@@ -1617,6 +1649,14 @@
   },
   {
     "type": "movie",
+    "date": "2027-03-26",
+    "title": "The Saviors",
+    "id": "tt14264402",
+    "url": "https://www.imdb.com/title/tt14264402/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M5MzA0ODItNGU4Zi00MDBlLTg0OGItYWU5NzQxNDlmYjc3XkEyXkFqcGc@._V1_UX500.jpg"
+  },
+  {
+    "type": "movie",
     "date": "2027-04-02",
     "title": "Untitled Disney",
     "id": "tt26443622",
@@ -1838,5 +1878,13 @@
     "id": "tt37833661",
     "url": "https://www.imdb.com/title/tt37833661/",
     "poster": null
+  },
+  {
+    "type": "movie",
+    "date": "2027-07-23",
+    "title": "A Minecraft Movie: Squared",
+    "id": "tt37788431",
+    "url": "https://www.imdb.com/title/tt37788431/",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWYyZDk5NTItZTYyNy00ZWM4LTk3ZmItMzk2MDU1ZGRiZWMzXkEyXkFqcGc@._V1_UX500.jpg"
   }
 ]
