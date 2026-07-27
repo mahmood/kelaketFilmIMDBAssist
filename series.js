@@ -4,7 +4,7 @@ const fs = require('fs');
 async function scrapeTop250Series() {
     const headless = !!process.env.CI;
     console.log(`🚀 Launching browser for Series... (headless=${headless})`);
-    const browser = await chromium.launch({ headless });
+    const browser = await chromium.launch({ headless, channel: headless ? undefined : 'chrome' });
 
     const context = await browser.newContext({
         userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',

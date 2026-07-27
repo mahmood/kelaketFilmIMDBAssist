@@ -131,6 +131,7 @@ async function main() {
   console.log(`🚀 Launching browser for Upcoming... (headless=${headless})`);
   const browser = await chromium.launch({
     headless,
+    channel: headless ? undefined : 'chrome',
     args: ['--no-sandbox','--disable-setuid-sandbox']
   });
 
