@@ -16,6 +16,9 @@ async function warmup(page) {
     waitUntil: 'domcontentloaded',
     timeout: 60000
   });
+  if ((await page.title()).includes('Human Verification')) {
+    throw new Error('Blocked by IMDb human-verification challenge — solve it manually in a real browser (see extension/) instead of retrying headless.');
+  }
 
   await page.waitForTimeout(6000);
 
@@ -103,6 +106,9 @@ async function scrape(page, source) {
     waitUntil: 'domcontentloaded',
     timeout: 60000
   });
+  if ((await page.title()).includes('Human Verification')) {
+    throw new Error('Blocked by IMDb human-verification challenge — solve it manually in a real browser (see extension/) instead of retrying headless.');
+  }
 
   await page.waitForTimeout(6000);
 
@@ -121,8 +127,10 @@ async function scrape(page, source) {
 
 async function main() {
 
+  const headless = !!process.env.CI;
+  console.log(`🚀 Launching browser for Upcoming... (headless=${headless})`);
   const browser = await chromium.launch({
-    headless: true,
+    headless,
     args: ['--no-sandbox','--disable-setuid-sandbox']
   });
 

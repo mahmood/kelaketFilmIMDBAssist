@@ -17,7 +17,10 @@
   <h1>IMDb Top250 Scraper</h1>
   <p>Open <code>imdb.com/chart/top</code> or <code>imdb.com/chart/toptv</code> in this tab first. If IMDb shows a "Human Verification" page, solve it yourself in the tab, then click Scrape.</p>
   <button id="scrapeBtn">Scrape This Page</button>
-  <p class="warn">Keep this popup open until it finishes (scrolling to load 250 items can take ~30-60s).</p>
+  <hr>
+  <p>Or scrape everything at once (movies, series, box office, upcoming) in background tabs. Solve the IMDb human-verification page in a normal tab at least once first so this browser already has a valid session.</p>
+  <button id="scrapeAllBtn">Scrape All (4 files)</button>
+  <p class="warn">Keep this popup open until it finishes (can take a few minutes).</p>
   <div id="status">Idle.</div>
   <script src="popup.js"></script>
 </body>

@@ -22,8 +22,9 @@ function cleanBoxOfficeValue(value, type = '') {
 }
 
 async function scrapeBoxOffice() {
-  console.log('🚀 Launching browser for Box Office...');
-  const browser = await chromium.launch({ headless: true });
+  const headless = !!process.env.CI;
+  console.log(`🚀 Launching browser for Box Office... (headless=${headless})`);
+  const browser = await chromium.launch({ headless });
 
   const context = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
@@ -41,6 +42,9 @@ async function scrapeBoxOffice() {
 
   try {
     await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    if ((await page.title()).includes('Human Verification')) {
+      throw new Error('Blocked by IMDb human-verification challenge — solve it manually in a real browser (see extension/) instead of retrying headless.');
+    }
     await page.waitForSelector('li.ipc-metadata-list-summary-item', { timeout: 30000 });
 
     const items = page.locator('li.ipc-metadata-list-summary-item');

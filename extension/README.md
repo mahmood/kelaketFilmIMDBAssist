@@ -12,7 +12,7 @@ has loaded.
 2. Enable "Developer mode" (top right).
 3. Click "Load unpacked" and select this `extension/` folder.
 
-## Use
+## Use: one page at a time
 
 1. Navigate to `https://www.imdb.com/chart/top/` (movies) or
    `https://www.imdb.com/chart/toptv/` (series) in a normal tab.
@@ -23,7 +23,31 @@ has loaded.
 5. A save dialog opens for `top250movies.json` or `top250series.json`. Save it
    over the matching file at the repo root.
 
+## Use: everything at once ("Scrape All")
+
+Solve IMDb's human-verification page at least once in a normal tab first, so
+this browser's cookies already carry a valid session — the button below opens
+background tabs and can't solve a challenge itself.
+
+Click the extension icon, then "Scrape All (4 files)". It opens each of these
+in a background tab, waits for it to load, scrapes it, and closes it:
+
+- `chart/top/` → `top250movies.json`
+- `chart/toptv/` → `top250series.json`
+- `chart/boxoffice/` → `boxoffice.json`
+- `calendar/?type=MOVIE` + `calendar/?type=TV` → merged into `upcoming.json`
+
+Whichever succeed are silently downloaded (no per-file save dialog) into your
+browser's default Downloads folder using the exact repo filenames. If any page
+still shows the human-verification challenge, that one file is skipped and the
+status log tells you which — solve it manually and re-run, or use the
+single-page flow above for just that one.
+
+Move the downloaded files into the repo root, then `git add` / commit / push
+to update the data — nothing here touches git for you.
+
 ## Notes
 
-- Output shape matches the existing scrapers exactly: `{ rank, title, year, rate, url, image, id }`.
-- If the button reports a wrong-page or challenge error, re-check the tab and retry.
+- Output shape matches the existing scrapers exactly (e.g. movies/series:
+  `{ rank, title, year, rate, url, image, id }`).
+- If a button reports a wrong-page or challenge error, re-check the tab and retry.
