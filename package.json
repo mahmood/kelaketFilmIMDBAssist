@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "update": "node movies.js && node series.js",
+    "update": "node movies.js && node series.js && node boxoffice.js && node upcoming.js",
     "movies": "node movies.js",
-    "series": " node series.js"
+    "series": "node series.js",
+    "boxoffice": "node boxoffice.js",
+    "upcoming": "node upcoming.js"
   },
   "repository": {
     "type": "git",
