@@ -1,12 +1,27 @@
 {
   "manifest_version": 3,
   "name": "IMDb Top250 Manual Scraper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scrapes IMDb's Top 250 Movies/TV charts, box office, and upcoming calendars from your own browser and exports JSON matching this repo's data files. Use when the automated Playwright scraper gets blocked by IMDb's WAF challenge.",
   "action": {
     "default_popup": "popup.html",
-    "default_title": "IMDb Top250 Scraper"
+    "default_title": "IMDb Top250 Scraper",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
   },
-  "permissions": ["activeTab", "scripting", "downloads", "tabs"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting", "downloads", "tabs", "storage"],
   "host_permissions": ["https://www.imdb.com/*"]
 }

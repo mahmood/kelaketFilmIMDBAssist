@@ -3,24 +3,62 @@
 <head>
 <meta charset="utf-8">
 <style>
-  body { font-family: -apple-system, Arial, sans-serif; width: 320px; padding: 12px; }
-  h1 { font-size: 14px; margin: 0 0 8px; }
-  p { font-size: 12px; color: #555; margin: 4px 0 10px; }
-  code { background: #eee; padding: 1px 4px; border-radius: 3px; }
-  button { width: 100%; padding: 8px; font-size: 13px; cursor: pointer; margin-bottom: 8px; }
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    width: 340px; margin: 0; padding: 14px;
+    background: #fff; color: #1f2937;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { background: #12203b; color: #e5e7eb; }
+    #status { background: #0b1526; border-color: #24344f; }
+    code { background: #1c2b45; }
+    .btn-secondary { background: #1c2b45; color: #e5e7eb; }
+    hr { border-top-color: #24344f; }
+  }
+  header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+  header img { width: 28px; height: 28px; }
+  h1 { font-size: 14px; margin: 0; }
+  .row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+  .badge { font-size: 10px; padding: 2px 8px; border-radius: 999px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
+  .badge.idle { background: #e5e7eb; color: #374151; }
+  .badge.running { background: #fde68a; color: #92400e; }
+  .badge.done { background: #bbf7d0; color: #166534; }
+  .badge.error { background: #fecaca; color: #991b1b; }
+  p { font-size: 12px; color: #6b7280; margin: 4px 0 10px; line-height: 1.4; }
+  code { background: #f3f4f6; padding: 1px 4px; border-radius: 3px; }
+  button { width: 100%; padding: 9px; font-size: 13px; cursor: pointer; margin-bottom: 8px; border: none; border-radius: 6px; font-weight: 600; }
   button:disabled { opacity: 0.5; cursor: not-allowed; }
-  #status { font-size: 12px; white-space: pre-wrap; min-height: 60px; max-height: 200px; overflow-y: auto; background: #f4f4f4; border-radius: 4px; padding: 8px; }
-  .warn { color: #b45309; }
+  .btn-primary { background: #12203b; color: #f5c518; }
+  .btn-secondary { background: #f3f4f6; color: #1f2937; }
+  hr { border: none; border-top: 1px solid #e5e7eb; margin: 12px 0; }
+  #status {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px;
+    white-space: pre-wrap; min-height: 60px; max-height: 200px; overflow-y: auto;
+    background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 6px; padding: 8px;
+  }
+  .link-btn { background: none; border: none; color: #6b7280; font-size: 11px; text-decoration: underline; cursor: pointer; padding: 0; width: auto; margin: 0; }
 </style>
 </head>
 <body>
-  <h1>IMDb Top250 Scraper</h1>
-  <p>Open <code>imdb.com/chart/top</code> or <code>imdb.com/chart/toptv</code> in this tab first. If IMDb shows a "Human Verification" page, solve it yourself in the tab, then click Scrape.</p>
-  <button id="scrapeBtn">Scrape This Page</button>
+  <header>
+    <img src="icons/icon32.png" alt="">
+    <h1>IMDb Top250 Scraper</h1>
+  </header>
+
+  <div class="row">
+    <span id="badge" class="badge idle">Idle</span>
+    <button id="resetBtn" class="link-btn">Clear</button>
+  </div>
+
+  <p>Open <code>imdb.com/chart/top</code> or <code>imdb.com/chart/toptv</code> in this tab, solve any "Human Verification" page yourself, then scrape it.</p>
+  <button id="scrapeBtn" class="btn-secondary">Scrape This Page</button>
+
   <hr>
-  <p>Or scrape everything at once (movies, series, box office, upcoming) in background tabs. Solve the IMDb human-verification page in a normal tab at least once first so this browser already has a valid session.</p>
-  <button id="scrapeAllBtn">Scrape All (4 files)</button>
-  <p class="warn">Keep this popup open until it finishes (can take a few minutes).</p>
+
+  <p>Or scrape everything at once (movies, series, box office, upcoming) in background tabs. This keeps running even if you close this popup — reopen it any time to check progress.</p>
+  <button id="scrapeAllBtn" class="btn-primary">Scrape All (4 files)</button>
+
   <div id="status">Idle.</div>
   <script src="popup.js"></script>
 </body>
