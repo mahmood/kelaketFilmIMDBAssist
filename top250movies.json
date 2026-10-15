@@ -108,22 +108,22 @@
     "year": "1994"
   },
   {
-    "id": "tt0137523",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 13,
-    "rate": 8.8,
-    "title": "Fight Club",
-    "url": "https://www.imdb.com/title/tt0137523/",
-    "year": "1999"
-  },
-  {
     "id": "tt1375666",
     "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX500.jpg",
-    "rank": 14,
+    "rank": 13,
     "rate": 8.8,
     "title": "Inception",
     "url": "https://www.imdb.com/title/tt1375666/",
     "year": "2010"
+  },
+  {
+    "id": "tt0137523",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 14,
+    "rate": 8.8,
+    "title": "Fight Club",
+    "url": "https://www.imdb.com/title/tt0137523/",
+    "year": "1999"
   },
   {
     "id": "tt0080684",
@@ -288,22 +288,22 @@
     "year": "2000"
   },
   {
-    "id": "tt6019206",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDc2YzhkODAtZmRmZS00YzcxLWJkYWEtM2ZhZjY3MmMyZmJiXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 33,
-    "rate": 8.7,
-    "title": "Kill Bill: The Whole Bloody Affair",
-    "url": "https://www.imdb.com/title/tt6019206/",
-    "year": "2004"
-  },
-  {
     "id": "tt0253474",
     "image": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 34,
+    "rank": 33,
     "rate": 8.5,
     "title": "The Pianist",
     "url": "https://www.imdb.com/title/tt0253474/",
     "year": "2002"
+  },
+  {
+    "id": "tt6019206",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDc2YzhkODAtZmRmZS00YzcxLWJkYWEtM2ZhZjY3MmMyZmJiXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 34,
+    "rate": 8.7,
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "url": "https://www.imdb.com/title/tt6019206/",
+    "year": "2004"
   },
   {
     "id": "tt6751668",
@@ -333,22 +333,22 @@
     "year": "1962"
   },
   {
-    "id": "tt0054215",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 38,
-    "rate": 8.5,
-    "title": "Psycho",
-    "url": "https://www.imdb.com/title/tt0054215/",
-    "year": "1960"
-  },
-  {
     "id": "tt0110357",
     "image": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 39,
+    "rank": 38,
     "rate": 8.5,
     "title": "The Lion King",
     "url": "https://www.imdb.com/title/tt0110357/",
     "year": "1994"
+  },
+  {
+    "id": "tt0054215",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZhMzFiZjItODA3ZC00MmRhLWIzMGYtMmVjOWUwYTA3MTRjXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 39,
+    "rate": 8.5,
+    "title": "Psycho",
+    "url": "https://www.imdb.com/title/tt0054215/",
+    "year": "1960"
   },
   {
     "id": "tt0407887",
@@ -396,22 +396,22 @@
     "year": "2023"
   },
   {
-    "id": "tt0110413",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 45,
-    "rate": 8.5,
-    "title": "Léon: The Professional",
-    "url": "https://www.imdb.com/title/tt0110413/",
-    "year": "1994"
-  },
-  {
     "id": "tt0095765",
     "image": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 46,
+    "rank": 45,
     "rate": 8.5,
     "title": "Cinema Paradiso",
     "url": "https://www.imdb.com/title/tt0095765/",
     "year": "1988"
+  },
+  {
+    "id": "tt0110413",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 46,
+    "rate": 8.5,
+    "title": "Léon: The Professional",
+    "url": "https://www.imdb.com/title/tt0110413/",
+    "year": "1994"
   },
   {
     "id": "tt0034583",
@@ -540,18 +540,9 @@
     "year": "2024"
   },
   {
-    "id": "tt33764258",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 61,
-    "rate": 8.4,
-    "title": "The Odyssey",
-    "url": "https://www.imdb.com/title/tt33764258/",
-    "year": "2026"
-  },
-  {
     "id": "tt0082971",
     "image": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 62,
+    "rank": 61,
     "rate": 8.4,
     "title": "Raiders of the Lost Ark",
     "url": "https://www.imdb.com/title/tt0082971/",
@@ -560,11 +551,20 @@
   {
     "id": "tt4633694",
     "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX500.jpg",
-    "rank": 63,
+    "rank": 62,
     "rate": 8.4,
     "title": "Spider-Man: Into the Spider-Verse",
     "url": "https://www.imdb.com/title/tt4633694/",
     "year": "2018"
+  },
+  {
+    "id": "tt33764258",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 63,
+    "rate": 8.4,
+    "title": "The Odyssey",
+    "url": "https://www.imdb.com/title/tt33764258/",
+    "year": "2026"
   },
   {
     "id": "tt0405094",
@@ -622,7 +622,7 @@
   },
   {
     "id": "tt0032553",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3NmIzZjItMzNlMi00YWI0LWIzMTktMGRkMWE0ZDhiMmM5XkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 70,
     "rate": 8.4,
     "title": "The Great Dictator",
@@ -639,26 +639,26 @@
     "year": "1986"
   },
   {
-    "id": "tt23849204",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 72,
-    "rate": 8.7,
-    "title": "12th Fail",
-    "url": "https://www.imdb.com/title/tt23849204/",
-    "year": "2023"
-  },
-  {
     "id": "tt0057565",
     "image": "https://m.media-amazon.com/images/M/MV5BMGJiNzllYjktODAzNS00OGUzLTlmY2MtMjA2ZTZhYTY1OTc4XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 73,
+    "rank": 72,
     "rate": 8.4,
     "title": "High and Low",
     "url": "https://www.imdb.com/title/tt0057565/",
     "year": "1963"
   },
   {
+    "id": "tt23849204",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 73,
+    "rate": 8.7,
+    "title": "12th Fail",
+    "url": "https://www.imdb.com/title/tt23849204/",
+    "year": "2023"
+  },
+  {
     "id": "tt4154796",
-    "image": "https://m.media-amazon.com/images/M/MV5BMWEyNDM2ZmQtMmFkNi00MTQ1LTk1MjItMzdlZGJlYmIyYzZlXkEyXkFqcGc@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX500.jpg",
     "rank": 74,
     "rate": 8.4,
     "title": "Avengers: Endgame",
@@ -801,9 +801,18 @@
     "year": "1952"
   },
   {
+    "id": "tt33175825",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 90,
+    "rate": 8.9,
+    "title": "Attack on Titan: The Last Attack",
+    "url": "https://www.imdb.com/title/tt33175825/",
+    "year": "2024"
+  },
+  {
     "id": "tt0087843",
     "image": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 90,
+    "rank": 91,
     "rate": 8.3,
     "title": "Once Upon a Time in America",
     "url": "https://www.imdb.com/title/tt0087843/",
@@ -812,7 +821,7 @@
   {
     "id": "tt7286456",
     "image": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 91,
+    "rank": 92,
     "rate": 8.3,
     "title": "Joker",
     "url": "https://www.imdb.com/title/tt7286456/",
@@ -821,7 +830,7 @@
   {
     "id": "tt0435761",
     "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UX500.jpg",
-    "rank": 92,
+    "rank": 93,
     "rate": 8.3,
     "title": "Toy Story 3",
     "url": "https://www.imdb.com/title/tt0435761/",
@@ -830,20 +839,11 @@
   {
     "id": "tt0086190",
     "image": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 93,
+    "rank": 94,
     "rate": 8.3,
     "title": "Star Wars: Episode VI - Return of the Jedi",
     "url": "https://www.imdb.com/title/tt0086190/",
     "year": "1983"
-  },
-  {
-    "id": "tt33175825",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzVjOWEwYjEtNDJhOC00YjUyLThjMWItMDQwZGY1ODM4YzI3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 94,
-    "rate": 8.9,
-    "title": "Attack on Titan: The Last Attack",
-    "url": "https://www.imdb.com/title/tt33175825/",
-    "year": "2024"
   },
   {
     "id": "tt0091251",
@@ -990,22 +990,22 @@
     "year": "1959"
   },
   {
-    "id": "tt31514146",
-    "image": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 111,
-    "rate": 8.3,
-    "title": "I Swear",
-    "url": "https://www.imdb.com/title/tt31514146/",
-    "year": "2025"
-  },
-  {
     "id": "tt0093058",
     "image": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 112,
+    "rank": 111,
     "rate": 8.2,
     "title": "Full Metal Jacket",
     "url": "https://www.imdb.com/title/tt0093058/",
     "year": "1987"
+  },
+  {
+    "id": "tt31514146",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQxYTMyZTktZDg5Yi00Y2YwLWI4YzQtMjkyYmYxNmFjYThmXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 112,
+    "rate": 8.3,
+    "title": "I Swear",
+    "url": "https://www.imdb.com/title/tt31514146/",
+    "year": "2025"
   },
   {
     "id": "tt1832382",
@@ -1027,7 +1027,7 @@
   },
   {
     "id": "tt0022100",
-    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWE0NDIxZTktMDg2Yi00NjA5LTlhMzMtZjViOTNkODhjNjZjXkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 115,
     "rate": 8.3,
     "title": "M",
@@ -1044,40 +1044,40 @@
     "year": "2001"
   },
   {
-    "id": "tt0052357",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 117,
-    "rate": 8.2,
-    "title": "Vertigo",
-    "url": "https://www.imdb.com/title/tt0052357/",
-    "year": "1958"
-  },
-  {
     "id": "tt0056592",
     "image": "https://m.media-amazon.com/images/M/MV5BZTlkYWU4MGEtZmQyYi00OWEzLTgzY2EtYzVjOTEzYzAyNTk1XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 118,
+    "rank": 117,
     "rate": 8.2,
     "title": "To Kill a Mockingbird",
     "url": "https://www.imdb.com/title/tt0056592/",
     "year": "1962"
   },
   {
-    "id": "tt0033467",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 119,
-    "rate": 8.2,
-    "title": "Citizen Kane",
-    "url": "https://www.imdb.com/title/tt0033467/",
-    "year": "1941"
-  },
-  {
     "id": "tt0097576",
     "image": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 120,
+    "rank": 118,
     "rate": 8.2,
     "title": "Indiana Jones and the Last Crusade",
     "url": "https://www.imdb.com/title/tt0097576/",
     "year": "1989"
+  },
+  {
+    "id": "tt0052357",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzEyZTUxMWItMGVhYy00Y2NlLTljYTMtYzBmMzI1YmUyMDBkXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 119,
+    "rate": 8.2,
+    "title": "Vertigo",
+    "url": "https://www.imdb.com/title/tt0052357/",
+    "year": "1958"
+  },
+  {
+    "id": "tt0033467",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjk1ZDJlMmUtOWQ0Zi00MDM5LTk1OGYtODczNjFmMGYwZGVkXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 120,
+    "rate": 8.2,
+    "title": "Citizen Kane",
+    "url": "https://www.imdb.com/title/tt0033467/",
+    "year": "1941"
   },
   {
     "id": "tt0070735",
@@ -1107,13 +1107,13 @@
     "year": "1927"
   },
   {
-    "id": "tt8579674",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0120382",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 124,
     "rate": 8.2,
-    "title": "1917",
-    "url": "https://www.imdb.com/title/tt8579674/",
-    "year": "2019"
+    "title": "The Truman Show",
+    "url": "https://www.imdb.com/title/tt0120382/",
+    "year": "1998"
   },
   {
     "id": "tt0993846",
@@ -1125,13 +1125,13 @@
     "year": "2013"
   },
   {
-    "id": "tt0120382",
-    "image": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt8579674",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 126,
     "rate": 8.2,
-    "title": "The Truman Show",
-    "url": "https://www.imdb.com/title/tt0120382/",
-    "year": "1998"
+    "title": "1917",
+    "url": "https://www.imdb.com/title/tt8579674/",
+    "year": "2019"
   },
   {
     "id": "tt0208092",
@@ -1188,22 +1188,22 @@
     "year": "2016"
   },
   {
-    "id": "tt0058625",
-    "image": "https://m.media-amazon.com/images/M/MV5BM2E1ZjY5MjItZTUxZS00NTI1LWEwMmEtODhlMDAyMzUyOTRmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 133,
-    "rate": 8.4,
-    "title": "Woman in the Dunes",
-    "url": "https://www.imdb.com/title/tt0058625/",
-    "year": "1964"
-  },
-  {
     "id": "tt0040522",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIzMzAyMzg1Nl5BMl5BanBnXkFtZTgwMzMyNzk0MTE@._V1_UX500.jpg",
-    "rank": 134,
+    "rank": 133,
     "rate": 8.2,
     "title": "Bicycle Thieves",
     "url": "https://www.imdb.com/title/tt0040522/",
     "year": "1948"
+  },
+  {
+    "id": "tt0058625",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2E1ZjY5MjItZTUxZS00NTI1LWEwMmEtODhlMDAyMzUyOTRmXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 134,
+    "rate": 8.4,
+    "title": "Woman in the Dunes",
+    "url": "https://www.imdb.com/title/tt0058625/",
+    "year": "1964"
   },
   {
     "id": "tt0055031",
@@ -1296,22 +1296,22 @@
     "year": "2020"
   },
   {
-    "id": "tt0012349",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 145,
-    "rate": 8.2,
-    "title": "The Kid",
-    "url": "https://www.imdb.com/title/tt0012349/",
-    "year": "1921"
-  },
-  {
     "id": "tt0167404",
     "image": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 146,
+    "rank": 145,
     "rate": 8.2,
     "title": "The Sixth Sense",
     "url": "https://www.imdb.com/title/tt0167404/",
     "year": "1999"
+  },
+  {
+    "id": "tt0012349",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjkxMzY1NTQtN2YwOS00NmIwLTlkNTMtMjNkMzk1ZTk3ZDU2XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 146,
+    "rate": 8.2,
+    "title": "The Kid",
+    "url": "https://www.imdb.com/title/tt0012349/",
+    "year": "1921"
   },
   {
     "id": "tt0042192",
@@ -1332,22 +1332,22 @@
     "year": "1985"
   },
   {
-    "id": "tt0112641",
-    "image": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 149,
-    "rate": 8.2,
-    "title": "Casino",
-    "url": "https://www.imdb.com/title/tt0112641/",
-    "year": "1995"
-  },
-  {
     "id": "tt0084787",
     "image": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 150,
+    "rank": 149,
     "rate": 8.2,
     "title": "The Thing",
     "url": "https://www.imdb.com/title/tt0084787/",
     "year": "1982"
+  },
+  {
+    "id": "tt0112641",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 150,
+    "rate": 8.2,
+    "title": "Casino",
+    "url": "https://www.imdb.com/title/tt0112641/",
+    "year": "1995"
   },
   {
     "id": "tt0477348",
@@ -1422,27 +1422,9 @@
     "year": "2004"
   },
   {
-    "id": "tt32820897",
-    "image": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 159,
-    "rate": 8.4,
-    "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
-    "url": "https://www.imdb.com/title/tt32820897/",
-    "year": "2025"
-  },
-  {
-    "id": "tt12042730",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 160,
-    "rate": 8.2,
-    "title": "Project Hail Mary",
-    "url": "https://www.imdb.com/title/tt12042730/",
-    "year": "2026"
-  },
-  {
     "id": "tt0040897",
     "image": "https://m.media-amazon.com/images/M/MV5BOWM1YjFmODEtMWNhMC00YmI1LWI0Y2EtYzg0YTBhZWI4ODE3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 161,
+    "rank": 159,
     "rate": 8.2,
     "title": "The Treasure of the Sierra Madre",
     "url": "https://www.imdb.com/title/tt0040897/",
@@ -1451,7 +1433,7 @@
   {
     "id": "tt0266543",
     "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_UX500.jpg",
-    "rank": 162,
+    "rank": 160,
     "rate": 8.2,
     "title": "Finding Nemo",
     "url": "https://www.imdb.com/title/tt0266543/",
@@ -1460,15 +1442,33 @@
   {
     "id": "tt4729430",
     "image": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 163,
+    "rank": 161,
     "rate": 8.2,
     "title": "Klaus",
     "url": "https://www.imdb.com/title/tt4729430/",
     "year": "2019"
   },
   {
+    "id": "tt12042730",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkwNzJiYTctNzI3NC00NjE1LTlhYjktY2Q5MTdmMWFmNzcxXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 162,
+    "rate": 8.2,
+    "title": "Project Hail Mary",
+    "url": "https://www.imdb.com/title/tt12042730/",
+    "year": "2026"
+  },
+  {
+    "id": "tt32820897",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 163,
+    "rate": 8.3,
+    "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
+    "url": "https://www.imdb.com/title/tt32820897/",
+    "year": "2025"
+  },
+  {
     "id": "tt0055630",
-    "image": "https://m.media-amazon.com/images/M/MV5BYTcyMjA2NTktZGEyZC00ZDY0LWJkNmQtMzI5ZTQzNWQxMmZlXkEyXkFqcGc@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFkODA1N2QtY2UyMC00NTMwLWEyNzctMmE3YjIzNzE1MzY4XkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 164,
     "rate": 8.2,
     "title": "Yojimbo",
@@ -1539,22 +1539,22 @@
     "year": "1998"
   },
   {
-    "id": "tt0071315",
-    "image": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 172,
-    "rate": 8.1,
-    "title": "Chinatown",
-    "url": "https://www.imdb.com/title/tt0071315/",
-    "year": "1974"
-  },
-  {
     "id": "tt0264464",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX500.jpg",
-    "rank": 173,
+    "rank": 172,
     "rate": 8.1,
     "title": "Catch Me If You Can",
     "url": "https://www.imdb.com/title/tt0264464/",
     "year": "2002"
+  },
+  {
+    "id": "tt0071315",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmRmZTE0NmUtZjhiZi00MzQ3LTk3ZjctN2Q3ODYzY2U3MDk3XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 173,
+    "rate": 8.1,
+    "title": "Chinatown",
+    "url": "https://www.imdb.com/title/tt0071315/",
+    "year": "1974"
   },
   {
     "id": "tt0434409",
@@ -1575,22 +1575,22 @@
     "year": "1989"
   },
   {
-    "id": "tt0346336",
-    "image": "https://m.media-amazon.com/images/M/MV5BYzcxMTE2YjUtMzIyMy00NDNjLWE3ZWYtODQzYmNhNDVhNDZmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 176,
-    "rate": 8.4,
-    "title": "The Best of Youth",
-    "url": "https://www.imdb.com/title/tt0346336/",
-    "year": "2003"
-  },
-  {
     "id": "tt2096673",
     "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX500.jpg",
-    "rank": 177,
+    "rank": 176,
     "rate": 8.1,
     "title": "Inside Out",
     "url": "https://www.imdb.com/title/tt2096673/",
     "year": "2015"
+  },
+  {
+    "id": "tt0346336",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzcxMTE2YjUtMzIyMy00NDNjLWE3ZWYtODQzYmNhNDVhNDZmXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 177,
+    "rate": 8.4,
+    "title": "The Best of Youth",
+    "url": "https://www.imdb.com/title/tt0346336/",
+    "year": "2003"
   },
   {
     "id": "tt0117951",
@@ -1701,22 +1701,22 @@
     "year": "2015"
   },
   {
-    "id": "tt0116282",
-    "image": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 190,
-    "rate": 8.1,
-    "title": "Fargo",
-    "url": "https://www.imdb.com/title/tt0116282/",
-    "year": "1996"
-  },
-  {
     "id": "tt0405159",
     "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX500.jpg",
-    "rank": 191,
+    "rank": 190,
     "rate": 8.1,
     "title": "Million Dollar Baby",
     "url": "https://www.imdb.com/title/tt0405159/",
     "year": "2004"
+  },
+  {
+    "id": "tt0116282",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 191,
+    "rate": 8.1,
+    "title": "Fargo",
+    "url": "https://www.imdb.com/title/tt0116282/",
+    "year": "1996"
   },
   {
     "id": "tt0118849",
@@ -1854,22 +1854,22 @@
     "year": "1993"
   },
   {
-    "id": "tt10872600",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 207,
-    "rate": 8.1,
-    "title": "Spider-Man: No Way Home",
-    "url": "https://www.imdb.com/title/tt10872600/",
-    "year": "2021"
-  },
-  {
     "id": "tt30472557",
     "image": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 208,
+    "rank": 207,
     "rate": 8.3,
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "url": "https://www.imdb.com/title/tt30472557/",
     "year": "2025"
+  },
+  {
+    "id": "tt10872600",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 208,
+    "rate": 8.1,
+    "title": "Spider-Man: No Way Home",
+    "url": "https://www.imdb.com/title/tt10872600/",
+    "year": "2021"
   },
   {
     "id": "tt3011894",
@@ -1881,40 +1881,40 @@
     "year": "2014"
   },
   {
-    "id": "tt0015864",
-    "image": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 210,
-    "rate": 8.1,
-    "title": "The Gold Rush",
-    "url": "https://www.imdb.com/title/tt0015864/",
-    "year": "1925"
-  },
-  {
     "id": "tt5323662",
     "image": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 211,
+    "rank": 210,
     "rate": 8.2,
     "title": "A Silent Voice: The Movie",
     "url": "https://www.imdb.com/title/tt5323662/",
     "year": "2016"
   },
   {
-    "id": "tt0015324",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 212,
+    "id": "tt0015864",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU1NjYzYTAtZmY0YS00NWIzLTkzNzUtYzc2ZTIyOTIxZjVhXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 211,
     "rate": 8.1,
-    "title": "Sherlock Jr.",
-    "url": "https://www.imdb.com/title/tt0015324/",
-    "year": "1924"
+    "title": "The Gold Rush",
+    "url": "https://www.imdb.com/title/tt0015864/",
+    "year": "1925"
   },
   {
     "id": "tt0978762",
     "image": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 213,
+    "rank": 212,
     "rate": 8.1,
     "title": "Mary and Max",
     "url": "https://www.imdb.com/title/tt0978762/",
     "year": "2009"
+  },
+  {
+    "id": "tt0015324",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQzM2E2NjYtYmRjMC00ZmVlLTljZTgtNmQ5MGZlNDYyZTc5XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 213,
+    "rate": 8.1,
+    "title": "Sherlock Jr.",
+    "url": "https://www.imdb.com/title/tt0015324/",
+    "year": "1924"
   },
   {
     "id": "tt0077416",
@@ -1944,22 +1944,22 @@
     "year": "2017"
   },
   {
-    "id": "tt0075148",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 217,
-    "rate": 8.1,
-    "title": "Rocky",
-    "url": "https://www.imdb.com/title/tt0075148/",
-    "year": "1976"
-  },
-  {
     "id": "tt0325980",
     "image": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 218,
+    "rank": 217,
     "rate": 8.1,
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "url": "https://www.imdb.com/title/tt0325980/",
     "year": "2003"
+  },
+  {
+    "id": "tt0075148",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDEyY2M2MGMtYjg5OC00ZWFjLWFkZDQtNmQzZTdiYmYzZTBkXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 218,
+    "rate": 8.1,
+    "title": "Rocky",
+    "url": "https://www.imdb.com/title/tt0075148/",
+    "year": "1976"
   },
   {
     "id": "tt0017925",
@@ -1998,9 +1998,27 @@
     "year": "1995"
   },
   {
+    "id": "tt26548265",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 223,
+    "rate": 8.3,
+    "title": "Maharaja",
+    "url": "https://www.imdb.com/title/tt26548265/",
+    "year": "2024"
+  },
+  {
+    "id": "tt0059742",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 224,
+    "rate": 8.1,
+    "title": "The Sound of Music",
+    "url": "https://www.imdb.com/title/tt0059742/",
+    "year": "1965"
+  },
+  {
     "id": "tt1895587",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX500.jpg",
-    "rank": 223,
+    "rank": 225,
     "rate": 8.1,
     "title": "Spotlight",
     "url": "https://www.imdb.com/title/tt1895587/",
@@ -2009,29 +2027,11 @@
   {
     "id": "tt15097216",
     "image": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 224,
+    "rank": 226,
     "rate": 8.6,
     "title": "Jai Bhim",
     "url": "https://www.imdb.com/title/tt15097216/",
     "year": "2021"
-  },
-  {
-    "id": "tt0059742",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 225,
-    "rate": 8.1,
-    "title": "The Sound of Music",
-    "url": "https://www.imdb.com/title/tt0059742/",
-    "year": "1965"
-  },
-  {
-    "id": "tt26548265",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 226,
-    "rate": 8.3,
-    "title": "Maharaja",
-    "url": "https://www.imdb.com/title/tt26548265/",
-    "year": "2024"
   },
   {
     "id": "tt0088247",
@@ -2044,7 +2044,7 @@
   },
   {
     "id": "tt0050986",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWQ5MDllM2EtZWRmNS00MmZiLWI4ZWQtMjRiY2Q5MTAxODY4XkEyXkFqcGc@._V1_UX500.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWNiMjQ1M2YtZjQyMi00MmY5LTk3OGUtZDhiMjUxZmJjODE2XkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 228,
     "rate": 8.1,
     "title": "Wild Strawberries",
@@ -2115,72 +2115,63 @@
     "year": "2004"
   },
   {
-    "id": "tt3170832",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX500.jpg",
-    "rank": 236,
-    "rate": 8.1,
-    "title": "Room",
-    "url": "https://www.imdb.com/title/tt3170832/",
-    "year": "2015"
-  },
-  {
     "id": "tt0070047",
     "image": "https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 237,
+    "rank": 236,
     "rate": 8.1,
     "title": "The Exorcist",
     "url": "https://www.imdb.com/title/tt0070047/",
     "year": "1973"
   },
   {
-    "id": "tt0395169",
-    "image": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 238,
-    "rate": 8.1,
-    "title": "Hotel Rwanda",
-    "url": "https://www.imdb.com/title/tt0395169/",
-    "year": "2004"
-  },
-  {
     "id": "tt0129167",
     "image": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 239,
+    "rank": 237,
     "rate": 8.1,
     "title": "The Iron Giant",
     "url": "https://www.imdb.com/title/tt0129167/",
     "year": "1999"
   },
   {
-    "id": "tt0050976",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 240,
+    "id": "tt3170832",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX500.jpg",
+    "rank": 238,
     "rate": 8.1,
-    "title": "The Seventh Seal",
-    "url": "https://www.imdb.com/title/tt0050976/",
-    "year": "1957"
+    "title": "Room",
+    "url": "https://www.imdb.com/title/tt3170832/",
+    "year": "2015"
+  },
+  {
+    "id": "tt0395169",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 239,
+    "rate": 8.1,
+    "title": "Hotel Rwanda",
+    "url": "https://www.imdb.com/title/tt0395169/",
+    "year": "2004"
   },
   {
     "id": "tt0091763",
     "image": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 241,
+    "rank": 240,
     "rate": 8,
     "title": "Platoon",
     "url": "https://www.imdb.com/title/tt0091763/",
     "year": "1986"
   },
   {
-    "id": "tt0252488",
-    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 242,
-    "rate": 8.4,
-    "title": "The Chaos Class Failed the Class",
-    "url": "https://www.imdb.com/title/tt0252488/",
-    "year": "1975"
+    "id": "tt0050976",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDlmYTkzOWUtODQ0MS00MmM4LWE3ZjMtYTEwNGUwMmJkYzIxXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 241,
+    "rate": 8.1,
+    "title": "The Seventh Seal",
+    "url": "https://www.imdb.com/title/tt0050976/",
+    "year": "1957"
   },
   {
     "id": "tt1979320",
     "image": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 243,
+    "rank": 242,
     "rate": 8.1,
     "title": "Rush",
     "url": "https://www.imdb.com/title/tt1979320/",
@@ -2189,11 +2180,20 @@
   {
     "id": "tt0092005",
     "image": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 244,
+    "rank": 243,
     "rate": 8.1,
     "title": "Stand by Me",
     "url": "https://www.imdb.com/title/tt0092005/",
     "year": "1986"
+  },
+  {
+    "id": "tt0058946",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 244,
+    "rate": 8.1,
+    "title": "The Battle of Algiers",
+    "url": "https://www.imdb.com/title/tt0058946/",
+    "year": "1966"
   },
   {
     "id": "tt0032138",
@@ -2205,18 +2205,9 @@
     "year": "1939"
   },
   {
-    "id": "tt0058946",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk0OGEtYTM3Yy00ZWZiLWFhNjAtNGExMjEzNGVmMDMxXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 246,
-    "rate": 8.1,
-    "title": "The Battle of Algiers",
-    "url": "https://www.imdb.com/title/tt0058946/",
-    "year": "1966"
-  },
-  {
     "id": "tt0476735",
     "image": "https://m.media-amazon.com/images/M/MV5BZDE3MTBkNmQtNGFjMC00YTcwLWExY2ItN2MyMGZkNWJlMmFmXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 247,
+    "rank": 246,
     "rate": 8.2,
     "title": "My Father and My Son",
     "url": "https://www.imdb.com/title/tt0476735/",
@@ -2225,28 +2216,37 @@
   {
     "id": "tt0019254",
     "image": "https://m.media-amazon.com/images/M/MV5BNTE1MDliZjgtYTU2Yy00YjAxLTljYTItNDE2ZGYwYTY1MGQ1XkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 248,
+    "rank": 247,
     "rate": 8.1,
     "title": "The Passion of Joan of Arc",
     "url": "https://www.imdb.com/title/tt0019254/",
     "year": "1928"
   },
   {
-    "id": "tt0077711",
-    "image": "https://m.media-amazon.com/images/M/MV5BNTg1MzJiNTYtZjcyNS00NDE5LWE0N2ItMGIxM2Y2ZDMyYjJjXkEyXkFqcGc@._V1_UX500.jpg",
-    "rank": 249,
-    "rate": 8.1,
-    "title": "Autumn Sonata",
-    "url": "https://www.imdb.com/title/tt0077711/",
-    "year": "1978"
+    "id": "tt4430212",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjMzZTU0NzUtZGQ0MC00Y2M4LWI5ZDUtZjY1YmNjMjNmNmI3XkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 248,
+    "rate": 8.2,
+    "title": "Drishyam",
+    "url": "https://www.imdb.com/title/tt4430212/",
+    "year": "2015"
   },
   {
-    "id": "tt10431500",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTEyZTQ4YWItMzNkNi00MTUwLWEyODAtMWI3NDNhNDRiYmQwXkEyXkFqcGc@._V1_UX500.jpg",
+    "id": "tt0252488",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY3MjVhMmQtOTcwYy00ZjcyLWFiZDgtN2JiODVjNjQzYWQyXkEyXkFqcGc@._V1_UX500.jpg",
+    "rank": 249,
+    "rate": 8.3,
+    "title": "The Chaos Class Failed the Class",
+    "url": "https://www.imdb.com/title/tt0252488/",
+    "year": "1975"
+  },
+  {
+    "id": "tt8108198",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc5OWIzOTgtMmM2ZS00ZjZhLTkyZWItMTFjYTc0NWQ4NzhkXkEyXkFqcGc@._V1_UX500.jpg",
     "rank": 250,
     "rate": 8.2,
-    "title": "Miracle in Cell No. 7",
-    "url": "https://www.imdb.com/title/tt10431500/",
-    "year": "2019"
+    "title": "Andhadhun",
+    "url": "https://www.imdb.com/title/tt8108198/",
+    "year": "2018"
   }
 ]
